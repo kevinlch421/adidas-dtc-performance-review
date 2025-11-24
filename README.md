@@ -5,15 +5,13 @@
 - [Project Background](#project-background)
 - [About the Dataset](#about-the-dataset)
 - [Executive Summary](#executive-summary)
-  - [Key Insights](#key-insights)
-  - [Business Impact](#business-impact)
-  - [Recommended Actions](#recommended-actions)
 - [Data-Driven Insights](#data-driven-insights)
-  - [DTC: Our Main Growth Driver](#dtc-our-main-growth-driver)
-  - [Wholesale: Solid Reach, But Slower and Less Profitable](#wholesale-solid-reach-but-slower-and-less-profitable)
-  - [Strong Brand Appeal in Women's Categories](#strong-brand-appeal-in-womens-categories)
+  - [DTC: Adidas' Main Growth Driver in 2021](#dtc-our-main-growth-driver)
+  - [Wholesale: Solid Reach, But Slower and Less Profitable in 2021](#wholesale-solid-reach-but-slower-and-less-profitable)
+  - [Customer Retention on Women's Apparel in 2021](#strong-brand-appeal-in-womens-categories)
 - [Recommendations](#recommendations)
 - [Limitations & Next-Level Data Needs](#limitations--next-level-data-needs)
+- [Conclusion](#conclusion)
 
 ## Project Background
 In the sportswear industry, brands like Adidas have long depended on **wholesale—selling** large quantities to retailers like Foot Locker for broad market coverage. This approach offers good reach and steady sales, but it **limits their control over pricing and brand presentation**.
@@ -55,7 +53,7 @@ To optimize for efficiency, the data was restructured into a **star schema** wit
 <img width="1055" height="211" alt="螢幕截圖 2025-11-24 下午8 42 36" src="https://github.com/user-attachments/assets/5dd98330-52e5-4e19-bc4a-892272850842" />
 
   
-### Customer Retension on Women's Apparel in 2021
+### Customer Retention on Women's Apparel in 2021
 - The "Own the Game" strategy has not created brand heat, but instead capitalized on what already exists. This is most evident in women's apparel, which is the top-performing category in both DTC and wholesale channels across 2020 and 2021.
 - The consistent, high demand across all retail formats confirms that adidas holds a dominant position in the US women's market. In other words, women love adidas, no matter where they shop.
 
