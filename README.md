@@ -44,6 +44,7 @@ To optimize for efficiency, the data was restructured into a **star schema** wit
 - This trend indicates that the "Own the Game" strategy is resonating with consumers, who are increasingly choosing to shop directly from adidas.
 
 <img width="1058" height="215" alt="螢幕截圖 2025-11-24 下午8 28 25" src="https://github.com/user-attachments/assets/c62577e8-56f9-4b8c-b5ce-bb746b94ee4f" />
+<img width="10324" height="4261" alt="insight 1" src="https://github.com/user-attachments/assets/0afd7e64-4a60-4f63-b5d7-72f1afb32208" />
 
 ### Wholesale: Solid Reach, But Slower and Less Profitable in 2021
 - Adidas also sells to other stores on the wholesale channel. This channel is stable, but its growth is slow.
