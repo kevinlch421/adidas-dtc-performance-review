@@ -45,20 +45,19 @@ To optimize for efficiency, the data was restructured into a **star schema** wit
 
 <img width="10338" height="4061" alt="insight-1" src="https://github.com/user-attachments/assets/ac17cdd4-cd5c-4b14-88a2-3d63c7068cc3" />
 
-
 ### Wholesale: Solid Reach, But Slower and Less Profitable in 2021
 - Adidas also sells to other stores on the wholesale channel. This channel is stable, but its growth is slow.
 - The data shows a key problem that even though wholesale handles a similar number of orders as DTC, it brings in $15 million less revenue (40M vs 55M). This happens because Adidas has to sell its products to other stores at a lower price.
 - This indicates that wholesale is good for reaching customers everywhere, but it is simply not as profitable as selling directly to them. The primary reason is that selling to retailers requires offering substantial trade discounts that reduce margins.
 
-<img width="1920" height="1080" alt="insight-2" src="https://github.com/user-attachments/assets/ca2d9111-b9e5-4147-bdb9-92dc42ff136c" />
+<img width="1892" height="769" alt="insight-2" src="https://github.com/user-attachments/assets/7345ea09-4ee0-4d71-a6a7-56a5e9f01e52" />
 
-  
 ### Customer Retention on Women's Apparel in 2021
+
 - The "Own the Game" strategy has not created brand heat, but instead capitalized on what already exists. This is most evident in women's apparel, which is the top-performing category in both DTC and wholesale channels across 2020 and 2021.
 - The consistent, high demand across all retail formats confirms that adidas holds a dominant position in the US women's market. In other words, women love adidas, no matter where they shop.
 
-<img width="736" height="223" alt="螢幕截圖 2025-11-24 下午8 59 57" src="https://github.com/user-attachments/assets/a80235ae-f9bd-47e0-8441-7b6ddaeb9efe" />
+<img width="10338" height="4061" alt="insight-3" src="https://github.com/user-attachments/assets/2b0166c3-a67d-4c50-b087-2196c72c72f6" />
 
 ## Recommendations
 From the 2020–2022 data, focus on these four actionable steps:
