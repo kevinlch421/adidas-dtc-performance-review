@@ -18,34 +18,27 @@
 ## Project Background
 In the sportswear industry, brands like Adidas have long depended on **wholesale—selling** large quantities to retailers like Foot Locker for broad market coverage. This approach offers good reach and steady sales, but it **limits their control over pricing and brand presentation**.
 
-To gain more control and boost profits per sale, Adidas launched the "Own the Game" strategy in 2021. The core idea is to shift more sales to Direct-to-Consumer (DTC) through our website and owned stores, **bypassing third-party retailers in the process**. However, the big question is: Do this shift paying off?
+To gain more control and boost profits per sale, Adidas launched the "Own the Game" strategy in 2021. The core idea is to shift more sales to Direct-to-Consumer (DTC) through our website and owned stores, **bypassing third-party retailers in the process**. However, the big question is: Does this shift pay off?
 
 This report provides straightforward answers using real US sales data from DTC and wholesale, covering Q1 2020 to Q4 2022. It breaks down DTC growth, compares it to wholesale, and highlights where the real profits are coming from.
 
 ## About the Dataset
 We used one clean dataset: [the adidas US Sales from Kaggle](https://www.kaggle.com/datasets/sagarmorework/adidas-us-sales) (9,641 orders, 2020–2022).  
 
-To optimize for efficiency, the data was restructured into a star schema with 7 tables (main sales fact table plus dimensions like date, product, channel, and region). This reduces memory use and speeds up analysis.  
+To optimize for efficiency, the data was restructured into a star schema with 7 tables (main sales fact table plus dimensions like date, product, channel, and region). This reduces memory use and speeds up analysis. In case you care about the SQL to build the database on MySQL, here is a quick guide on building the star schema is here (link).
 
 <img width="1602" height="893" alt="ERD-v2 drawio" src="https://github.com/user-attachments/assets/06bcddc0-f560-408e-a820-f251a2ae4f8c" />
 
-> In case you care about the SQL to build the database on MySQL, here is a quick guide on building the star schema is here (link).
-
 ## Executive Summary
 
-### Key Insights
+### Key Insights and Recommended
 - DTC is our top growth driver: +182% revenue since 2020, fueled by +21% more orders and +35% higher average order value (AOV). Prioritize DTC investments to keep this momentum.  
 - DTC generates $55M in revenue vs. wholesale's $40M, despite similar volumes—wholesale lags by $15M due to trade discounts. Clean up wholesale partnerships selectively and negotiate better terms with retailers to protect margins.  
 - Women's categories lead in both channels, showing we retain strong female customer loyalty through the shift. Keep targeting this segment to maintain our edge.
 
-### Business Impact
-DTC drives faster, more profitable growth and signals real brand appeal. Sticking with the current wholesale-heavy mix could erode margins and slow progress.
+![executeive-summary-demo](https://github.com/user-attachments/assets/3c2b5253-e938-4315-9524-726496ec61f3)
 
-### Recommended Actions
-1. Prioritize DTC for investments (e.g., website upgrades, app enhancements, store expansions).  
-2. Refine wholesale: cut ties with heavy discounters and focus on partners who uphold pricing.  
-3. Amplify Women's: roll out targeted products and campaigns DTC-first.  
-4. Monitor key metrics quarterly: DTC sales share, full-price ratio, customer repeat rates, and DTC-wholesale margin gaps.
+
 
 ## Data-Driven Insights
 
