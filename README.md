@@ -1,2 +1,101 @@
-# adidas-dtc-performance-review
-An analysis of Adidas US DTC performance, evaluating growth and profitability to guide future channel strategy.
+# adidas US Sales Channel Strategy Report
+
+## Table of Contents
+
+- [Project Background](#project-background)
+- [About the Dataset](#about-the-dataset)
+- [Executive Summary](#executive-summary)
+  - [Key Insights](#key-insights)
+  - [Business Impact](#business-impact)
+  - [Recommended Actions](#recommended-actions)
+- [Data-Driven Insights](#data-driven-insights)
+  - [DTC: Our Main Growth Driver](#dtc-our-main-growth-driver)
+  - [Wholesale: Solid Reach, But Slower and Less Profitable](#wholesale-solid-reach-but-slower-and-less-profitable)
+  - [Strong Brand Appeal in Women's Categories](#strong-brand-appeal-in-womens-categories)
+- [Recommendations](#recommendations)
+- [Limitations & Next-Level Data Needs](#limitations--next-level-data-needs)
+
+## Project Background
+In the sportswear business, brands like adidas have long depended on wholesale—selling large quantities to retailers like Foot Locker for broad market coverage. This approach offers good reach and steady sales, but it limits our control over pricing and brand presentation.
+
+To gain more control and boost profits per sale, adidas rolled out the "Own the Game" strategy in 2021. The core idea: shift more sales to Direct-to-Consumer (DTC) through our website and owned stores.
+
+The key question for us in the US: Is this shift paying off? This report provides straightforward answers using real US sales data from DTC and wholesale, covering Q1 2020 to Q4 2022. It breaks down DTC growth, compares it to wholesale, and highlights where the real profits are coming from.
+
+Download the interactive Tableau dashboard here for a hands-on view.  
+The SQL queries for data checks are available here.
+
+## About the Dataset
+We used one clean dataset: the adidas US Sales from Kaggle (9,641 orders, 2020–2022).  
+
+To optimize for efficiency, the data was restructured into a star schema with 7 tables (main sales fact table plus dimensions like date, product, channel, and region). This reduces memory use and speeds up analysis.  
+
+A quick guide on building the star schema is here (link).
+
+## Executive Summary
+
+### Key Insights
+- DTC is our top growth driver: +182% revenue since 2020, fueled by +21% more orders and +35% higher average order value (AOV). Prioritize DTC investments to keep this momentum.  
+- DTC generates $55M in revenue vs. wholesale's $40M, despite similar volumes—wholesale lags by $15M due to trade discounts. Clean up wholesale partnerships selectively and negotiate better terms with retailers to protect margins.  
+- Women's categories lead in both channels, showing we retain strong female customer loyalty through the shift. Keep targeting this segment to maintain our edge.
+
+### Business Impact
+DTC drives faster, more profitable growth and signals real brand appeal. Sticking with the current wholesale-heavy mix could erode margins and slow progress.
+
+### Recommended Actions
+1. Prioritize DTC for investments (e.g., website upgrades, app enhancements, store expansions).  
+2. Refine wholesale: cut ties with heavy discounters and focus on partners who uphold pricing.  
+3. Amplify Women's: roll out targeted products and campaigns DTC-first.  
+4. Monitor key metrics quarterly: DTC sales share, full-price ratio, customer repeat rates, and DTC-wholesale margin gaps.
+
+## Data-Driven Insights
+
+### DTC: Our Main Growth Driver
+- US DTC sales (website and owned stores) jumped 182% since 2020, making it the primary engine for expansion.  
+- Growth came from +21% more orders and +35% higher AOV (customer spend per purchase).  
+- This shows the "Own the Game" strategy is working—customers prefer buying directly from us.
+
+### Wholesale: Solid Reach, But Slower and Less Profitable
+- Wholesale involves selling bulk to retailers; it's stable but grows slowly.  
+- Despite handling similar order volumes as DTC, it delivers $15M less revenue ($40M vs. $55M) because we sell at discounted wholesale prices.  
+- It's great for broad customer access, but profits suffer from trade discounts. Focus on high-value partners to improve this.
+
+### Strong Brand Appeal in Women's Categories
+- The strategy builds on existing strengths rather than creating new ones—especially in women's apparel, the top performer in both DTC and wholesale from 2020–2021.  
+- High demand across channels proves our dominance in the US women's market: female customers stay loyal regardless of where they shop.
+
+## Recommendations
+From the 2020–2022 data, focus on these four actionable steps:
+
+1. **Push DTC as the growth focus**  
+   With 182% growth and strong customer pull, ramp up spending on our digital platforms and stores for quicker, higher-margin returns.
+
+2. **Optimize wholesale selectively**  
+   It provides visibility and volume, but low profits from discounts hurt us. Phase out poor performers and strengthen ties with those who maintain our pricing and image.
+
+3. **Leverage Women's as a key strength**  
+   Top sales in both channels show genuine demand. Launch women-specific initiatives DTC-first to drive excitement, while supplying basics to solid wholesale accounts.
+
+4. **Track smarter metrics**  
+   Move beyond total revenue. Monitor quarterly:  
+   - DTC share of sales (aim for 75–80% by 2027)  
+   - DTC full-price sales %  
+   - DTC customer repeat purchases  
+   - Margin gap between DTC and wholesale  
+
+These moves will sustain growth, safeguard profits, and enhance our US brand position.
+
+## Limitations & Next-Level Data Needs
+Our dataset excels at revenue trends but lacks depth on customer motivations and long-term sustainability.  
+
+To refine decisions, add these KPIs:
+
+| Area | KPI / Metric | Simple Explanation | Source | Current Status |
+|------|--------------|--------------------|--------|----------------|
+| Brand Health | Brand Consideration | Is adidas top-of-mind for sportswear buys? | Brand surveys (e.g., YouGov, internal) | Not tracked |
+| | Net Sentiment Score | Are online talks/reviews positive? | Social tools (e.g., Brandwatch) + reviews | Partially tracked |
+| Customer Loyalty | Repeat Purchase Frequency | How often do DTC customers return in 12 months? | CRM (e.g., Salesforce, adidas database) | Basic data exists |
+| | 12-Month Retention Rate | % of customers still buying after a year? | CRM | Not calculated |
+| | Customer Lifetime Value (CLV) | Total expected profit per customer? | CRM + finance data | Early model only |
+| Marketing Efficiency | Cost Per Acquisition (CPA) – DTC | Ad cost per new DTC customer? | Ad platforms (e.g., Google, Meta) + CRM | Tracked per platform, not consolidated |
+| | Return on Ad Spend (ROAS) – DTC | Sales return per ad dollar? | Ad platforms + sales data | Tracked per campaign, not unified |
