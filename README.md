@@ -1,4 +1,4 @@
-# adidas US Sales Channel Strategy Report
+# Adidas US Sales Channel Strategy Report
 
 ## Table of Contents
 
@@ -25,36 +25,41 @@ This report provides straightforward answers using real US sales data from DTC a
 ## About the Dataset
 We used one clean dataset: [the adidas US Sales from Kaggle](https://www.kaggle.com/datasets/sagarmorework/adidas-us-sales) (9,641 orders, 2020–2022).  
 
-To optimize for efficiency, the data was restructured into a star schema with 7 tables (main sales fact table plus dimensions like date, product, channel, and region). This reduces memory use and speeds up analysis. In case you care about the SQL to build the database on MySQL, here is a quick guide on building the star schema is here (link).
+To optimize for efficiency, the data was restructured into a **star schema** with 7 tables (main sales fact table plus dimensions like date, product, channel, and region). This reduces memory use and speeds up analysis. In case you care about the SQL to build the database on MySQL, here is a quick guide on building the star schema is here (link).
 
 <img width="1602" height="893" alt="ERD-v2 drawio" src="https://github.com/user-attachments/assets/06bcddc0-f560-408e-a820-f251a2ae4f8c" />
 
 ## Executive Summary
 
 ### Key Insights and Recommended
-- DTC is our top growth driver: +182% revenue since 2020, fueled by +21% more orders and +35% higher average order value (AOV). Prioritize DTC investments to keep this momentum.  
-- DTC generates $55M in revenue vs. wholesale's $40M, despite similar volumes—wholesale lags by $15M due to trade discounts. Clean up wholesale partnerships selectively and negotiate better terms with retailers to protect margins.  
-- Women's categories lead in both channels, showing we retain strong female customer loyalty through the shift. Keep targeting this segment to maintain our edge.
+- **DTC becomes Adidas growth driver**: +182% revenue since 2020, fueled by +21% more orders and +35% higher average order value (AOV). Adidas is suggested to prioritize DTC investments to keep this momentum.  
+- **Wholesale is still pricey**: DTC generates $55M in revenue vs. wholesale's $40M, despite similar volumes—wholesale lags by $15M due to trade discounts. Adidas is suggested to clean up wholesale partnerships selectively and negotiate better terms with retailers to protect margins.  
+- **Customer retention despite the shift**: Women's categories lead in both channels in 2021, showing we retain strong female customer loyalty through the shift. Adidas should keep targeting this segment to maintain the edge.
 
 ![executeive-summary-demo](https://github.com/user-attachments/assets/3c2b5253-e938-4315-9524-726496ec61f3)
 
-
-
 ## Data-Driven Insights
 
-### DTC: Our Main Growth Driver
-- US DTC sales (website and owned stores) jumped 182% since 2020, making it the primary engine for expansion.  
-- Growth came from +21% more orders and +35% higher AOV (customer spend per purchase).  
-- This shows the "Own the Game" strategy is working—customers prefer buying directly from us.
+### DTC: Adidas' Main Growth Driver in 2021
+- Sales through adidas's US Direct-to-Consumer (DTC) channels have surged 182% since 2020, establishing them as the company's main source of growth.
+- This performance was fueled by a significant increase in both order volume and customer spending per transaction: the number of orders grew by 21%, while the Average Order Value (AOV) increased by 35%.
+- This trend indicates that the "Own the Game" strategy is resonating with consumers, who are increasingly choosing to shop directly from adidas.
 
-### Wholesale: Solid Reach, But Slower and Less Profitable
-- Wholesale involves selling bulk to retailers; it's stable but grows slowly.  
-- Despite handling similar order volumes as DTC, it delivers $15M less revenue ($40M vs. $55M) because we sell at discounted wholesale prices.  
-- It's great for broad customer access, but profits suffer from trade discounts. Focus on high-value partners to improve this.
+<img width="1058" height="215" alt="螢幕截圖 2025-11-24 下午8 28 25" src="https://github.com/user-attachments/assets/c62577e8-56f9-4b8c-b5ce-bb746b94ee4f" />
 
-### Strong Brand Appeal in Women's Categories
-- The strategy builds on existing strengths rather than creating new ones—especially in women's apparel, the top performer in both DTC and wholesale from 2020–2021.  
-- High demand across channels proves our dominance in the US women's market: female customers stay loyal regardless of where they shop.
+### Wholesale: Solid Reach, But Slower and Less Profitable in 2021
+- Adidas also sells to other stores on the wholesale channel. This channel is stable, but its growth is slow.
+- The data shows a key problem that even though wholesale handles a similar number of orders as DTC, it brings in $15 million less revenue (40M vs 55M). This happens because Adidas has to sell its products to other stores at a lower price.
+- This indicates that wholesale is good for reaching customers everywhere, but it is simply not as profitable as selling directly to them. The primary reason is that selling to retailers requires offering substantial trade discounts that reduce margins.
+
+<img width="1055" height="211" alt="螢幕截圖 2025-11-24 下午8 42 36" src="https://github.com/user-attachments/assets/5dd98330-52e5-4e19-bc4a-892272850842" />
+
+  
+### Customer Retension on Women's Apparel in 2021
+- The "Own the Game" strategy has not created brand heat, but instead capitalized on what already exists. This is most evident in women's apparel, which is the top-performing category in both DTC and wholesale channels across 2020 and 2021.
+- The consistent, high demand across all retail formats confirms that adidas holds a dominant position in the US women's market. In other words, women love adidas, no matter where they shop.
+
+<img width="736" height="223" alt="螢幕截圖 2025-11-24 下午8 59 57" src="https://github.com/user-attachments/assets/a80235ae-f9bd-47e0-8441-7b6ddaeb9efe" />
 
 ## Recommendations
 From the 2020–2022 data, focus on these four actionable steps:
