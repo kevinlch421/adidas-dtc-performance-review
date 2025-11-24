@@ -16,21 +16,20 @@
 - [Limitations & Next-Level Data Needs](#limitations--next-level-data-needs)
 
 ## Project Background
-In the sportswear business, brands like adidas have long depended on wholesale—selling large quantities to retailers like Foot Locker for broad market coverage. This approach offers good reach and steady sales, but it limits our control over pricing and brand presentation.
+In the sportswear industry, brands like Adidas have long depended on **wholesale—selling** large quantities to retailers like Foot Locker for broad market coverage. This approach offers good reach and steady sales, but it **limits their control over pricing and brand presentation**.
 
-To gain more control and boost profits per sale, adidas rolled out the "Own the Game" strategy in 2021. The core idea: shift more sales to Direct-to-Consumer (DTC) through our website and owned stores.
+To gain more control and boost profits per sale, Adidas launched the "Own the Game" strategy in 2021. The core idea is to shift more sales to Direct-to-Consumer (DTC) through our website and owned stores, **bypassing third-party retailers in the process**. However, the big question is: Do this shift paying off?
 
-The key question for us in the US: Is this shift paying off? This report provides straightforward answers using real US sales data from DTC and wholesale, covering Q1 2020 to Q4 2022. It breaks down DTC growth, compares it to wholesale, and highlights where the real profits are coming from.
-
-Download the interactive Tableau dashboard here for a hands-on view.  
-The SQL queries for data checks are available here.
+This report provides straightforward answers using real US sales data from DTC and wholesale, covering Q1 2020 to Q4 2022. It breaks down DTC growth, compares it to wholesale, and highlights where the real profits are coming from.
 
 ## About the Dataset
-We used one clean dataset: the adidas US Sales from Kaggle (9,641 orders, 2020–2022).  
+We used one clean dataset: [the adidas US Sales from Kaggle](https://www.kaggle.com/datasets/sagarmorework/adidas-us-sales) (9,641 orders, 2020–2022).  
 
 To optimize for efficiency, the data was restructured into a star schema with 7 tables (main sales fact table plus dimensions like date, product, channel, and region). This reduces memory use and speeds up analysis.  
 
-A quick guide on building the star schema is here (link).
+<img width="1602" height="893" alt="ERD-v2 drawio" src="https://github.com/user-attachments/assets/06bcddc0-f560-408e-a820-f251a2ae4f8c" />
+
+> In case you care about the SQL to build the database on MySQL, here is a quick guide on building the star schema is here (link).
 
 ## Executive Summary
 
