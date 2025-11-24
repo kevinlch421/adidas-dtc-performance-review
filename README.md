@@ -43,15 +43,15 @@ To optimize for efficiency, the data was restructured into a **star schema** wit
 - This performance was fueled by a significant increase in both order volume and customer spending per transaction: the number of orders grew by 21%, while the Average Order Value (AOV) increased by 35%.
 - This trend indicates that the "Own the Game" strategy is resonating with consumers, who are increasingly choosing to shop directly from adidas.
 
-<img width="1058" height="215" alt="螢幕截圖 2025-11-24 下午8 28 25" src="https://github.com/user-attachments/assets/c62577e8-56f9-4b8c-b5ce-bb746b94ee4f" />
-<img width="10324" height="4261" alt="insight 1" src="https://github.com/user-attachments/assets/0afd7e64-4a60-4f63-b5d7-72f1afb32208" />
+<img width="10338" height="4061" alt="insight-1" src="https://github.com/user-attachments/assets/ac17cdd4-cd5c-4b14-88a2-3d63c7068cc3" />
+
 
 ### Wholesale: Solid Reach, But Slower and Less Profitable in 2021
 - Adidas also sells to other stores on the wholesale channel. This channel is stable, but its growth is slow.
 - The data shows a key problem that even though wholesale handles a similar number of orders as DTC, it brings in $15 million less revenue (40M vs 55M). This happens because Adidas has to sell its products to other stores at a lower price.
 - This indicates that wholesale is good for reaching customers everywhere, but it is simply not as profitable as selling directly to them. The primary reason is that selling to retailers requires offering substantial trade discounts that reduce margins.
 
-<img width="1055" height="211" alt="螢幕截圖 2025-11-24 下午8 42 36" src="https://github.com/user-attachments/assets/5dd98330-52e5-4e19-bc4a-892272850842" />
+<img width="1920" height="1080" alt="insight-2" src="https://github.com/user-attachments/assets/ca2d9111-b9e5-4147-bdb9-92dc42ff136c" />
 
   
 ### Customer Retention on Women's Apparel in 2021
