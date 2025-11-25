@@ -1,4 +1,5 @@
 # Adidas – "Own the Game" Strategy Review (2020-2022)
+> In case you need a full walkthrough, here is the complete document with all resources, code, and step-by-step process ([Notion notebook link](https://www.notion.so/Adidas-Sales-Dashboard-Document-2b2e1e052cfc80df8637e514065925b7)).
 
 ## Table of Contents
 
