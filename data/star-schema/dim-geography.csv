@@ -1,0 +1,55 @@
+geo_id,region,state,city
+1,Midwest,Illinois,Chicago
+2,Midwest,Indiana,Indianapolis
+3,Midwest,Iowa,"Des Moines"
+4,Midwest,Kansas,Wichita
+5,Midwest,Michigan,Detroit
+6,Midwest,Minnesota,Minneapolis
+7,Midwest,Missouri,"St. Louis"
+8,Midwest,Montana,Billings
+9,Midwest,Nebraska,Omaha
+10,Midwest,"North Dakota",Fargo
+11,Midwest,Ohio,Columbus
+12,Midwest,"South Dakota","Sioux Falls"
+13,Midwest,Wisconsin,Milwaukee
+14,Northeast,Connecticut,Hartford
+15,Northeast,Delaware,Wilmington
+16,Northeast,Maine,Portland
+17,Northeast,Maryland,Baltimore
+18,Northeast,Massachusetts,Boston
+19,Northeast,"New Hampshire",Manchester
+20,Northeast,"New Jersey",Newark
+21,Northeast,"New York",Albany
+22,Northeast,"New York","New York"
+23,Northeast,Pennsylvania,Philadelphia
+24,Northeast,"Rhode Island",Providence
+25,Northeast,Vermont,Burlington
+26,Northeast,"West Virginia",Charleston
+27,South,Alabama,Birmingham
+28,South,Arkansas,"Little Rock"
+29,South,Louisiana,"New Orleans"
+30,South,Mississippi,Jackson
+31,South,Oklahoma,"Oklahoma City"
+32,South,Tennessee,Knoxville
+33,South,Texas,Dallas
+34,South,Texas,Houston
+35,Southeast,Florida,Miami
+36,Southeast,Florida,Orlando
+37,Southeast,Georgia,Atlanta
+38,Southeast,Kentucky,Louisville
+39,Southeast,"North Carolina",Charlotte
+40,Southeast,"South Carolina",Charleston
+41,Southeast,Virginia,Richmond
+42,West,Alaska,Anchorage
+43,West,Arizona,Phoenix
+44,West,California,"Los Angeles"
+45,West,California,"San Francisco"
+46,West,Colorado,Denver
+47,West,Hawaii,Honolulu
+48,West,Idaho,Boise
+49,West,Nevada,"Las Vegas"
+50,West,"New Mexico",Albuquerque
+51,West,Oregon,Portland
+52,West,Utah,"Salt Lake City"
+53,West,Washington,Seattle
+54,West,Wyoming,Cheyenne

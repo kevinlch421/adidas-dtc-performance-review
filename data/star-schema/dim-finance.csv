@@ -1,0 +1,6 @@
+finance_key,year,quarter,gross_margin_rate,source,last_update
+1,2021,NULL,0.5200,"Adidas Official IR + yfinance",2025-11-20
+2,2022,NULL,0.4740,"Adidas Official IR + yfinance",2025-11-20
+3,2023,NULL,0.4760,"Adidas Official IR + yfinance",2025-11-20
+4,2024,NULL,0.4920,"Adidas Official IR + yfinance",2025-11-20
+5,2025,NULL,0.5050,"Adidas Official IR + yfinance",2025-11-20

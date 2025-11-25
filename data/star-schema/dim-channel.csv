@@ -1,0 +1,9 @@
+channel_id,sales_method,channel_type,sub_channel
+1,In-store,DTC,"Brick & Mortar"
+2,Online,DTC,E-commerce
+3,Outlet,DTC,Outlet
+4,"West Gear",Wholesale,Wholesale
+5,Kohl's,Wholesale,Wholesale
+6,"Sports Direct",Wholesale,Wholesale
+7,Amazon,Wholesale,Marketplace
+8,Walmart,Wholesale,Wholesale

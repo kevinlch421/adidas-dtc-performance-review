@@ -1,0 +1,7 @@
+product_id,product,division,category,gender
+1,"Men's Apparel",Apparel,Lifestyle,Men
+2,"Men's Athletic Footwear",Footwear,Sportstyle,Men
+3,"Men's Street Footwear",Footwear,Lifestyle,Men
+4,"Women's Apparel",Apparel,Lifestyle,Women
+5,"Women's Athletic Footwear",Footwear,Sportstyle,Women
+6,"Women's Street Footwear",Footwear,Lifestyle,Women

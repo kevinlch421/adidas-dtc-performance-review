@@ -1,0 +1,1001 @@
+sales_id,retailer_id,retailer,invoice_date,region,state,city,product,price_per_unit,units_sold,total_sales,operating_profit,sales_method,gross_margin_rate,cogs,gross_profit
+1,1185732,"Foot Locker",2020-01-01,Northeast,Pennsylvania,Philadelphia,"Women's Apparel",75,275,20625.00,6188.00,Outlet,0.4900,10518.75,10106.25
+2,1185732,"Foot Locker",2020-01-01,Northeast,Pennsylvania,Philadelphia,"Women's Apparel",53,83,4399.00,141.00,Outlet,0.4900,2243.49,2155.51
+3,1185732,"Foot Locker",2020-01-01,Northeast,Pennsylvania,Philadelphia,"Women's Apparel",68,83,5644.00,243.00,Online,0.4900,2878.44,2765.56
+4,1185732,"Foot Locker",2020-01-01,Northeast,"New York","New York","Men's Street Footwear",50,1200,60000.00,30000.00,In-store,0.4900,30600.00,29400.00
+5,1185732,"Foot Locker",2020-01-01,Northeast,"New York","New York","Men's Street Footwear",34,384,13056.00,679.00,Outlet,0.4900,6658.56,6397.44
+6,1185732,"Foot Locker",2020-01-01,Northeast,"New York","New York","Men's Street Footwear",47,336,15792.00,963.00,Online,0.4900,8053.92,7738.08
+7,1128299,"West Gear",2020-01-02,Northeast,Pennsylvania,Philadelphia,"Men's Street Footwear",27,158,4266.00,179.00,Outlet,0.4900,2175.66,2090.34
+8,1128299,"West Gear",2020-01-02,Northeast,Pennsylvania,Philadelphia,"Men's Street Footwear",35,450,15750.00,6300.00,Outlet,0.4900,8032.50,7717.50
+9,1128299,"West Gear",2020-01-02,Northeast,Pennsylvania,Philadelphia,"Men's Street Footwear",32,122,3904.00,199.00,Online,0.4900,1991.04,1912.96
+10,1185732,"Foot Locker",2020-01-02,Northeast,"New York","New York","Men's Athletic Footwear",36,320,11520.00,403.00,Outlet,0.4900,5875.20,5644.80
+11,1185732,"Foot Locker",2020-01-02,Northeast,"New York","New York","Men's Athletic Footwear",47,260,12220.00,513.00,Online,0.4900,6232.20,5987.80
+12,1185732,"Foot Locker",2020-01-02,Northeast,"New York","New York","Men's Athletic Footwear",50,1000,50000.00,15000.00,In-store,0.4900,25500.00,24500.00
+13,1128299,"West Gear",2020-01-03,Northeast,Pennsylvania,Philadelphia,"Men's Athletic Footwear",44,117,5148.00,190.00,Online,0.4900,2625.48,2522.52
+14,1128299,"West Gear",2020-01-03,Northeast,Pennsylvania,Philadelphia,"Men's Athletic Footwear",35,135,4725.00,146.00,Outlet,0.4900,2409.75,2315.25
+15,1128299,"West Gear",2020-01-03,Northeast,Pennsylvania,Philadelphia,"Men's Athletic Footwear",45,450,20250.00,5063.00,Outlet,0.4900,10327.50,9922.50
+16,1185732,"Foot Locker",2020-01-03,Northeast,"New York","New York","Women's Street Footwear",40,1000,40000.00,14000.00,In-store,0.4900,20400.00,19600.00
+17,1185732,"Foot Locker",2020-01-03,Northeast,"New York","New York","Women's Street Footwear",32,350,11200.00,414.00,Outlet,0.4900,5712.00,5488.00
+18,1185732,"Foot Locker",2020-01-03,Northeast,"New York","New York","Women's Street Footwear",36,250,9000.00,414.00,Online,0.4900,4590.00,4410.00
+19,1128299,"West Gear",2020-01-04,Northeast,Pennsylvania,Philadelphia,"Women's Street Footwear",45,450,20250.00,8100.00,Outlet,0.4900,10327.50,9922.50
+20,1128299,"West Gear",2020-01-04,Northeast,Pennsylvania,Philadelphia,"Women's Street Footwear",41,117,4797.00,259.00,Online,0.4900,2446.47,2350.53
+21,1128299,"West Gear",2020-01-04,Northeast,Pennsylvania,Philadelphia,"Women's Street Footwear",36,140,5040.00,237.00,Outlet,0.4900,2570.40,2469.60
+22,1185732,"Foot Locker",2020-01-04,Northeast,"New York","New York","Women's Athletic Footwear",45,850,38250.00,13388.00,In-store,0.4900,19507.50,18742.50
+23,1185732,"Foot Locker",2020-01-04,Northeast,"New York","New York","Women's Athletic Footwear",36,281,10116.00,374.00,Outlet,0.4900,5159.16,4956.84
+24,1185732,"Foot Locker",2020-01-04,Northeast,"New York","New York","Women's Athletic Footwear",41,247,10127.00,466.00,Online,0.4900,5164.77,4962.23
+25,1128299,"West Gear",2020-01-05,Northeast,Pennsylvania,Philadelphia,"Women's Athletic Footwear",45,300,13500.00,4725.00,Outlet,0.4900,6885.00,6615.00
+26,1128299,"West Gear",2020-01-05,Northeast,Pennsylvania,Philadelphia,"Women's Athletic Footwear",34,90,3060.00,125.00,Outlet,0.4900,1560.60,1499.40
+27,1128299,"West Gear",2020-01-05,Northeast,Pennsylvania,Philadelphia,"Women's Athletic Footwear",43,87,3741.00,187.00,Online,0.4900,1907.91,1833.09
+28,1185732,"Foot Locker",2020-01-05,Northeast,"New York","New York","Men's Apparel",43,306,13158.00,487.00,Outlet,0.4900,6710.58,6447.42
+29,1185732,"Foot Locker",2020-01-05,Northeast,"New York","New York","Men's Apparel",55,234,12870.00,515.00,Online,0.4900,6563.70,6306.30
+30,1185732,"Foot Locker",2020-01-05,Northeast,"New York","New York","Men's Apparel",60,900,54000.00,16200.00,In-store,0.4900,27540.00,26460.00
+31,1128299,"West Gear",2020-01-06,West,Nevada,"Las Vegas","Men's Apparel",47,70,3290.00,214.00,Online,0.4900,1677.90,1612.10
+32,1128299,"West Gear",2020-01-06,West,Nevada,"Las Vegas","Men's Apparel",37,80,2960.00,169.00,Outlet,0.4900,1509.60,1450.40
+33,1128299,"West Gear",2020-01-06,West,Nevada,"Las Vegas","Men's Apparel",50,250,12500.00,6875.00,Outlet,0.4900,6375.00,6125.00
+34,1185732,"Foot Locker",2020-01-06,Northeast,"New York","New York","Women's Apparel",50,1000,50000.00,12500.00,In-store,0.4900,25500.00,24500.00
+35,1185732,"Foot Locker",2020-01-06,Northeast,"New York","New York","Women's Apparel",38,330,12540.00,401.00,Outlet,0.4900,6395.40,6144.60
+36,1185732,"Foot Locker",2020-01-06,Northeast,"New York","New York","Women's Apparel",46,260,11960.00,443.00,Online,0.4900,6099.60,5860.40
+37,1128299,"West Gear",2020-01-07,West,Nevada,"Las Vegas","Women's Apparel",45,475,21375.00,4275.00,Outlet,0.4900,10901.25,10473.75
+38,1128299,"West Gear",2020-01-07,West,Nevada,"Las Vegas","Women's Apparel",36,166,5976.00,143.00,Outlet,0.4900,3047.76,2928.24
+39,1128299,"West Gear",2020-01-07,West,Nevada,"Las Vegas","Women's Apparel",41,128,5248.00,157.00,Online,0.4900,2676.48,2571.52
+40,1185732,"Foot Locker",2020-01-07,Northeast,"New York","New York","Men's Street Footwear",33,388,12804.00,666.00,Outlet,0.4900,6530.04,6273.96
+41,1185732,"Foot Locker",2020-01-07,Northeast,"New York","New York","Men's Street Footwear",46,313,14398.00,893.00,Online,0.4900,7342.98,7055.02
+42,1185732,"Foot Locker",2020-01-07,Northeast,"New York","New York","Men's Street Footwear",50,1250,62500.00,31250.00,In-store,0.4900,31875.00,30625.00
+43,1128299,"West Gear",2020-01-08,West,Nevada,"Las Vegas","Men's Street Footwear",27,173,4671.00,201.00,Outlet,0.4900,2382.21,2288.79
+44,1128299,"West Gear",2020-01-08,West,Nevada,"Las Vegas","Men's Street Footwear",34,158,5372.00,269.00,Online,0.4900,2739.72,2632.28
+45,1128299,"West Gear",2020-01-08,West,Nevada,"Las Vegas","Men's Street Footwear",35,525,18375.00,7350.00,Outlet,0.4900,9371.25,9003.75
+46,1185732,"Foot Locker",2020-01-08,Northeast,"New York","New York","Men's Athletic Footwear",50,900,45000.00,13500.00,Outlet,0.4900,22950.00,22050.00
+47,1185732,"Foot Locker",2020-01-08,Northeast,"New York","New York","Men's Athletic Footwear",46,261,12006.00,528.00,Online,0.4900,6123.06,5882.94
+48,1185732,"Foot Locker",2020-01-08,Northeast,"New York","New York","Men's Athletic Footwear",39,315,12285.00,405.00,Outlet,0.4900,6265.35,6019.65
+49,1128299,"West Gear",2020-01-09,West,Nevada,"Las Vegas","Men's Athletic Footwear",35,145,5075.00,157.00,Outlet,0.4900,2588.25,2486.75
+50,1128299,"West Gear",2020-01-09,West,Nevada,"Las Vegas","Men's Athletic Footwear",43,128,5504.00,220.00,Online,0.4900,2807.04,2696.96
+51,1128299,"West Gear",2020-01-09,West,Nevada,"Las Vegas","Men's Athletic Footwear",45,425,19125.00,4781.00,Outlet,0.4900,9753.75,9371.25
+52,1128299,"West Gear",2020-01-10,West,Nevada,"Las Vegas","Women's Street Footwear",45,425,19125.00,7650.00,Outlet,0.4900,9753.75,9371.25
+53,1128299,"West Gear",2020-01-10,West,Nevada,"Las Vegas","Women's Street Footwear",41,119,4879.00,259.00,Online,0.4900,2488.29,2390.71
+54,1128299,"West Gear",2020-01-10,West,Nevada,"Las Vegas","Women's Street Footwear",31,140,4340.00,187.00,Outlet,0.4900,2213.40,2126.60
+55,1128299,"West Gear",2020-01-11,West,Nevada,"Las Vegas","Women's Athletic Footwear",45,275,12375.00,4331.00,Outlet,0.4900,6311.25,6063.75
+56,1128299,"West Gear",2020-01-11,West,Nevada,"Las Vegas","Women's Athletic Footwear",30,85,2550.00,105.00,Outlet,0.4900,1300.50,1249.50
+57,1128299,"West Gear",2020-01-11,West,Nevada,"Las Vegas","Women's Athletic Footwear",44,74,3256.00,150.00,Online,0.4900,1660.56,1595.44
+58,1128299,"West Gear",2020-01-12,West,Nevada,"Las Vegas","Men's Apparel",37,70,2590.00,158.00,Outlet,0.4900,1320.90,1269.10
+59,1128299,"West Gear",2020-01-12,West,Nevada,"Las Vegas","Men's Apparel",46,52,2392.00,167.00,Online,0.4900,1219.92,1172.08
+60,1128299,"West Gear",2020-01-12,West,Nevada,"Las Vegas","Men's Apparel",50,200,10000.00,5500.00,Outlet,0.4900,5100.00,4900.00
+61,1128299,"West Gear",2020-01-13,West,Nevada,"Las Vegas","Women's Apparel",45,400,18000.00,3600.00,Outlet,0.4900,9180.00,8820.00
+62,1128299,"West Gear",2020-01-13,West,Nevada,"Las Vegas","Women's Apparel",31,140,4340.00,100.00,Outlet,0.4900,2213.40,2126.60
+63,1128299,"West Gear",2020-01-13,West,Nevada,"Las Vegas","Women's Apparel",41,116,4756.00,162.00,Online,0.4900,2425.56,2330.44
+64,1128299,"West Gear",2020-01-14,West,Nevada,"Las Vegas","Men's Street Footwear",31,182,5642.00,254.00,Outlet,0.4900,2877.42,2764.58
+65,1128299,"West Gear",2020-01-14,West,Nevada,"Las Vegas","Men's Street Footwear",45,550,24750.00,9900.00,Outlet,0.4900,12622.50,12127.50
+66,1128299,"West Gear",2020-01-14,West,Nevada,"Las Vegas","Men's Street Footwear",43,160,6880.00,378.00,Online,0.4900,3508.80,3371.20
+67,1128299,"West Gear",2020-01-15,West,Nevada,"Las Vegas","Men's Athletic Footwear",55,400,22000.00,5500.00,Outlet,0.4900,11220.00,10780.00
+68,1128299,"West Gear",2020-01-15,West,Nevada,"Las Vegas","Men's Athletic Footwear",50,120,6000.00,240.00,Online,0.4900,3060.00,2940.00
+69,1128299,"West Gear",2020-01-15,West,Nevada,"Las Vegas","Men's Athletic Footwear",42,124,5208.00,167.00,Outlet,0.4900,2656.08,2551.92
+70,1128299,"West Gear",2020-01-16,West,Nevada,"Las Vegas","Women's Street Footwear",52,104,5408.00,287.00,Online,0.4900,2758.08,2649.92
+71,1128299,"West Gear",2020-01-16,West,Nevada,"Las Vegas","Women's Street Footwear",43,128,5504.00,259.00,Outlet,0.4900,2807.04,2696.96
+72,1128299,"West Gear",2020-01-16,West,Nevada,"Las Vegas","Women's Street Footwear",55,400,22000.00,8800.00,Outlet,0.4900,11220.00,10780.00
+73,1128299,"West Gear",2020-01-17,West,Nevada,"Las Vegas","Women's Athletic Footwear",55,300,16500.00,5775.00,Outlet,0.4900,8415.00,8085.00
+74,1128299,"West Gear",2020-01-17,West,Nevada,"Las Vegas","Women's Athletic Footwear",41,93,3813.00,156.00,Outlet,0.4900,1944.63,1868.37
+75,1128299,"West Gear",2020-01-17,West,Nevada,"Las Vegas","Women's Athletic Footwear",50,84,4200.00,197.00,Online,0.4900,2142.00,2058.00
+76,1128299,"West Gear",2020-01-18,West,Nevada,"Las Vegas","Men's Apparel",60,175,10500.00,5775.00,Outlet,0.4900,5355.00,5145.00
+77,1128299,"West Gear",2020-01-18,West,Nevada,"Las Vegas","Men's Apparel",55,47,2585.00,181.00,Online,0.4900,1318.35,1266.65
+78,1128299,"West Gear",2020-01-18,West,Nevada,"Las Vegas","Men's Apparel",44,60,2640.00,164.00,Outlet,0.4900,1346.40,1293.60
+79,1128299,"West Gear",2020-01-19,West,Nevada,"Las Vegas","Women's Apparel",39,124,4836.00,126.00,Outlet,0.4900,2466.36,2369.64
+80,1128299,"West Gear",2020-01-19,West,Nevada,"Las Vegas","Women's Apparel",54,94,5076.00,173.00,Online,0.4900,2588.76,2487.24
+81,1128299,"West Gear",2020-01-19,West,Nevada,"Las Vegas","Women's Apparel",55,375,20625.00,4125.00,Outlet,0.4900,10518.75,10106.25
+82,1128299,"West Gear",2020-01-20,West,Nevada,"Las Vegas","Men's Street Footwear",58,143,8294.00,423.00,Online,0.4900,4229.94,4064.06
+83,1128299,"West Gear",2020-01-20,West,Nevada,"Las Vegas","Men's Street Footwear",41,171,7011.00,294.00,Outlet,0.4900,3575.61,3435.39
+84,1128299,"West Gear",2020-01-20,West,Nevada,"Las Vegas","Men's Street Footwear",60,550,33000.00,13200.00,Outlet,0.4900,16830.00,16170.00
+85,1128299,"West Gear",2020-01-21,West,Nevada,"Las Vegas","Men's Athletic Footwear",65,350,22750.00,5688.00,Outlet,0.4900,11602.50,11147.50
+86,1128299,"West Gear",2020-01-21,West,Nevada,"Las Vegas","Men's Athletic Footwear",46,116,5336.00,155.00,Outlet,0.4900,2721.36,2614.64
+87,1128299,"West Gear",2020-01-21,West,Nevada,"Las Vegas","Men's Athletic Footwear",62,102,6324.00,240.00,Online,0.4900,3225.24,3098.76
+88,1185732,"Foot Locker",2020-01-21,Northeast,"New York","New York","Women's Street Footwear",40,950,38000.00,13300.00,Outlet,0.4900,19380.00,18620.00
+89,1185732,"Foot Locker",2020-01-21,Northeast,"New York","New York","Women's Street Footwear",32,323,10336.00,393.00,Outlet,0.4900,5271.36,5064.64
+90,1185732,"Foot Locker",2020-01-21,Northeast,"New York","New York","Women's Street Footwear",36,276,9936.00,467.00,Online,0.4900,5067.36,4868.64
+91,1128299,"West Gear",2020-01-22,West,Nevada,"Las Vegas","Women's Street Footwear",47,120,5640.00,254.00,Outlet,0.4900,2876.40,2763.60
+92,1128299,"West Gear",2020-01-22,West,Nevada,"Las Vegas","Women's Street Footwear",61,120,7320.00,388.00,Online,0.4900,3733.20,3586.80
+93,1128299,"West Gear",2020-01-22,West,Nevada,"Las Vegas","Women's Street Footwear",65,400,26000.00,10400.00,Outlet,0.4900,13260.00,12740.00
+94,1185732,"Foot Locker",2020-01-22,Northeast,"New York","New York","Women's Athletic Footwear",32,248,7936.00,302.00,Outlet,0.4900,4047.36,3888.64
+95,1185732,"Foot Locker",2020-01-22,Northeast,"New York","New York","Women's Athletic Footwear",44,206,9064.00,444.00,Online,0.4900,4622.64,4441.36
+96,1185732,"Foot Locker",2020-01-22,Northeast,"New York","New York","Women's Athletic Footwear",45,825,37125.00,12994.00,Outlet,0.4900,18933.75,18191.25
+97,1128299,"West Gear",2020-01-23,West,Nevada,"Las Vegas","Women's Athletic Footwear",60,300,18000.00,6300.00,Outlet,0.4900,9180.00,8820.00
+98,1128299,"West Gear",2020-01-23,West,Nevada,"Las Vegas","Women's Athletic Footwear",59,75,4425.00,204.00,Online,0.4900,2256.75,2168.25
+99,1128299,"West Gear",2020-01-23,West,Nevada,"Las Vegas","Women's Athletic Footwear",40,90,3600.00,148.00,Outlet,0.4900,1836.00,1764.00
+100,1185732,"Foot Locker",2020-01-23,Northeast,"New York","New York","Men's Apparel",43,306,13158.00,461.00,Outlet,0.4900,6710.58,6447.42
+101,1185732,"Foot Locker",2020-01-23,Northeast,"New York","New York","Men's Apparel",58,243,14094.00,606.00,Online,0.4900,7187.94,6906.06
+102,1185732,"Foot Locker",2020-01-23,Northeast,"New York","New York","Men's Apparel",60,900,54000.00,16200.00,Outlet,0.4900,27540.00,26460.00
+103,1128299,"West Gear",2020-01-24,West,Nevada,"Las Vegas","Men's Apparel",47,62,2914.00,178.00,Outlet,0.4900,1486.14,1427.86
+104,1128299,"West Gear",2020-01-24,West,Nevada,"Las Vegas","Men's Apparel",63,52,3276.00,216.00,Online,0.4900,1670.76,1605.24
+105,1128299,"West Gear",2020-01-24,West,Nevada,"Las Vegas","Men's Apparel",65,200,13000.00,7150.00,Outlet,0.4900,6630.00,6370.00
+106,1185732,"Foot Locker",2020-01-24,Northeast,"New York","New York","Women's Apparel",50,1000,50000.00,12500.00,Outlet,0.4900,25500.00,24500.00
+107,1185732,"Foot Locker",2020-01-24,Northeast,"New York","New York","Women's Apparel",36,350,12600.00,365.00,Outlet,0.4900,6426.00,6174.00
+108,1185732,"Foot Locker",2020-01-24,Northeast,"New York","New York","Women's Apparel",48,290,13920.00,529.00,Online,0.4900,7099.20,6820.80
+109,1128299,"West Gear",2020-01-25,West,Nevada,"Las Vegas","Women's Apparel",80,350,28000.00,5600.00,Outlet,0.4900,14280.00,13720.00
+110,1128299,"West Gear",2020-01-25,West,Nevada,"Las Vegas","Women's Apparel",54,123,6642.00,179.00,Outlet,0.4900,3387.42,3254.58
+111,1128299,"West Gear",2020-01-25,West,Nevada,"Las Vegas","Women's Apparel",78,95,7410.00,252.00,Online,0.4900,3779.10,3630.90
+112,1185732,"Foot Locker",2020-01-25,Northeast,"New York","New York","Men's Street Footwear",40,390,15600.00,811.00,Outlet,0.4900,7956.00,7644.00
+113,1185732,"Foot Locker",2020-01-25,Northeast,"New York","New York","Men's Street Footwear",46,354,16284.00,1026.00,Online,0.4900,8304.84,7979.16
+114,1185732,"Foot Locker",2020-01-25,Northeast,"New York","New York","Men's Street Footwear",50,1220,61000.00,30500.00,Outlet,0.4900,31110.00,29890.00
+115,1128299,"West Gear",2020-01-26,West,Nevada,"Las Vegas","Men's Street Footwear",60,550,33000.00,14850.00,Outlet,0.4900,16830.00,16170.00
+116,1128299,"West Gear",2020-01-26,West,Nevada,"Las Vegas","Men's Street Footwear",58,149,8642.00,501.00,Online,0.4900,4407.42,4234.58
+117,1128299,"West Gear",2020-01-26,West,Nevada,"Las Vegas","Men's Street Footwear",43,171,7353.00,353.00,Outlet,0.4900,3750.03,3602.97
+118,1185732,"Foot Locker",2020-01-26,Northeast,"New York","New York","Men's Athletic Footwear",50,925,46250.00,13875.00,Outlet,0.4900,23587.50,22662.50
+119,1185732,"Foot Locker",2020-01-26,Northeast,"New York","New York","Men's Athletic Footwear",48,259,12432.00,535.00,Online,0.4900,6340.32,6091.68
+120,1185732,"Foot Locker",2020-01-26,Northeast,"New York","New York","Men's Athletic Footwear",35,315,11025.00,397.00,Outlet,0.4900,5622.75,5402.25
+121,1128299,"West Gear",2020-01-27,West,Nevada,"Las Vegas","Men's Athletic Footwear",65,400,26000.00,7800.00,Outlet,0.4900,13260.00,12740.00
+122,1128299,"West Gear",2020-01-27,West,Nevada,"Las Vegas","Men's Athletic Footwear",60,104,6240.00,268.00,Online,0.4900,3182.40,3057.60
+123,1128299,"West Gear",2020-01-27,West,Nevada,"Las Vegas","Men's Athletic Footwear",43,120,5160.00,181.00,Outlet,0.4900,2631.60,2528.40
+124,1185732,"Foot Locker",2020-01-27,Northeast,"New York","New York","Women's Street Footwear",39,247,9633.00,472.00,Online,0.4900,4912.83,4720.17
+125,1185732,"Foot Locker",2020-01-27,Northeast,"New York","New York","Women's Street Footwear",27,314,8478.00,348.00,Outlet,0.4900,4323.78,4154.22
+126,1185732,"Foot Locker",2020-01-27,Northeast,"New York","New York","Women's Street Footwear",40,950,38000.00,13300.00,Outlet,0.4900,19380.00,18620.00
+127,1128299,"West Gear",2020-01-28,West,Nevada,"Las Vegas","Women's Street Footwear",63,116,7308.00,417.00,Online,0.4900,3727.08,3580.92
+128,1128299,"West Gear",2020-01-28,West,Nevada,"Las Vegas","Women's Street Footwear",49,132,6468.00,304.00,Outlet,0.4900,3298.68,3169.32
+129,1128299,"West Gear",2020-01-28,West,Nevada,"Las Vegas","Women's Street Footwear",65,400,26000.00,11700.00,Outlet,0.4900,13260.00,12740.00
+130,1185732,"Foot Locker",2020-01-28,Northeast,"New York","New York","Women's Athletic Footwear",45,800,36000.00,12600.00,Outlet,0.4900,18360.00,17640.00
+131,1185732,"Foot Locker",2020-01-28,Northeast,"New York","New York","Women's Athletic Footwear",43,216,9288.00,464.00,Online,0.4900,4736.88,4551.12
+132,1185732,"Foot Locker",2020-01-28,Northeast,"New York","New York","Women's Athletic Footwear",31,240,7440.00,298.00,Outlet,0.4900,3794.40,3645.60
+133,1128299,"West Gear",2020-01-29,West,Nevada,"Las Vegas","Women's Athletic Footwear",60,300,18000.00,7200.00,Outlet,0.4900,9180.00,8820.00
+134,1128299,"West Gear",2020-01-29,West,Nevada,"Las Vegas","Women's Athletic Footwear",57,90,5130.00,257.00,Online,0.4900,2616.30,2513.70
+135,1128299,"West Gear",2020-01-29,West,Nevada,"Las Vegas","Women's Athletic Footwear",47,105,4935.00,227.00,Outlet,0.4900,2516.85,2418.15
+136,1185732,"Foot Locker",2020-01-29,Northeast,"New York","New York","Men's Apparel",59,230,13570.00,570.00,Online,0.4900,6920.70,6649.30
+137,1185732,"Foot Locker",2020-01-29,Northeast,"New York","New York","Men's Apparel",43,289,12427.00,398.00,Outlet,0.4900,6337.77,6089.23
+138,1185732,"Foot Locker",2020-01-29,Northeast,"New York","New York","Men's Apparel",60,850,51000.00,15300.00,Outlet,0.4900,26010.00,24990.00
+139,1128299,"West Gear",2020-01-30,West,Nevada,"Las Vegas","Men's Apparel",43,66,2838.00,187.00,Outlet,0.4900,1447.38,1390.62
+140,1128299,"West Gear",2020-01-30,West,Nevada,"Las Vegas","Men's Apparel",60,60,3600.00,252.00,Online,0.4900,1836.00,1764.00
+141,1128299,"West Gear",2020-01-30,West,Nevada,"Las Vegas","Men's Apparel",65,200,13000.00,7800.00,Outlet,0.4900,6630.00,6370.00
+142,1185732,"Foot Locker",2020-01-30,Northeast,"New York","New York","Women's Apparel",50,950,47500.00,11875.00,Outlet,0.4900,24225.00,23275.00
+143,1185732,"Foot Locker",2020-01-30,Northeast,"New York","New York","Women's Apparel",45,238,10710.00,375.00,Online,0.4900,5462.10,5247.90
+144,1185732,"Foot Locker",2020-01-30,Northeast,"New York","New York","Women's Apparel",36,323,11628.00,314.00,Outlet,0.4900,5930.28,5697.72
+145,1128299,"West Gear",2020-01-31,West,Nevada,"Las Vegas","Women's Apparel",80,450,36000.00,9000.00,Outlet,0.4900,18360.00,17640.00
+146,1128299,"West Gear",2020-01-31,West,Nevada,"Las Vegas","Women's Apparel",54,140,7560.00,242.00,Outlet,0.4900,3855.60,3704.40
+147,1128299,"West Gear",2020-01-31,West,Nevada,"Las Vegas","Women's Apparel",78,131,10218.00,358.00,Online,0.4900,5211.18,5006.82
+148,1185732,"Foot Locker",2020-01-31,Northeast,"New York","New York","Men's Street Footwear",50,1200,60000.00,30000.00,Outlet,0.4900,30600.00,29400.00
+149,1185732,"Foot Locker",2020-01-31,Northeast,"New York","New York","Men's Street Footwear",45,300,13500.00,837.00,Online,0.4900,6885.00,6615.00
+150,1185732,"Foot Locker",2020-01-31,Northeast,"New York","New York","Men's Street Footwear",33,372,12276.00,663.00,Outlet,0.4900,6260.76,6015.24
+151,1128299,"West Gear",2020-02-01,West,Nevada,"Las Vegas","Men's Street Footwear",56,189,10584.00,603.00,Online,0.4900,5397.84,5186.16
+152,1128299,"West Gear",2020-02-01,West,Nevada,"Las Vegas","Men's Street Footwear",47,245,11515.00,576.00,Outlet,0.4900,5872.65,5642.35
+153,1128299,"West Gear",2020-02-01,West,Nevada,"Las Vegas","Men's Street Footwear",60,700,42000.00,18900.00,Outlet,0.4900,21420.00,20580.00
+154,1185732,"Foot Locker",2020-02-01,Northeast,"New York","New York","Men's Athletic Footwear",35,315,11025.00,364.00,Outlet,0.4900,5622.75,5402.25
+155,1185732,"Foot Locker",2020-02-01,Northeast,"New York","New York","Men's Athletic Footwear",47,234,10998.00,451.00,Online,0.4900,5608.98,5389.02
+156,1185732,"Foot Locker",2020-02-01,Northeast,"New York","New York","Men's Athletic Footwear",50,900,45000.00,13500.00,Outlet,0.4900,22950.00,22050.00
+157,1128299,"West Gear",2020-02-02,West,Nevada,"Las Vegas","Men's Athletic Footwear",62,165,10230.00,419.00,Online,0.4900,5217.30,5012.70
+158,1128299,"West Gear",2020-02-02,West,Nevada,"Las Vegas","Men's Athletic Footwear",51,182,9282.00,334.00,Outlet,0.4900,4733.82,4548.18
+159,1128299,"West Gear",2020-02-02,West,Nevada,"Las Vegas","Men's Athletic Footwear",65,550,35750.00,10725.00,Outlet,0.4900,18232.50,17517.50
+160,1185732,"Foot Locker",2020-02-02,Northeast,"New York","New York","Women's Street Footwear",40,900,36000.00,12600.00,Outlet,0.4900,18360.00,17640.00
+161,1185732,"Foot Locker",2020-02-02,Northeast,"New York","New York","Women's Street Footwear",28,315,8820.00,335.00,Outlet,0.4900,4498.20,4321.80
+162,1185732,"Foot Locker",2020-02-02,Northeast,"New York","New York","Women's Street Footwear",39,252,9828.00,491.00,Online,0.4900,5012.28,4815.72
+163,1128299,"West Gear",2020-02-03,West,Nevada,"Las Vegas","Women's Street Footwear",46,176,8096.00,389.00,Outlet,0.4900,4128.96,3967.04
+164,1128299,"West Gear",2020-02-03,West,Nevada,"Las Vegas","Women's Street Footwear",65,550,35750.00,16088.00,Outlet,0.4900,18232.50,17517.50
+165,1128299,"West Gear",2020-02-03,West,Nevada,"Las Vegas","Women's Street Footwear",62,165,10230.00,604.00,Online,0.4900,5217.30,5012.70
+166,1185732,"Foot Locker",2020-02-03,Northeast,"New York","New York","Women's Athletic Footwear",31,289,8959.00,331.00,Outlet,0.4900,4569.09,4389.91
+167,1185732,"Foot Locker",2020-02-03,Northeast,"New York","New York","Women's Athletic Footwear",41,239,9799.00,480.00,Online,0.4900,4997.49,4801.51
+168,1185732,"Foot Locker",2020-02-03,Northeast,"New York","New York","Women's Athletic Footwear",45,825,37125.00,12994.00,Outlet,0.4900,18933.75,18191.25
+169,1128299,"West Gear",2020-02-04,West,Nevada,"Las Vegas","Women's Athletic Footwear",47,145,6815.00,307.00,Outlet,0.4900,3475.65,3339.35
+170,1128299,"West Gear",2020-02-04,West,Nevada,"Las Vegas","Women's Athletic Footwear",58,111,6438.00,328.00,Online,0.4900,3283.38,3154.62
+171,1128299,"West Gear",2020-02-04,West,Nevada,"Las Vegas","Women's Athletic Footwear",60,425,25500.00,10200.00,Outlet,0.4900,13005.00,12495.00
+172,1185732,"Foot Locker",2020-02-04,Northeast,"New York","New York","Men's Apparel",60,825,49500.00,14850.00,Outlet,0.4900,25245.00,24255.00
+173,1185732,"Foot Locker",2020-02-04,Northeast,"New York","New York","Men's Apparel",44,281,12364.00,445.00,Outlet,0.4900,6305.64,6058.36
+174,1185732,"Foot Locker",2020-02-04,Northeast,"New York","New York","Men's Apparel",56,215,12040.00,506.00,Online,0.4900,6140.40,5899.60
+175,1128299,"West Gear",2020-02-05,West,Nevada,"Las Vegas","Men's Apparel",65,300,19500.00,11700.00,Outlet,0.4900,9945.00,9555.00
+176,1128299,"West Gear",2020-02-05,West,Nevada,"Las Vegas","Men's Apparel",47,105,4935.00,321.00,Outlet,0.4900,2516.85,2418.15
+177,1128299,"West Gear",2020-02-05,West,Nevada,"Las Vegas","Men's Apparel",59,81,4779.00,354.00,Online,0.4900,2437.29,2341.71
+178,1185732,"Foot Locker",2020-02-05,Northeast,"New York","New York","Women's Apparel",49,238,11662.00,431.00,Online,0.4900,5947.62,5714.38
+179,1185732,"Foot Locker",2020-02-05,Northeast,"New York","New York","Women's Apparel",39,333,12987.00,351.00,Outlet,0.4900,6623.37,6363.63
+180,1185732,"Foot Locker",2020-02-05,Northeast,"New York","New York","Women's Apparel",50,950,47500.00,11875.00,Outlet,0.4900,24225.00,23275.00
+181,1128299,"West Gear",2020-02-06,West,Nevada,"Las Vegas","Women's Apparel",80,600,48000.00,12000.00,Outlet,0.4900,24480.00,23520.00
+182,1128299,"West Gear",2020-02-06,West,Nevada,"Las Vegas","Women's Apparel",73,174,12702.00,508.00,Online,0.4900,6478.02,6223.98
+183,1128299,"West Gear",2020-02-06,West,Nevada,"Las Vegas","Women's Apparel",57,192,10944.00,306.00,Outlet,0.4900,5581.44,5362.56
+184,1185732,"Foot Locker",2020-02-06,Northeast,"New York","New York","Men's Street Footwear",54,317,17118.00,1096.00,Online,0.4900,8730.18,8387.82
+185,1185732,"Foot Locker",2020-02-06,Northeast,"New York","New York","Men's Street Footwear",44,366,16104.00,837.00,Outlet,0.4900,8213.04,7890.96
+186,1185732,"Foot Locker",2020-02-06,Northeast,"New York","New York","Men's Street Footwear",60,1220,73200.00,36600.00,Outlet,0.4900,37332.00,35868.00
+187,1128299,"West Gear",2020-02-07,West,Nevada,"Las Vegas","Men's Street Footwear",60,750,45000.00,18000.00,Outlet,0.4900,22950.00,22050.00
+188,1128299,"West Gear",2020-02-07,West,Nevada,"Las Vegas","Men's Street Footwear",48,233,11184.00,492.00,Outlet,0.4900,5703.84,5480.16
+189,1128299,"West Gear",2020-02-07,West,Nevada,"Las Vegas","Men's Street Footwear",58,218,12644.00,670.00,Online,0.4900,6448.44,6195.56
+190,1185732,"Foot Locker",2020-02-07,Northeast,"New York","New York","Men's Athletic Footwear",37,296,10952.00,383.00,Outlet,0.4900,5585.52,5366.48
+191,1185732,"Foot Locker",2020-02-07,Northeast,"New York","New York","Men's Athletic Footwear",50,259,12950.00,518.00,Online,0.4900,6604.50,6345.50
+192,1185732,"Foot Locker",2020-02-07,Northeast,"New York","New York","Men's Athletic Footwear",55,925,50875.00,15263.00,Outlet,0.4900,25946.25,24928.75
+193,1128299,"West Gear",2020-02-08,West,Nevada,"Las Vegas","Men's Athletic Footwear",65,600,39000.00,9750.00,Outlet,0.4900,19890.00,19110.00
+194,1128299,"West Gear",2020-02-08,West,Nevada,"Las Vegas","Men's Athletic Footwear",46,204,9384.00,253.00,Outlet,0.4900,4785.84,4598.16
+195,1128299,"West Gear",2020-02-08,West,Nevada,"Las Vegas","Men's Athletic Footwear",61,174,10614.00,382.00,Online,0.4900,5413.14,5200.86
+196,1185732,"Foot Locker",2020-02-08,Northeast,"New York","New York","Women's Street Footwear",50,900,45000.00,15750.00,Outlet,0.4900,22950.00,22050.00
+197,1185732,"Foot Locker",2020-02-08,Northeast,"New York","New York","Women's Street Footwear",46,261,12006.00,564.00,Online,0.4900,6123.06,5882.94
+198,1185732,"Foot Locker",2020-02-08,Northeast,"New York","New York","Women's Street Footwear",36,288,10368.00,435.00,Outlet,0.4900,5287.68,5080.32
+199,1128299,"West Gear",2020-02-09,West,Nevada,"Las Vegas","Women's Street Footwear",47,171,8037.00,362.00,Outlet,0.4900,4098.87,3938.13
+200,1128299,"West Gear",2020-02-09,West,Nevada,"Las Vegas","Women's Street Footwear",61,143,8723.00,462.00,Online,0.4900,4448.73,4274.27
+201,1128299,"West Gear",2020-02-09,West,Nevada,"Las Vegas","Women's Street Footwear",65,550,35750.00,14300.00,In-store,0.4900,18232.50,17517.50
+202,1185732,"Foot Locker",2020-02-09,Northeast,"New York","New York","Women's Athletic Footwear",50,850,42500.00,14875.00,Outlet,0.4900,21675.00,20825.00
+203,1185732,"Foot Locker",2020-02-09,Northeast,"New York","New York","Women's Athletic Footwear",46,230,10580.00,508.00,Online,0.4900,5395.80,5184.20
+204,1185732,"Foot Locker",2020-02-09,Northeast,"New York","New York","Women's Athletic Footwear",33,289,9537.00,381.00,Outlet,0.4900,4863.87,4673.13
+205,1128299,"West Gear",2020-02-10,West,Nevada,"Las Vegas","Women's Athletic Footwear",60,450,27000.00,9450.00,In-store,0.4900,13770.00,13230.00
+206,1128299,"West Gear",2020-02-10,West,Nevada,"Las Vegas","Women's Athletic Footwear",55,117,6435.00,315.00,Online,0.4900,3281.85,3153.15
+207,1128299,"West Gear",2020-02-10,West,Nevada,"Las Vegas","Women's Athletic Footwear",46,140,6440.00,270.00,Outlet,0.4900,3284.40,3155.60
+208,1185732,"Foot Locker",2020-02-10,Northeast,"New York","New York","Men's Apparel",47,280,13160.00,461.00,Outlet,0.4900,6711.60,6448.40
+209,1185732,"Foot Locker",2020-02-10,Northeast,"New York","New York","Men's Apparel",59,245,14455.00,650.00,Online,0.4900,7372.05,7082.95
+210,1185732,"Foot Locker",2020-02-10,Northeast,"New York","New York","Men's Apparel",60,875,52500.00,15750.00,Outlet,0.4900,26775.00,25725.00
+211,1128299,"West Gear",2020-02-11,West,Nevada,"Las Vegas","Men's Apparel",60,130,7800.00,546.00,Online,0.4900,3978.00,3822.00
+212,1128299,"West Gear",2020-02-11,West,Nevada,"Las Vegas","Men's Apparel",47,150,7050.00,416.00,Outlet,0.4900,3595.50,3454.50
+213,1128299,"West Gear",2020-02-11,West,Nevada,"Las Vegas","Men's Apparel",65,500,32500.00,17875.00,In-store,0.4900,16575.00,15925.00
+214,1128299,"West Gear",2020-02-12,West,Nevada,"Las Vegas","Women's Apparel",80,500,40000.00,8000.00,In-store,0.4900,20400.00,19600.00
+215,1128299,"West Gear",2020-02-12,West,Nevada,"Las Vegas","Women's Apparel",78,145,11310.00,339.00,Online,0.4900,5768.10,5541.90
+216,1128299,"West Gear",2020-02-12,West,Nevada,"Las Vegas","Women's Apparel",61,170,10370.00,280.00,Outlet,0.4900,5288.70,5081.30
+217,1128299,"West Gear",2020-02-13,West,Nevada,"Las Vegas","Men's Street Footwear",65,700,45500.00,18200.00,In-store,0.4900,23205.00,22295.00
+218,1128299,"West Gear",2020-02-13,West,Nevada,"Las Vegas","Men's Street Footwear",44,238,10472.00,482.00,Outlet,0.4900,5340.72,5131.28
+219,1128299,"West Gear",2020-02-13,West,Nevada,"Las Vegas","Men's Street Footwear",62,210,13020.00,690.00,Online,0.4900,6640.20,6379.80
+220,1128299,"West Gear",2020-02-14,West,Nevada,"Las Vegas","Men's Athletic Footwear",56,208,11648.00,338.00,Outlet,0.4900,5940.48,5707.52
+221,1128299,"West Gear",2020-02-14,West,Nevada,"Las Vegas","Men's Athletic Footwear",64,182,11648.00,454.00,Online,0.4900,5940.48,5707.52
+222,1128299,"West Gear",2020-02-14,West,Nevada,"Las Vegas","Men's Athletic Footwear",70,650,45500.00,11375.00,In-store,0.4900,23205.00,22295.00
+223,1128299,"West Gear",2020-02-15,West,Nevada,"Las Vegas","Women's Street Footwear",65,525,34125.00,13650.00,In-store,0.4900,17403.75,16721.25
+224,1128299,"West Gear",2020-02-15,West,Nevada,"Las Vegas","Women's Street Footwear",44,179,7876.00,331.00,Outlet,0.4900,4016.76,3859.24
+225,1128299,"West Gear",2020-02-15,West,Nevada,"Las Vegas","Women's Street Footwear",60,152,9120.00,474.00,Online,0.4900,4651.20,4468.80
+226,1128299,"West Gear",2020-02-16,West,Nevada,"Las Vegas","Women's Athletic Footwear",42,152,6384.00,268.00,Outlet,0.4900,3255.84,3128.16
+227,1128299,"West Gear",2020-02-16,West,Nevada,"Las Vegas","Women's Athletic Footwear",65,475,30875.00,10806.00,In-store,0.4900,15746.25,15128.75
+228,1128299,"West Gear",2020-02-16,West,Nevada,"Las Vegas","Women's Athletic Footwear",64,124,7936.00,373.00,Online,0.4900,4047.36,3888.64
+229,1128299,"West Gear",2020-02-17,West,Nevada,"Las Vegas","Men's Apparel",50,152,7600.00,448.00,Outlet,0.4900,3876.00,3724.00
+230,1128299,"West Gear",2020-02-17,West,Nevada,"Las Vegas","Men's Apparel",68,138,9384.00,638.00,Online,0.4900,4785.84,4598.16
+231,1128299,"West Gear",2020-02-17,West,Nevada,"Las Vegas","Men's Apparel",75,475,35625.00,19594.00,In-store,0.4900,18168.75,17456.25
+232,1128299,"West Gear",2020-02-18,West,Nevada,"Las Vegas","Women's Apparel",78,108,8424.00,286.00,Online,0.4900,4296.24,4127.76
+233,1128299,"West Gear",2020-02-18,West,Nevada,"Las Vegas","Women's Apparel",55,128,7040.00,183.00,Outlet,0.4900,3590.40,3449.60
+234,1128299,"West Gear",2020-02-18,West,Nevada,"Las Vegas","Women's Apparel",80,400,32000.00,6400.00,In-store,0.4900,16320.00,15680.00
+235,1128299,"West Gear",2020-02-19,West,Nevada,"Las Vegas","Men's Street Footwear",60,600,36000.00,12600.00,In-store,0.4900,18360.00,17640.00
+236,1128299,"West Gear",2020-02-19,West,Nevada,"Las Vegas","Men's Street Footwear",41,186,7626.00,290.00,Outlet,0.4900,3889.26,3736.74
+237,1128299,"West Gear",2020-02-19,West,Nevada,"Las Vegas","Men's Street Footwear",56,174,9744.00,468.00,Online,0.4900,4969.44,4774.56
+238,1128299,"West Gear",2020-02-20,West,Nevada,"Las Vegas","Men's Athletic Footwear",51,180,9180.00,248.00,Outlet,0.4900,4681.80,4498.20
+239,1128299,"West Gear",2020-02-20,West,Nevada,"Las Vegas","Men's Athletic Footwear",61,162,9882.00,336.00,Online,0.4900,5039.82,4842.18
+240,1128299,"West Gear",2020-02-20,West,Nevada,"Las Vegas","Men's Athletic Footwear",65,600,39000.00,7800.00,In-store,0.4900,19890.00,19110.00
+241,1128299,"West Gear",2020-02-21,West,Nevada,"Las Vegas","Women's Street Footwear",60,450,27000.00,9450.00,In-store,0.4900,13770.00,13230.00
+242,1128299,"West Gear",2020-02-21,West,Nevada,"Las Vegas","Women's Street Footwear",57,117,6669.00,333.00,Online,0.4900,3401.19,3267.81
+243,1128299,"West Gear",2020-02-21,West,Nevada,"Las Vegas","Women's Street Footwear",46,144,6624.00,272.00,Outlet,0.4900,3378.24,3245.76
+244,1128299,"West Gear",2020-02-22,West,Nevada,"Las Vegas","Women's Athletic Footwear",60,400,24000.00,7200.00,In-store,0.4900,12240.00,11760.00
+245,1128299,"West Gear",2020-02-22,West,Nevada,"Las Vegas","Women's Athletic Footwear",43,124,5332.00,187.00,Outlet,0.4900,2719.32,2612.68
+246,1128299,"West Gear",2020-02-22,West,Nevada,"Las Vegas","Women's Athletic Footwear",58,112,6496.00,286.00,Online,0.4900,3312.96,3183.04
+247,1128299,"West Gear",2020-02-23,West,Nevada,"Las Vegas","Men's Apparel",67,120,8040.00,490.00,Online,0.4900,4100.40,3939.60
+248,1128299,"West Gear",2020-02-23,West,Nevada,"Las Vegas","Men's Apparel",53,128,6784.00,360.00,Outlet,0.4900,3459.84,3324.16
+249,1128299,"West Gear",2020-02-23,West,Nevada,"Las Vegas","Men's Apparel",70,400,28000.00,14000.00,In-store,0.4900,14280.00,13720.00
+250,1128299,"West Gear",2020-02-24,West,Nevada,"Las Vegas","Women's Apparel",54,140,7560.00,159.00,Outlet,0.4900,3855.60,3704.40
+251,1128299,"West Gear",2020-02-24,West,Nevada,"Las Vegas","Women's Apparel",75,450,33750.00,5063.00,In-store,0.4900,17212.50,16537.50
+252,1128299,"West Gear",2020-02-24,West,Nevada,"Las Vegas","Women's Apparel",74,113,8362.00,251.00,Online,0.4900,4264.62,4097.38
+253,1128299,"West Gear",2020-02-25,West,Nevada,"Las Vegas","Men's Street Footwear",56,138,7728.00,379.00,Online,0.4900,3941.28,3786.72
+254,1128299,"West Gear",2020-02-25,West,Nevada,"Las Vegas","Men's Street Footwear",47,171,8037.00,321.00,Outlet,0.4900,4098.87,3938.13
+255,1128299,"West Gear",2020-02-25,West,Nevada,"Las Vegas","Men's Street Footwear",60,550,33000.00,11550.00,In-store,0.4900,16830.00,16170.00
+256,1128299,"West Gear",2020-02-26,West,Nevada,"Las Vegas","Men's Athletic Footwear",65,550,35750.00,7150.00,In-store,0.4900,18232.50,17517.50
+257,1128299,"West Gear",2020-02-26,West,Nevada,"Las Vegas","Men's Athletic Footwear",59,165,9735.00,341.00,Online,0.4900,4964.85,4770.15
+258,1128299,"West Gear",2020-02-26,West,Nevada,"Las Vegas","Men's Athletic Footwear",50,193,9650.00,241.00,Outlet,0.4900,4921.50,4728.50
+259,1128299,"West Gear",2020-02-27,West,Nevada,"Las Vegas","Women's Street Footwear",54,109,5886.00,265.00,Online,0.4900,3001.86,2884.14
+260,1128299,"West Gear",2020-02-27,West,Nevada,"Las Vegas","Women's Street Footwear",47,113,5311.00,223.00,Outlet,0.4900,2708.61,2602.39
+261,1128299,"West Gear",2020-02-27,West,Nevada,"Las Vegas","Women's Street Footwear",60,375,22500.00,7875.00,In-store,0.4900,11475.00,11025.00
+262,1128299,"West Gear",2020-02-28,West,Nevada,"Las Vegas","Women's Athletic Footwear",60,350,21000.00,6300.00,In-store,0.4900,10710.00,10290.00
+263,1128299,"West Gear",2020-02-28,West,Nevada,"Las Vegas","Women's Athletic Footwear",43,119,5117.00,169.00,Outlet,0.4900,2609.67,2507.33
+264,1128299,"West Gear",2020-02-28,West,Nevada,"Las Vegas","Women's Athletic Footwear",54,105,5670.00,238.00,Online,0.4900,2891.70,2778.30
+265,1128299,"West Gear",2020-03-01,West,Nevada,"Las Vegas","Men's Apparel",48,107,5136.00,277.00,Outlet,0.4900,2619.36,2516.64
+266,1128299,"West Gear",2020-03-01,West,Nevada,"Las Vegas","Men's Apparel",63,81,5103.00,311.00,Online,0.4900,2602.53,2500.47
+267,1128299,"West Gear",2020-03-01,West,Nevada,"Las Vegas","Men's Apparel",70,325,22750.00,11375.00,In-store,0.4900,11602.50,11147.50
+268,1128299,"West Gear",2020-03-02,West,Nevada,"Las Vegas","Women's Apparel",75,375,28125.00,4219.00,In-store,0.4900,14343.75,13781.25
+269,1128299,"West Gear",2020-03-02,West,Nevada,"Las Vegas","Women's Apparel",53,120,6360.00,140.00,Outlet,0.4900,3243.60,3116.40
+270,1128299,"West Gear",2020-03-02,West,Nevada,"Las Vegas","Women's Apparel",68,94,6392.00,160.00,Online,0.4900,3259.92,3132.08
+271,1128299,"West Gear",2020-03-03,West,Nevada,"Las Vegas","Men's Street Footwear",47,196,9212.00,387.00,Outlet,0.4900,4698.12,4513.88
+272,1128299,"West Gear",2020-03-03,West,Nevada,"Las Vegas","Men's Street Footwear",57,155,8835.00,424.00,Online,0.4900,4505.85,4329.15
+273,1128299,"West Gear",2020-03-03,West,Nevada,"Las Vegas","Men's Street Footwear",60,575,34500.00,12075.00,In-store,0.4900,17595.00,16905.00
+274,1185732,"Foot Locker",2020-03-03,Northeast,"New York","New York","Women's Apparel",65,1000,65000.00,16250.00,Outlet,0.4900,33150.00,31850.00
+275,1185732,"Foot Locker",2020-03-03,Northeast,"New York","New York","Women's Apparel",44,320,14080.00,408.00,Outlet,0.4900,7180.80,6899.20
+276,1185732,"Foot Locker",2020-03-03,Northeast,"New York","New York","Women's Apparel",59,290,17110.00,616.00,Online,0.4900,8726.10,8383.90
+277,1128299,"West Gear",2020-03-04,West,Nevada,"Las Vegas","Men's Athletic Footwear",52,201,10452.00,261.00,Outlet,0.4900,5330.52,5121.48
+278,1128299,"West Gear",2020-03-04,West,Nevada,"Las Vegas","Men's Athletic Footwear",65,575,37375.00,7475.00,In-store,0.4900,19061.25,18313.75
+279,1128299,"West Gear",2020-03-04,West,Nevada,"Las Vegas","Men's Athletic Footwear",64,150,9600.00,326.00,Online,0.4900,4896.00,4704.00
+280,1185732,"Foot Locker",2020-03-04,Northeast,"New York","New York","Men's Street Footwear",47,400,18800.00,978.00,Outlet,0.4900,9588.00,9212.00
+281,1185732,"Foot Locker",2020-03-04,Northeast,"New York","New York","Men's Street Footwear",55,313,17215.00,1050.00,Online,0.4900,8779.65,8435.35
+282,1185732,"Foot Locker",2020-03-04,Northeast,"New York","New York","Men's Street Footwear",60,1250,75000.00,37500.00,Outlet,0.4900,38250.00,36750.00
+283,1128299,"West Gear",2020-03-05,West,Nevada,"Las Vegas","Women's Street Footwear",44,140,6160.00,259.00,Outlet,0.4900,3141.60,3018.40
+284,1128299,"West Gear",2020-03-05,West,Nevada,"Las Vegas","Women's Street Footwear",60,425,25500.00,8925.00,In-store,0.4900,13005.00,12495.00
+285,1128299,"West Gear",2020-03-05,West,Nevada,"Las Vegas","Women's Street Footwear",55,106,5830.00,268.00,Online,0.4900,2973.30,2856.70
+286,1185732,"Foot Locker",2020-03-05,Northeast,"New York","New York","Men's Athletic Footwear",55,1000,55000.00,16500.00,Outlet,0.4900,28050.00,26950.00
+287,1185732,"Foot Locker",2020-03-05,Northeast,"New York","New York","Men's Athletic Footwear",54,270,14580.00,598.00,Online,0.4900,7435.80,7144.20
+288,1185732,"Foot Locker",2020-03-05,Northeast,"New York","New York","Men's Athletic Footwear",41,340,13940.00,474.00,Outlet,0.4900,7109.40,6830.60
+289,1128299,"West Gear",2020-03-06,West,Nevada,"Las Vegas","Women's Athletic Footwear",43,132,5676.00,199.00,Outlet,0.4900,2894.76,2781.24
+290,1128299,"West Gear",2020-03-06,West,Nevada,"Las Vegas","Women's Athletic Footwear",56,108,6048.00,248.00,Online,0.4900,3084.48,2963.52
+291,1128299,"West Gear",2020-03-06,West,Nevada,"Las Vegas","Women's Athletic Footwear",60,400,24000.00,7200.00,In-store,0.4900,12240.00,11760.00
+292,1185732,"Foot Locker",2020-03-06,Northeast,"New York","New York","Women's Street Footwear",37,296,10952.00,449.00,Outlet,0.4900,5585.52,5366.48
+293,1185732,"Foot Locker",2020-03-06,Northeast,"New York","New York","Women's Street Footwear",46,278,12788.00,614.00,Online,0.4900,6521.88,6266.12
+294,1185732,"Foot Locker",2020-03-06,Northeast,"New York","New York","Women's Street Footwear",50,925,46250.00,16188.00,Outlet,0.4900,23587.50,22662.50
+295,1128299,"West Gear",2020-03-07,West,Nevada,"Las Vegas","Men's Apparel",70,350,24500.00,12250.00,In-store,0.4900,12495.00,12005.00
+296,1128299,"West Gear",2020-03-07,West,Nevada,"Las Vegas","Men's Apparel",46,119,5474.00,296.00,Outlet,0.4900,2791.74,2682.26
+297,1128299,"West Gear",2020-03-07,West,Nevada,"Las Vegas","Men's Apparel",64,88,5632.00,360.00,Online,0.4900,2872.32,2759.68
+298,1185732,"Foot Locker",2020-03-07,Northeast,"New York","New York","Women's Athletic Footwear",47,261,12267.00,552.00,Online,0.4900,6256.17,6010.83
+299,1185732,"Foot Locker",2020-03-07,Northeast,"New York","New York","Women's Athletic Footwear",38,297,11286.00,429.00,Outlet,0.4900,5755.86,5530.14
+300,1185732,"Foot Locker",2020-03-07,Northeast,"New York","New York","Women's Athletic Footwear",50,900,45000.00,15750.00,Outlet,0.4900,22950.00,22050.00
+301,1128299,"West Gear",2020-03-08,West,Nevada,"Las Vegas","Women's Apparel",75,475,35625.00,5344.00,In-store,0.4900,18168.75,17456.25
+302,1128299,"West Gear",2020-03-08,West,Nevada,"Las Vegas","Women's Apparel",68,133,9044.00,235.00,Online,0.4900,4612.44,4431.56
+303,1128299,"West Gear",2020-03-08,West,Nevada,"Las Vegas","Women's Apparel",51,162,8262.00,174.00,Outlet,0.4900,4213.62,4048.38
+304,1185732,"Foot Locker",2020-03-08,Northeast,"New York","New York","Men's Apparel",60,900,54000.00,16200.00,Outlet,0.4900,27540.00,26460.00
+305,1185732,"Foot Locker",2020-03-08,Northeast,"New York","New York","Men's Apparel",55,252,13860.00,624.00,Online,0.4900,7068.60,6791.40
+306,1185732,"Foot Locker",2020-03-08,Northeast,"New York","New York","Men's Apparel",45,288,12960.00,441.00,Outlet,0.4900,6609.60,6350.40
+307,1128299,"West Gear",2020-03-09,West,Nevada,"Las Vegas","Men's Street Footwear",47,216,10152.00,376.00,Outlet,0.4900,5177.52,4974.48
+308,1128299,"West Gear",2020-03-09,West,Nevada,"Las Vegas","Men's Street Footwear",58,196,11368.00,534.00,Online,0.4900,5797.68,5570.32
+309,1128299,"West Gear",2020-03-09,West,Nevada,"Las Vegas","Men's Street Footwear",60,675,40500.00,14175.00,In-store,0.4900,20655.00,19845.00
+310,1185732,"Foot Locker",2020-03-09,Northeast,"New York","New York","Women's Apparel",46,347,15962.00,511.00,Outlet,0.4900,8140.62,7821.38
+311,1185732,"Foot Locker",2020-03-09,Northeast,"New York","New York","Women's Apparel",64,305,19520.00,761.00,Online,0.4900,9955.20,9564.80
+312,1185732,"Foot Locker",2020-03-09,Northeast,"New York","New York","Women's Apparel",65,1050,68250.00,17063.00,Outlet,0.4900,34807.50,33442.50
+313,1128299,"West Gear",2020-03-10,West,Nevada,"Las Vegas","Men's Athletic Footwear",65,675,43875.00,8775.00,In-store,0.4900,22376.25,21498.75
+314,1128299,"West Gear",2020-03-10,West,Nevada,"Las Vegas","Men's Athletic Footwear",50,209,10450.00,261.00,Outlet,0.4900,5329.50,5120.50
+315,1128299,"West Gear",2020-03-10,West,Nevada,"Las Vegas","Men's Athletic Footwear",62,189,11718.00,398.00,Online,0.4900,5976.18,5741.82
+316,1185732,"Foot Locker",2020-03-10,Northeast,"New York","New York","Men's Street Footwear",44,434,19096.00,993.00,Outlet,0.4900,9738.96,9357.04
+317,1185732,"Foot Locker",2020-03-10,Northeast,"New York","New York","Men's Street Footwear",59,319,18821.00,1129.00,Online,0.4900,9598.71,9222.29
+318,1185732,"Foot Locker",2020-03-10,Northeast,"New York","New York","Men's Street Footwear",60,1275,76500.00,38250.00,Outlet,0.4900,39015.00,37485.00
+319,1128299,"West Gear",2020-03-11,West,Nevada,"Las Vegas","Women's Street Footwear",47,166,7802.00,328.00,Outlet,0.4900,3979.02,3822.98
+320,1128299,"West Gear",2020-03-11,West,Nevada,"Las Vegas","Women's Street Footwear",60,475,28500.00,9975.00,In-store,0.4900,14535.00,13965.00
+321,1128299,"West Gear",2020-03-11,West,Nevada,"Las Vegas","Women's Street Footwear",59,119,7021.00,330.00,Online,0.4900,3580.71,3440.29
+322,1185732,"Foot Locker",2020-03-11,Northeast,"New York","New York","Men's Athletic Footwear",55,1025,56375.00,16913.00,Outlet,0.4900,28751.25,27623.75
+323,1185732,"Foot Locker",2020-03-11,Northeast,"New York","New York","Men's Athletic Footwear",41,318,13038.00,482.00,Outlet,0.4900,6649.38,6388.62
+324,1185732,"Foot Locker",2020-03-11,Northeast,"New York","New York","Men's Athletic Footwear",53,267,14151.00,594.00,Online,0.4900,7217.01,6933.99
+325,1128299,"West Gear",2020-03-12,West,Nevada,"Las Vegas","Women's Athletic Footwear",60,475,28500.00,8550.00,In-store,0.4900,14535.00,13965.00
+326,1128299,"West Gear",2020-03-12,West,Nevada,"Las Vegas","Women's Athletic Footwear",40,166,6640.00,239.00,Outlet,0.4900,3386.40,3253.60
+327,1128299,"West Gear",2020-03-12,West,Nevada,"Las Vegas","Women's Athletic Footwear",57,133,7581.00,334.00,Online,0.4900,3866.31,3714.69
+328,1185732,"Foot Locker",2020-03-12,Northeast,"New York","New York","Women's Street Footwear",50,950,47500.00,16625.00,Outlet,0.4900,24225.00,23275.00
+329,1185732,"Foot Locker",2020-03-12,Northeast,"New York","New York","Women's Street Footwear",46,247,11362.00,511.00,Online,0.4900,5794.62,5567.38
+330,1185732,"Foot Locker",2020-03-12,Northeast,"New York","New York","Women's Street Footwear",35,295,10325.00,434.00,Outlet,0.4900,5265.75,5059.25
+331,1128299,"West Gear",2020-03-13,West,Nevada,"Las Vegas","Men's Apparel",70,400,28000.00,14000.00,In-store,0.4900,14280.00,13720.00
+332,1128299,"West Gear",2020-03-13,West,Nevada,"Las Vegas","Men's Apparel",69,112,7728.00,464.00,Online,0.4900,3941.28,3786.72
+333,1128299,"West Gear",2020-03-13,West,Nevada,"Las Vegas","Men's Apparel",49,136,6664.00,360.00,Outlet,0.4900,3398.64,3265.36
+334,1185732,"Foot Locker",2020-03-13,Northeast,"New York","New York","Women's Athletic Footwear",50,900,45000.00,15750.00,Outlet,0.4900,22950.00,22050.00
+335,1185732,"Foot Locker",2020-03-13,Northeast,"New York","New York","Women's Athletic Footwear",35,270,9450.00,350.00,Outlet,0.4900,4819.50,4630.50
+336,1185732,"Foot Locker",2020-03-13,Northeast,"New York","New York","Women's Athletic Footwear",46,243,11178.00,514.00,Online,0.4900,5700.78,5477.22
+337,1128299,"West Gear",2020-03-14,West,Nevada,"Las Vegas","Women's Apparel",56,170,9520.00,171.00,Outlet,0.4900,4855.20,4664.80
+338,1128299,"West Gear",2020-03-14,West,Nevada,"Las Vegas","Women's Apparel",74,150,11100.00,300.00,Online,0.4900,5661.00,5439.00
+339,1128299,"West Gear",2020-03-14,West,Nevada,"Las Vegas","Women's Apparel",75,500,37500.00,5625.00,In-store,0.4900,19125.00,18375.00
+340,1185732,"Foot Locker",2020-03-14,Northeast,"New York","New York","Men's Apparel",58,231,13398.00,576.00,Online,0.4900,6832.98,6565.02
+341,1185732,"Foot Locker",2020-03-14,Northeast,"New York","New York","Men's Apparel",46,278,12788.00,435.00,Outlet,0.4900,6521.88,6266.12
+342,1185732,"Foot Locker",2020-03-14,Northeast,"New York","New York","Men's Apparel",60,925,55500.00,16650.00,Outlet,0.4900,28305.00,27195.00
+343,1128299,"West Gear",2020-03-15,West,Nevada,"Las Vegas","Men's Street Footwear",30,425,12750.00,4463.00,In-store,0.4900,6502.50,6247.50
+344,1128299,"West Gear",2020-03-15,West,Nevada,"Las Vegas","Men's Street Footwear",20,149,2980.00,119.00,Outlet,0.4900,1519.80,1460.20
+345,1128299,"West Gear",2020-03-15,West,Nevada,"Las Vegas","Men's Street Footwear",28,123,3444.00,172.00,Online,0.4900,1756.44,1687.56
+346,1185732,"Foot Locker",2020-03-15,Northeast,"New York","New York","Women's Apparel",65,1100,71500.00,17875.00,Outlet,0.4900,36465.00,35035.00
+347,1185732,"Foot Locker",2020-03-15,Northeast,"New York","New York","Women's Apparel",47,352,16544.00,447.00,Outlet,0.4900,8437.44,8106.56
+348,1185732,"Foot Locker",2020-03-15,Northeast,"New York","New York","Women's Apparel",61,286,17446.00,698.00,Online,0.4900,8897.46,8548.54
+349,1128299,"West Gear",2020-03-16,West,Nevada,"Las Vegas","Men's Athletic Footwear",38,123,4674.00,154.00,Online,0.4900,2383.74,2290.26
+350,1128299,"West Gear",2020-03-16,West,Nevada,"Las Vegas","Men's Athletic Footwear",31,145,4495.00,112.00,Outlet,0.4900,2292.45,2202.55
+351,1128299,"West Gear",2020-03-16,West,Nevada,"Las Vegas","Men's Athletic Footwear",40,425,17000.00,3400.00,In-store,0.4900,8670.00,8330.00
+352,1185732,"Foot Locker",2020-03-16,Northeast,"New York","New York","Men's Street Footwear",58,325,18850.00,1150.00,Online,0.4900,9613.50,9236.50
+353,1185732,"Foot Locker",2020-03-16,Northeast,"New York","New York","Men's Street Footwear",41,375,15375.00,800.00,Outlet,0.4900,7841.25,7533.75
+354,1185732,"Foot Locker",2020-03-16,Northeast,"New York","New York","Men's Street Footwear",60,1250,75000.00,37500.00,Outlet,0.4900,38250.00,36750.00
+355,1128299,"West Gear",2020-03-17,West,Nevada,"Las Vegas","Women's Street Footwear",40,425,17000.00,5950.00,In-store,0.4900,8670.00,8330.00
+356,1128299,"West Gear",2020-03-17,West,Nevada,"Las Vegas","Women's Street Footwear",26,128,3328.00,140.00,Outlet,0.4900,1697.28,1630.72
+357,1128299,"West Gear",2020-03-17,West,Nevada,"Las Vegas","Women's Street Footwear",39,115,4485.00,206.00,Online,0.4900,2287.35,2197.65
+358,1185732,"Foot Locker",2020-03-17,Northeast,"New York","New York","Men's Athletic Footwear",55,1025,56375.00,16913.00,Outlet,0.4900,28751.25,27623.75
+359,1185732,"Foot Locker",2020-03-17,Northeast,"New York","New York","Men's Athletic Footwear",37,359,13283.00,452.00,Outlet,0.4900,6774.33,6508.67
+360,1185732,"Foot Locker",2020-03-17,Northeast,"New York","New York","Men's Athletic Footwear",53,308,16324.00,669.00,Online,0.4900,8325.24,7998.76
+361,1128299,"West Gear",2020-03-18,West,Nevada,"Las Vegas","Women's Athletic Footwear",38,72,2736.00,123.00,Online,0.4900,1395.36,1340.64
+362,1128299,"West Gear",2020-03-18,West,Nevada,"Las Vegas","Women's Athletic Footwear",26,96,2496.00,85.00,Outlet,0.4900,1272.96,1223.04
+363,1128299,"West Gear",2020-03-18,West,Nevada,"Las Vegas","Women's Athletic Footwear",40,275,11000.00,3300.00,In-store,0.4900,5610.00,5390.00
+364,1185732,"Foot Locker",2020-03-18,Northeast,"New York","New York","Women's Street Footwear",45,257,11565.00,532.00,Online,0.4900,5898.15,5666.85
+365,1185732,"Foot Locker",2020-03-18,Northeast,"New York","New York","Women's Street Footwear",37,314,11618.00,430.00,Outlet,0.4900,5925.18,5692.82
+366,1185732,"Foot Locker",2020-03-18,Northeast,"New York","New York","Women's Street Footwear",50,950,47500.00,16625.00,Outlet,0.4900,24225.00,23275.00
+367,1128299,"West Gear",2020-03-19,West,Colorado,Denver,"Men's Apparel",41,56,2296.00,147.00,Online,0.4900,1170.96,1125.04
+368,1128299,"West Gear",2020-03-19,West,Colorado,Denver,"Men's Apparel",45,225,10125.00,5063.00,In-store,0.4900,5163.75,4961.25
+369,1128299,"West Gear",2020-03-20,West,Colorado,Denver,"Women's Apparel",40,475,19000.00,2850.00,In-store,0.4900,9690.00,9310.00
+370,1128299,"West Gear",2020-03-20,West,Colorado,Denver,"Women's Apparel",37,128,4736.00,123.00,Online,0.4900,2415.36,2320.64
+371,1128299,"West Gear",2020-03-21,West,Colorado,Denver,"Men's Street Footwear",30,525,15750.00,5513.00,In-store,0.4900,8032.50,7717.50
+372,1128299,"West Gear",2020-03-21,West,Colorado,Denver,"Men's Street Footwear",27,131,3537.00,170.00,Online,0.4900,1803.87,1733.13
+373,1128299,"West Gear",2020-03-22,West,Colorado,Denver,"Men's Athletic Footwear",40,425,17000.00,3400.00,In-store,0.4900,8670.00,8330.00
+374,1128299,"West Gear",2020-03-22,West,Colorado,Denver,"Men's Athletic Footwear",38,111,4218.00,127.00,Online,0.4900,2151.18,2066.82
+375,1128299,"West Gear",2020-03-23,West,Colorado,Denver,"Women's Street Footwear",38,123,4674.00,234.00,Online,0.4900,2383.74,2290.26
+376,1128299,"West Gear",2020-03-23,West,Colorado,Denver,"Women's Street Footwear",40,425,17000.00,5950.00,In-store,0.4900,8670.00,8330.00
+377,1128299,"West Gear",2020-03-24,West,Colorado,Denver,"Women's Athletic Footwear",40,275,11000.00,3300.00,In-store,0.4900,5610.00,5390.00
+378,1128299,"West Gear",2020-03-24,West,Colorado,Denver,"Women's Athletic Footwear",36,72,2592.00,117.00,Online,0.4900,1321.92,1270.08
+379,1128299,"West Gear",2020-03-25,West,Colorado,Denver,"Men's Apparel",43,58,2494.00,155.00,Online,0.4900,1271.94,1222.06
+380,1128299,"West Gear",2020-03-25,West,Colorado,Denver,"Men's Apparel",45,200,9000.00,4500.00,In-store,0.4900,4590.00,4410.00
+381,1128299,"West Gear",2020-03-26,West,Colorado,Denver,"Women's Apparel",40,400,16000.00,2400.00,In-store,0.4900,8160.00,7840.00
+382,1128299,"West Gear",2020-03-26,West,Colorado,Denver,"Women's Apparel",37,116,4292.00,116.00,Online,0.4900,2188.92,2103.08
+383,1128299,"West Gear",2020-03-27,West,Colorado,Denver,"Men's Street Footwear",37,165,6105.00,293.00,Online,0.4900,3113.55,2991.45
+384,1128299,"West Gear",2020-03-27,West,Colorado,Denver,"Men's Street Footwear",40,550,22000.00,7700.00,In-store,0.4900,11220.00,10780.00
+385,1128299,"West Gear",2020-03-28,West,Colorado,Denver,"Men's Athletic Footwear",48,112,5376.00,183.00,Online,0.4900,2741.76,2634.24
+386,1128299,"West Gear",2020-03-28,West,Colorado,Denver,"Men's Athletic Footwear",50,400,20000.00,4000.00,In-store,0.4900,10200.00,9800.00
+387,1128299,"West Gear",2020-03-29,West,Colorado,Denver,"Women's Street Footwear",55,400,22000.00,7700.00,In-store,0.4900,11220.00,10780.00
+388,1128299,"West Gear",2020-03-29,West,Colorado,Denver,"Women's Street Footwear",51,116,5916.00,290.00,Online,0.4900,3017.16,2898.84
+389,1128299,"West Gear",2020-03-30,West,Colorado,Denver,"Women's Athletic Footwear",51,90,4590.00,197.00,Online,0.4900,2340.90,2249.10
+390,1128299,"West Gear",2020-03-30,West,Colorado,Denver,"Women's Athletic Footwear",55,300,16500.00,4950.00,In-store,0.4900,8415.00,8085.00
+391,1128299,"West Gear",2020-03-31,West,Colorado,Denver,"Men's Apparel",56,39,2184.00,131.00,Online,0.4900,1113.84,1070.16
+392,1128299,"West Gear",2020-03-31,West,Colorado,Denver,"Men's Apparel",60,150,9000.00,4500.00,In-store,0.4900,4590.00,4410.00
+393,1185732,"Foot Locker",2020-03-31,Northeast,"New York","New York","Women's Athletic Footwear",40,324,12960.00,518.00,Outlet,0.4900,6609.60,6350.40
+394,1185732,"Foot Locker",2020-03-31,Northeast,"New York","New York","Women's Athletic Footwear",47,241,11327.00,532.00,Online,0.4900,5776.77,5550.23
+395,1185732,"Foot Locker",2020-03-31,Northeast,"New York","New York","Women's Athletic Footwear",50,925,46250.00,16188.00,Outlet,0.4900,23587.50,22662.50
+396,1128299,"West Gear",2020-04-01,West,Colorado,Denver,"Women's Apparel",55,350,19250.00,2888.00,In-store,0.4900,9817.50,9432.50
+397,1128299,"West Gear",2020-04-01,West,Colorado,Denver,"Women's Apparel",52,95,4940.00,143.00,Online,0.4900,2519.40,2420.60
+398,1128299,"West Gear",2020-04-02,West,Colorado,Denver,"Men's Street Footwear",60,525,31500.00,11025.00,In-store,0.4900,16065.00,15435.00
+399,1128299,"West Gear",2020-04-02,West,Colorado,Denver,"Men's Street Footwear",55,131,7205.00,339.00,Online,0.4900,3674.55,3530.45
+400,1128299,"West Gear",2020-04-03,West,Colorado,Denver,"Men's Athletic Footwear",59,94,5546.00,194.00,Online,0.4900,2828.46,2717.54
+401,1128299,"West Gear",2020-04-03,West,Colorado,Denver,"Men's Athletic Footwear",65,325,21125.00,4225.00,In-store,0.4900,10773.75,10351.25
+402,1128299,"West Gear",2020-04-04,West,Colorado,Denver,"Women's Street Footwear",65,375,24375.00,8531.00,In-store,0.4900,12431.25,11943.75
+403,1128299,"West Gear",2020-04-04,West,Colorado,Denver,"Women's Street Footwear",61,113,6893.00,345.00,Online,0.4900,3515.43,3377.57
+404,1128299,"West Gear",2020-04-05,West,Colorado,Denver,"Women's Athletic Footwear",56,74,4144.00,178.00,Online,0.4900,2113.44,2030.56
+405,1128299,"West Gear",2020-04-05,West,Colorado,Denver,"Women's Athletic Footwear",60,275,16500.00,4950.00,In-store,0.4900,8415.00,8085.00
+406,1128299,"West Gear",2020-04-06,West,Colorado,Denver,"Men's Apparel",65,175,11375.00,5688.00,In-store,0.4900,5801.25,5573.75
+407,1128299,"West Gear",2020-04-06,West,Colorado,Denver,"Men's Apparel",62,44,2728.00,166.00,Online,0.4900,1391.28,1336.72
+408,1128299,"West Gear",2020-04-07,West,Colorado,Denver,"Women's Apparel",72,98,7056.00,176.00,Online,0.4900,3598.56,3457.44
+409,1128299,"West Gear",2020-04-07,West,Colorado,Denver,"Women's Apparel",80,325,26000.00,3900.00,In-store,0.4900,13260.00,12740.00
+410,1128299,"West Gear",2020-04-08,West,Colorado,Denver,"Men's Street Footwear",55,131,7205.00,440.00,Online,0.4900,3674.55,3530.45
+411,1128299,"West Gear",2020-04-08,West,Colorado,Denver,"Men's Street Footwear",60,525,31500.00,15750.00,In-store,0.4900,16065.00,15435.00
+412,1128299,"West Gear",2020-04-09,West,Colorado,Denver,"Men's Athletic Footwear",65,375,24375.00,8531.00,In-store,0.4900,12431.25,11943.75
+413,1128299,"West Gear",2020-04-09,West,Colorado,Denver,"Men's Athletic Footwear",60,105,6300.00,290.00,Online,0.4900,3213.00,3087.00
+414,1128299,"West Gear",2020-04-10,West,Colorado,Denver,"Women's Street Footwear",59,98,5782.00,347.00,Online,0.4900,2948.82,2833.18
+415,1128299,"West Gear",2020-04-10,West,Colorado,Denver,"Women's Street Footwear",65,375,24375.00,12188.00,In-store,0.4900,12431.25,11943.75
+416,1128299,"West Gear",2020-04-11,West,Colorado,Denver,"Women's Athletic Footwear",60,275,16500.00,7425.00,In-store,0.4900,8415.00,8085.00
+417,1128299,"West Gear",2020-04-11,West,Colorado,Denver,"Women's Athletic Footwear",58,69,4002.00,236.00,Online,0.4900,2041.02,1960.98
+418,1128299,"West Gear",2020-04-12,West,Colorado,Denver,"Men's Apparel",63,44,2772.00,211.00,Online,0.4900,1413.72,1358.28
+419,1128299,"West Gear",2020-04-12,West,Colorado,Denver,"Men's Apparel",65,175,11375.00,7394.00,In-store,0.4900,5801.25,5573.75
+420,1128299,"West Gear",2020-04-13,West,Colorado,Denver,"Women's Apparel",80,475,38000.00,11400.00,In-store,0.4900,19380.00,18620.00
+421,1128299,"West Gear",2020-04-13,West,Colorado,Denver,"Women's Apparel",74,133,9842.00,423.00,Online,0.4900,5019.42,4822.58
+422,1128299,"West Gear",2020-04-14,West,Colorado,Denver,"Men's Street Footwear",60,725,43500.00,21750.00,In-store,0.4900,22185.00,21315.00
+423,1128299,"West Gear",2020-04-14,West,Colorado,Denver,"Men's Street Footwear",54,189,10206.00,653.00,Online,0.4900,5205.06,5000.94
+424,1128299,"West Gear",2020-04-15,West,Colorado,Denver,"Men's Athletic Footwear",59,144,8496.00,425.00,Online,0.4900,4332.96,4163.04
+425,1128299,"West Gear",2020-04-15,West,Colorado,Denver,"Men's Athletic Footwear",65,575,37375.00,13081.00,In-store,0.4900,19061.25,18313.75
+426,1128299,"West Gear",2020-04-16,West,Colorado,Denver,"Women's Street Footwear",65,575,37375.00,18688.00,In-store,0.4900,19061.25,18313.75
+427,1128299,"West Gear",2020-04-16,West,Colorado,Denver,"Women's Street Footwear",64,150,9600.00,614.00,Online,0.4900,4896.00,4704.00
+428,1128299,"West Gear",2020-04-17,West,Colorado,Denver,"Women's Athletic Footwear",62,135,8370.00,502.00,Online,0.4900,4268.70,4101.30
+429,1128299,"West Gear",2020-04-17,West,Colorado,Denver,"Women's Athletic Footwear",65,450,29250.00,13163.00,In-store,0.4900,14917.50,14332.50
+430,1185732,Walmart,2020-04-17,Northeast,"New York","New York","Men's Apparel",43,279,11997.00,396.00,Outlet,0.4900,6118.47,5878.53
+431,1185732,Walmart,2020-04-17,Northeast,"New York","New York","Men's Apparel",54,270,14580.00,656.00,Online,0.4900,7435.80,7144.20
+432,1185732,Walmart,2020-04-17,Northeast,"New York","New York","Men's Apparel",60,900,54000.00,16200.00,Outlet,0.4900,27540.00,26460.00
+433,1128299,"West Gear",2020-04-18,West,Colorado,Denver,"Men's Apparel",70,325,22750.00,14788.00,In-store,0.4900,11602.50,11147.50
+434,1128299,"West Gear",2020-04-18,West,Colorado,Denver,"Men's Apparel",66,91,6006.00,462.00,Online,0.4900,3063.06,2942.94
+435,1185732,Walmart,2020-04-18,Northeast,"New York","New York","Women's Apparel",65,1075,69875.00,17469.00,Outlet,0.4900,35636.25,34238.75
+436,1185732,Walmart,2020-04-18,Northeast,"New York","New York","Women's Apparel",48,355,17040.00,511.00,Outlet,0.4900,8690.40,8349.60
+437,1185732,Walmart,2020-04-18,Northeast,"New York","New York","Women's Apparel",62,290,17980.00,665.00,Online,0.4900,9169.80,8810.20
+438,1128299,"West Gear",2020-04-19,West,Colorado,Denver,"Women's Apparel",85,625,53125.00,15938.00,In-store,0.4900,27093.75,26031.25
+439,1128299,"West Gear",2020-04-19,West,Colorado,Denver,"Women's Apparel",83,181,15023.00,646.00,Online,0.4900,7661.73,7361.27
+440,1185732,Walmart,2020-04-19,Northeast,"New York","New York","Men's Street Footwear",56,360,20160.00,1250.00,Online,0.4900,10281.60,9878.40
+441,1185732,Walmart,2020-04-19,Northeast,"New York","New York","Men's Street Footwear",39,408,15912.00,875.00,Outlet,0.4900,8115.12,7796.88
+442,1185732,Walmart,2020-04-19,Northeast,"New York","New York","Men's Street Footwear",60,1200,72000.00,36000.00,Outlet,0.4900,36720.00,35280.00
+443,1128299,"West Gear",2020-04-20,West,Colorado,Denver,"Men's Street Footwear",64,202,12928.00,776.00,Online,0.4900,6593.28,6334.72
+444,1128299,"West Gear",2020-04-20,West,Colorado,Denver,"Men's Street Footwear",65,775,50375.00,22669.00,In-store,0.4900,25691.25,24683.75
+445,1185732,Walmart,2020-04-20,Northeast,"New York","New York","Men's Athletic Footwear",55,1000,55000.00,16500.00,Outlet,0.4900,28050.00,26950.00
+446,1185732,Walmart,2020-04-20,Northeast,"New York","New York","Men's Athletic Footwear",43,350,15050.00,497.00,Outlet,0.4900,7675.50,7374.50
+447,1185732,Walmart,2020-04-20,Northeast,"New York","New York","Men's Athletic Footwear",50,270,13500.00,594.00,Online,0.4900,6885.00,6615.00
+448,1128299,"West Gear",2020-04-21,West,Colorado,Denver,"Men's Athletic Footwear",70,625,43750.00,13125.00,In-store,0.4900,22312.50,21437.50
+449,1128299,"West Gear",2020-04-21,West,Colorado,Denver,"Men's Athletic Footwear",67,188,12596.00,504.00,Online,0.4900,6423.96,6172.04
+450,1185732,Walmart,2020-04-21,Northeast,"New York","New York","Women's Street Footwear",47,268,12596.00,592.00,Online,0.4900,6423.96,6172.04
+451,1185732,Walmart,2020-04-21,Northeast,"New York","New York","Women's Street Footwear",36,315,11340.00,442.00,Outlet,0.4900,5783.40,5556.60
+452,1185732,Walmart,2020-04-21,Northeast,"New York","New York","Women's Street Footwear",50,925,46250.00,16188.00,Outlet,0.4900,23587.50,22662.50
+453,1128299,"West Gear",2020-04-22,West,Colorado,Denver,"Women's Street Footwear",67,161,10787.00,593.00,Online,0.4900,5501.37,5285.63
+454,1128299,"West Gear",2020-04-22,West,Colorado,Denver,"Women's Street Footwear",70,575,40250.00,18113.00,In-store,0.4900,20527.50,19722.50
+455,1185732,Walmart,2020-04-22,Northeast,"New York","New York","Women's Athletic Footwear",50,900,45000.00,15750.00,Outlet,0.4900,22950.00,22050.00
+456,1185732,Walmart,2020-04-22,Northeast,"New York","New York","Women's Athletic Footwear",34,306,10404.00,406.00,Outlet,0.4900,5306.04,5097.96
+457,1185732,Walmart,2020-04-22,Northeast,"New York","New York","Women's Athletic Footwear",47,252,11844.00,545.00,Online,0.4900,6040.44,5803.56
+458,1128299,"West Gear",2020-04-23,West,Colorado,Denver,"Women's Athletic Footwear",65,475,30875.00,12350.00,In-store,0.4900,15746.25,15128.75
+459,1128299,"West Gear",2020-04-23,West,Colorado,Denver,"Women's Athletic Footwear",61,143,8723.00,454.00,Online,0.4900,4448.73,4274.27
+460,1185732,Walmart,2020-04-23,Northeast,"New York","New York","Men's Apparel",58,252,14616.00,585.00,Online,0.4900,7454.16,7161.84
+461,1185732,Walmart,2020-04-23,Northeast,"New York","New York","Men's Apparel",44,315,13860.00,513.00,Outlet,0.4900,7068.60,6791.40
+462,1185732,Walmart,2020-04-23,Northeast,"New York","New York","Men's Apparel",60,900,54000.00,16200.00,Outlet,0.4900,27540.00,26460.00
+463,1128299,"West Gear",2020-04-24,West,Colorado,Denver,"Men's Apparel",67,131,8777.00,614.00,Online,0.4900,4476.27,4300.73
+464,1128299,"West Gear",2020-04-24,West,Colorado,Denver,"Men's Apparel",70,525,36750.00,22050.00,In-store,0.4900,18742.50,18007.50
+465,1185732,"Foot Locker",2020-04-24,Southeast,Florida,Miami,"Men's Athletic Footwear",45,725,32625.00,11419.00,In-store,0.4900,16638.75,15986.25
+466,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Women's Athletic Footwear",40,650,26000.00,7800.00,In-store,0.4900,13260.00,12740.00
+467,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Women's Street Footwear",50,750,37500.00,9375.00,In-store,0.4900,19125.00,18375.00
+468,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Men's Apparel",55,675,37125.00,12994.00,In-store,0.4900,18933.75,18191.25
+469,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Women's Apparel",45,800,36000.00,18000.00,In-store,0.4900,18360.00,17640.00
+470,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Men's Athletic Footwear",55,775,42625.00,14919.00,In-store,0.4900,21738.75,20886.25
+471,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Women's Athletic Footwear",50,700,35000.00,10500.00,In-store,0.4900,17850.00,17150.00
+472,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Women's Apparel",65,825,53625.00,26813.00,In-store,0.4900,27348.75,26276.25
+473,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Men's Athletic Footwear",55,825,45375.00,15881.00,In-store,0.4900,23141.25,22233.75
+474,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Women's Street Footwear",35,725,25375.00,6344.00,In-store,0.4900,12941.25,12433.75
+475,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Men's Apparel",60,725,43500.00,15225.00,In-store,0.4900,22185.00,21315.00
+476,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Women's Street Footwear",47,188,8836.00,327.00,Online,0.4900,4506.36,4329.64
+477,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Women's Athletic Footwear",49,175,8575.00,369.00,Online,0.4900,4373.25,4201.75
+478,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Men's Street Footwear",55,1070,58850.00,26483.00,In-store,0.4900,30013.50,28836.50
+479,1185732,Walmart,2020-04-24,Northeast,"New York","New York","Women's Apparel",65,1000,65000.00,16250.00,Outlet,0.4900,33150.00,31850.00
+480,1185732,"Foot Locker",2020-04-24,Southeast,Florida,Miami,"Men's Street Footwear",45,1025,46125.00,20756.00,In-store,0.4900,23523.75,22601.25
+481,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Men's Street Footwear",60,1075,64500.00,29025.00,In-store,0.4900,32895.00,31605.00
+482,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Women's Apparel",64,248,15872.00,1016.00,Online,0.4900,8094.72,7777.28
+483,1185732,"Foot Locker",2020-04-24,Southeast,Florida,Miami,"Men's Street Footwear",42,256,10752.00,624.00,Online,0.4900,5483.52,5268.48
+484,1185732,"Foot Locker",2020-04-24,Southeast,Florida,Miami,"Men's Athletic Footwear",41,210,8610.00,431.00,Online,0.4900,4391.10,4218.90
+485,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Men's Apparel",58,196,11368.00,534.00,Online,0.4900,5797.68,5570.32
+486,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Men's Apparel",52,196,10192.00,459.00,Online,0.4900,5197.92,4994.08
+487,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Women's Athletic Footwear",38,189,7182.00,323.00,Online,0.4900,3662.82,3519.18
+488,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Men's Athletic Footwear",54,194,10476.00,524.00,Online,0.4900,5342.76,5133.24
+489,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Women's Apparel",44,208,9152.00,549.00,Online,0.4900,4667.52,4484.48
+490,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Men's Street Footwear",52,300,15600.00,874.00,Online,0.4900,7956.00,7644.00
+491,1185732,Walmart,2020-04-24,Northeast,"New York","New York","Women's Apparel",45,350,15750.00,473.00,Outlet,0.4900,8032.50,7717.50
+492,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Men's Athletic Footwear",54,206,11124.00,545.00,Online,0.4900,5673.24,5450.76
+493,1185732,Walmart,2020-04-24,Northeast,"New York","New York","Women's Apparel",59,280,16520.00,661.00,Online,0.4900,8425.20,8094.80
+494,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Men's Street Footwear",55,290,15950.00,941.00,Online,0.4900,8134.50,7815.50
+495,1185732,"West Gear",2020-04-24,Southeast,Florida,Miami,"Women's Street Footwear",32,203,6496.00,260.00,Online,0.4900,3312.96,3183.04
+496,1128299,"West Gear",2020-04-25,West,Colorado,Denver,"Women's Apparel",78,137,10686.00,427.00,Online,0.4900,5449.86,5236.14
+497,1128299,"West Gear",2020-04-25,West,Colorado,Denver,"Women's Apparel",85,525,44625.00,11156.00,In-store,0.4900,22758.75,21866.25
+498,1185732,Walmart,2020-04-25,Northeast,"New York","New York","Men's Apparel",64,236,15104.00,634.00,Online,0.4900,7703.04,7400.96
+499,1185732,Walmart,2020-04-25,Northeast,"New York","New York","Men's Apparel",51,289,14739.00,472.00,Outlet,0.4900,7516.89,7222.11
+500,1185732,Walmart,2020-04-25,Northeast,"New York","New York","Men's Apparel",65,875,56875.00,17063.00,Outlet,0.4900,29006.25,27868.75
+501,1128299,"West Gear",2020-04-26,West,Colorado,Denver,"Men's Street Footwear",70,725,50750.00,22838.00,In-store,0.4900,25882.50,24867.50
+502,1128299,"West Gear",2020-04-26,West,Colorado,Denver,"Men's Street Footwear",63,196,12348.00,729.00,Online,0.4900,6297.48,6050.52
+503,1185732,Walmart,2020-04-26,Northeast,"New York","New York","Women's Apparel",50,330,16500.00,462.00,Outlet,0.4900,8415.00,8085.00
+504,1185732,Walmart,2020-04-26,Northeast,"New York","New York","Women's Apparel",68,290,19720.00,749.00,Online,0.4900,10057.20,9662.80
+505,1185732,Walmart,2020-04-26,Northeast,"New York","New York","Women's Apparel",70,1000,70000.00,17500.00,Outlet,0.4900,35700.00,34300.00
+506,1128299,"West Gear",2020-04-27,West,Colorado,Denver,"Men's Athletic Footwear",73,189,13797.00,579.00,Online,0.4900,7036.47,6760.53
+507,1128299,"West Gear",2020-04-27,West,Colorado,Denver,"Men's Athletic Footwear",75,675,50625.00,15188.00,In-store,0.4900,25818.75,24806.25
+508,1185732,Walmart,2020-04-27,Northeast,"New York","New York","Men's Street Footwear",65,1150,74750.00,37375.00,Outlet,0.4900,38122.50,36627.50
+509,1185732,Walmart,2020-04-27,Northeast,"New York","New York","Men's Street Footwear",46,403,18538.00,1038.00,Outlet,0.4900,9454.38,9083.62
+510,1185732,Walmart,2020-04-27,Northeast,"New York","New York","Men's Street Footwear",60,299,17940.00,1076.00,Online,0.4900,9149.40,8790.60
+511,1128299,"West Gear",2020-04-28,West,Colorado,Denver,"Women's Street Footwear",70,550,38500.00,17325.00,In-store,0.4900,19635.00,18865.00
+512,1128299,"West Gear",2020-04-28,West,Colorado,Denver,"Women's Street Footwear",67,143,9581.00,546.00,Online,0.4900,4886.31,4694.69
+513,1185732,Walmart,2020-04-28,Northeast,"New York","New York","Men's Athletic Footwear",53,273,14469.00,622.00,Online,0.4900,7379.19,7089.81
+514,1185732,Walmart,2020-04-28,Northeast,"New York","New York","Men's Athletic Footwear",40,312,12480.00,449.00,Outlet,0.4900,6364.80,6115.20
+515,1185732,Walmart,2020-04-28,Northeast,"New York","New York","Men's Athletic Footwear",55,975,53625.00,16088.00,Outlet,0.4900,27348.75,26276.25
+516,1128299,"West Gear",2020-04-29,West,Colorado,Denver,"Women's Athletic Footwear",63,135,8505.00,459.00,Online,0.4900,4337.55,4167.45
+517,1128299,"West Gear",2020-04-29,West,Colorado,Denver,"Women's Athletic Footwear",70,500,35000.00,14000.00,In-store,0.4900,17850.00,17150.00
+518,1185732,Walmart,2020-04-29,Northeast,"New York","New York","Women's Street Footwear",55,920,50600.00,17710.00,Outlet,0.4900,25806.00,24794.00
+519,1185732,Walmart,2020-04-29,Northeast,"New York","New York","Women's Street Footwear",43,294,12642.00,531.00,Outlet,0.4900,6447.42,6194.58
+520,1185732,Walmart,2020-04-29,Northeast,"New York","New York","Women's Street Footwear",52,258,13416.00,644.00,Online,0.4900,6842.16,6573.84
+521,1128299,"West Gear",2020-04-30,West,Colorado,Denver,"Men's Apparel",75,500,37500.00,22500.00,In-store,0.4900,19125.00,18375.00
+522,1128299,"West Gear",2020-04-30,West,Colorado,Denver,"Men's Apparel",74,140,10360.00,756.00,Online,0.4900,5283.60,5076.40
+523,1185732,Walmart,2020-04-30,Northeast,"New York","New York","Women's Athletic Footwear",41,270,11070.00,410.00,Outlet,0.4900,5645.70,5424.30
+524,1185732,Walmart,2020-04-30,Northeast,"New York","New York","Women's Athletic Footwear",50,252,12600.00,617.00,Online,0.4900,6426.00,6174.00
+525,1185732,Walmart,2020-04-30,Northeast,"New York","New York","Women's Athletic Footwear",55,900,49500.00,17325.00,Outlet,0.4900,25245.00,24255.00
+526,1128299,"West Gear",2020-05-01,West,Colorado,Denver,"Women's Apparel",74,100,7400.00,259.00,Online,0.4900,3774.00,3626.00
+527,1128299,"West Gear",2020-05-01,West,Colorado,Denver,"Women's Apparel",80,400,32000.00,8000.00,In-store,0.4900,16320.00,15680.00
+528,1185732,Walmart,2020-05-01,Northeast,"New York","New York","Men's Apparel",65,875,56875.00,17063.00,Outlet,0.4900,29006.25,27868.75
+529,1185732,Walmart,2020-05-01,Northeast,"New York","New York","Men's Apparel",64,254,16256.00,683.00,Online,0.4900,8290.56,7965.44
+530,1185732,Walmart,2020-05-01,Northeast,"New York","New York","Men's Apparel",47,280,13160.00,474.00,Outlet,0.4900,6711.60,6448.40
+531,1128299,"West Gear",2020-05-02,West,Colorado,Denver,"Men's Street Footwear",65,600,39000.00,15600.00,In-store,0.4900,19890.00,19110.00
+532,1128299,"West Gear",2020-05-02,West,Colorado,Denver,"Men's Street Footwear",59,162,9558.00,507.00,Online,0.4900,4874.58,4683.42
+533,1185732,Walmart,2020-05-02,Northeast,"New York","New York","Women's Apparel",66,263,17358.00,642.00,Online,0.4900,8852.58,8505.42
+534,1185732,Walmart,2020-05-02,Northeast,"New York","New York","Women's Apparel",53,322,17066.00,478.00,Outlet,0.4900,8703.66,8362.34
+535,1185732,Walmart,2020-05-02,Northeast,"New York","New York","Women's Apparel",70,975,68250.00,17063.00,Outlet,0.4900,34807.50,33442.50
+536,1128299,"West Gear",2020-05-03,West,Colorado,Denver,"Men's Athletic Footwear",69,168,11592.00,417.00,Online,0.4900,5911.92,5680.08
+537,1128299,"West Gear",2020-05-03,West,Colorado,Denver,"Men's Athletic Footwear",70,600,42000.00,10500.00,In-store,0.4900,21420.00,20580.00
+538,1185732,Walmart,2020-05-03,Northeast,"New York","New York","Men's Street Footwear",65,1200,78000.00,39000.00,Outlet,0.4900,39780.00,38220.00
+539,1185732,Walmart,2020-05-03,Northeast,"New York","New York","Men's Street Footwear",48,420,20160.00,1129.00,Outlet,0.4900,10281.60,9878.40
+540,1185732,Walmart,2020-05-03,Northeast,"New York","New York","Men's Street Footwear",62,312,19344.00,1238.00,Online,0.4900,9865.44,9478.56
+541,1128299,"West Gear",2020-05-04,West,Colorado,Denver,"Women's Street Footwear",65,450,29250.00,11700.00,In-store,0.4900,14917.50,14332.50
+542,1128299,"West Gear",2020-05-04,West,Colorado,Denver,"Women's Street Footwear",60,113,6780.00,339.00,Online,0.4900,3457.80,3322.20
+543,1185732,Walmart,2020-05-04,Northeast,"New York","New York","Men's Athletic Footwear",51,300,15300.00,643.00,Online,0.4900,7803.00,7497.00
+544,1185732,Walmart,2020-05-04,Northeast,"New York","New York","Men's Athletic Footwear",43,310,13330.00,467.00,Outlet,0.4900,6798.30,6531.70
+545,1185732,Walmart,2020-05-04,Northeast,"New York","New York","Men's Athletic Footwear",55,1000,55000.00,16500.00,Outlet,0.4900,28050.00,26950.00
+546,1128299,"West Gear",2020-05-05,West,Colorado,Denver,"Women's Athletic Footwear",59,100,5900.00,283.00,Online,0.4900,3009.00,2891.00
+547,1128299,"West Gear",2020-05-05,West,Colorado,Denver,"Women's Athletic Footwear",65,400,26000.00,9100.00,In-store,0.4900,13260.00,12740.00
+548,1185732,Walmart,2020-05-05,Northeast,"New York","New York","Women's Street Footwear",42,333,13986.00,559.00,Outlet,0.4900,7132.86,6853.14
+549,1185732,Walmart,2020-05-05,Northeast,"New York","New York","Women's Street Footwear",54,285,15390.00,723.00,Online,0.4900,7848.90,7541.10
+550,1185732,Walmart,2020-05-05,Northeast,"New York","New York","Women's Street Footwear",55,950,52250.00,18288.00,Outlet,0.4900,26647.50,25602.50
+551,1128299,"West Gear",2020-05-06,West,Colorado,Denver,"Men's Apparel",74,120,8880.00,613.00,Online,0.4900,4528.80,4351.20
+552,1128299,"West Gear",2020-05-06,West,Colorado,Denver,"Men's Apparel",75,400,30000.00,16500.00,In-store,0.4900,15300.00,14700.00
+553,1185732,Walmart,2020-05-06,Northeast,"New York","New York","Women's Athletic Footwear",55,900,49500.00,17325.00,Outlet,0.4900,25245.00,24255.00
+554,1185732,Walmart,2020-05-06,Northeast,"New York","New York","Women's Athletic Footwear",54,225,12150.00,559.00,Online,0.4900,6196.50,5953.50
+555,1185732,Walmart,2020-05-06,Northeast,"New York","New York","Women's Athletic Footwear",41,306,12546.00,502.00,Outlet,0.4900,6398.46,6147.54
+556,1128299,"West Gear",2020-05-07,West,Colorado,Denver,"Women's Apparel",70,425,29750.00,5950.00,In-store,0.4900,15172.50,14577.50
+557,1128299,"West Gear",2020-05-07,West,Colorado,Denver,"Women's Apparel",65,106,6890.00,214.00,Online,0.4900,3513.90,3376.10
+558,1185732,Walmart,2020-05-07,Northeast,"New York","New York","Men's Apparel",48,279,13392.00,496.00,Outlet,0.4900,6829.92,6562.08
+559,1185732,Walmart,2020-05-07,Northeast,"New York","New York","Men's Apparel",60,261,15660.00,673.00,Online,0.4900,7986.60,7673.40
+560,1185732,Walmart,2020-05-07,Northeast,"New York","New York","Men's Apparel",65,900,58500.00,17550.00,Outlet,0.4900,29835.00,28665.00
+561,1128299,"West Gear",2020-05-08,West,Colorado,Denver,"Men's Street Footwear",55,525,28875.00,11550.00,In-store,0.4900,14726.25,14148.75
+562,1128299,"West Gear",2020-05-08,West,Colorado,Denver,"Men's Street Footwear",51,137,6987.00,349.00,Online,0.4900,3563.37,3423.63
+563,1128299,"West Gear",2020-05-09,West,Colorado,Denver,"Men's Athletic Footwear",54,152,8208.00,287.00,Online,0.4900,4186.08,4021.92
+564,1128299,"West Gear",2020-05-09,West,Colorado,Denver,"Men's Athletic Footwear",60,525,31500.00,7875.00,In-store,0.4900,16065.00,15435.00
+565,1128299,"West Gear",2020-05-10,West,Colorado,Denver,"Women's Street Footwear",51,102,5202.00,260.00,Online,0.4900,2653.02,2548.98
+566,1128299,"West Gear",2020-05-10,West,Colorado,Denver,"Women's Street Footwear",55,350,19250.00,7700.00,In-store,0.4900,9817.50,9432.50
+567,1128299,"West Gear",2020-05-11,West,Colorado,Denver,"Women's Athletic Footwear",55,325,17875.00,6256.00,In-store,0.4900,9116.25,8758.75
+568,1128299,"West Gear",2020-05-11,West,Colorado,Denver,"Women's Athletic Footwear",53,85,4505.00,207.00,Online,0.4900,2297.55,2207.45
+569,1128299,"West Gear",2020-05-12,West,Colorado,Denver,"Men's Apparel",64,75,4800.00,317.00,Online,0.4900,2448.00,2352.00
+570,1128299,"West Gear",2020-05-12,West,Colorado,Denver,"Men's Apparel",65,300,19500.00,10725.00,In-store,0.4900,9945.00,9555.00
+571,1128299,"West Gear",2020-05-13,West,Colorado,Denver,"Women's Apparel",70,350,24500.00,4900.00,In-store,0.4900,12495.00,12005.00
+572,1128299,"West Gear",2020-05-13,West,Colorado,Denver,"Women's Apparel",65,105,6825.00,205.00,Online,0.4900,3480.75,3344.25
+573,1128299,"West Gear",2020-05-14,West,Colorado,Denver,"Men's Street Footwear",52,150,7800.00,429.00,Online,0.4900,3978.00,3822.00
+574,1128299,"West Gear",2020-05-14,West,Colorado,Denver,"Men's Street Footwear",55,575,31625.00,12650.00,In-store,0.4900,16128.75,15496.25
+575,1128299,"West Gear",2020-05-15,West,Colorado,Denver,"Men's Athletic Footwear",60,575,34500.00,8625.00,In-store,0.4900,17595.00,16905.00
+576,1128299,"West Gear",2020-05-15,West,Colorado,Denver,"Men's Athletic Footwear",55,150,8250.00,305.00,Online,0.4900,4207.50,4042.50
+577,1128299,"West Gear",2020-05-16,West,Colorado,Denver,"Women's Street Footwear",55,425,23375.00,9350.00,In-store,0.4900,11921.25,11453.75
+578,1128299,"West Gear",2020-05-16,West,Colorado,Denver,"Women's Street Footwear",51,128,6528.00,346.00,Online,0.4900,3329.28,3198.72
+579,1128299,"West Gear",2020-05-17,West,Colorado,Denver,"Women's Athletic Footwear",60,116,6960.00,334.00,Online,0.4900,3549.60,3410.40
+580,1128299,"West Gear",2020-05-17,West,Colorado,Denver,"Women's Athletic Footwear",65,400,26000.00,9100.00,In-store,0.4900,13260.00,12740.00
+581,1128299,"West Gear",2020-05-18,West,Colorado,Denver,"Men's Apparel",75,375,28125.00,15469.00,In-store,0.4900,14343.75,13781.25
+582,1128299,"West Gear",2020-05-18,West,Colorado,Denver,"Men's Apparel",68,105,7140.00,493.00,Online,0.4900,3641.40,3498.60
+583,1128299,"West Gear",2020-05-19,West,Colorado,Denver,"Women's Apparel",80,500,40000.00,8000.00,In-store,0.4900,20400.00,19600.00
+584,1128299,"West Gear",2020-05-19,West,Colorado,Denver,"Women's Apparel",73,130,9490.00,294.00,Online,0.4900,4839.90,4650.10
+585,1128299,"West Gear",2020-05-20,West,Colorado,Denver,"Men's Street Footwear",65,700,45500.00,18200.00,In-store,0.4900,23205.00,22295.00
+586,1128299,"West Gear",2020-05-20,West,Colorado,Denver,"Men's Street Footwear",59,203,11977.00,623.00,Online,0.4900,6108.27,5868.73
+587,1128299,"West Gear",2020-05-21,West,Colorado,Denver,"Men's Athletic Footwear",64,182,11648.00,443.00,Online,0.4900,5940.48,5707.52
+588,1128299,"West Gear",2020-05-21,West,Colorado,Denver,"Men's Athletic Footwear",70,700,49000.00,12250.00,In-store,0.4900,24990.00,24010.00
+589,1128299,"West Gear",2020-05-22,West,Colorado,Denver,"Women's Street Footwear",65,500,32500.00,13000.00,In-store,0.4900,16575.00,15925.00
+590,1128299,"West Gear",2020-05-22,West,Colorado,Denver,"Women's Street Footwear",60,125,7500.00,413.00,Online,0.4900,3825.00,3675.00
+591,1128299,"West Gear",2020-05-23,West,Colorado,Denver,"Women's Athletic Footwear",63,125,7875.00,354.00,Online,0.4900,4016.25,3858.75
+592,1128299,"West Gear",2020-05-23,West,Colorado,Denver,"Women's Athletic Footwear",65,500,32500.00,11375.00,In-store,0.4900,16575.00,15925.00
+593,1128299,"West Gear",2020-05-24,West,Colorado,Denver,"Men's Apparel",75,425,31875.00,17531.00,In-store,0.4900,16256.25,15618.75
+594,1128299,"West Gear",2020-05-24,West,Colorado,Denver,"Men's Apparel",68,115,7820.00,524.00,Online,0.4900,3988.20,3831.80
+595,1185732,"Sports Direct",2020-05-24,Southeast,Florida,Miami,"Women's Athletic Footwear",55,775,42625.00,12788.00,In-store,0.4900,21738.75,20886.25
+596,1185732,"Sports Direct",2020-05-24,Southeast,Florida,Miami,"Women's Street Footwear",55,825,45375.00,11344.00,In-store,0.4900,23141.25,22233.75
+597,1185732,"Foot Locker",2020-05-24,Southeast,Florida,Miami,"Men's Apparel",65,775,50375.00,17631.00,In-store,0.4900,25691.25,24683.75
+598,1185732,"Foot Locker",2020-05-24,Southeast,Florida,Miami,"Women's Apparel",64,219,14016.00,883.00,Online,0.4900,7148.16,6867.84
+599,1185732,"Sports Direct",2020-05-24,Southeast,Florida,Miami,"Men's Street Footwear",63,323,20349.00,1140.00,Online,0.4900,10377.99,9971.01
+600,1185732,"Foot Locker",2020-05-24,Southeast,Florida,Miami,"Men's Apparel",60,202,12120.00,594.00,Online,0.4900,6181.20,5938.80
+601,1185732,"Sports Direct",2020-05-24,Southeast,Florida,Miami,"Men's Athletic Footwear",51,254,12954.00,609.00,Online,0.4900,6606.54,6347.46
+602,1185732,"Sports Direct",2020-05-24,Southeast,Florida,Miami,"Women's Athletic Footwear",54,209,11286.00,485.00,Online,0.4900,5755.86,5530.14
+603,1185732,"Sports Direct",2020-05-24,Southeast,Florida,Miami,"Women's Street Footwear",52,248,12896.00,477.00,Online,0.4900,6576.96,6319.04
+604,1185732,"Sports Direct",2020-05-24,Southeast,Florida,Miami,"Men's Athletic Footwear",55,875,48125.00,16844.00,In-store,0.4900,24543.75,23581.25
+605,1185732,"Foot Locker",2020-05-24,Southeast,Florida,Miami,"Women's Apparel",70,875,61250.00,30625.00,In-store,0.4900,31237.50,30012.50
+606,1185732,"Sports Direct",2020-05-24,Southeast,Florida,Miami,"Men's Street Footwear",65,1075,69875.00,31444.00,In-store,0.4900,35636.25,34238.75
+607,1128299,"West Gear",2020-05-25,West,Colorado,Denver,"Women's Apparel",75,137,10275.00,339.00,Online,0.4900,5240.25,5034.75
+608,1128299,"West Gear",2020-05-25,West,Colorado,Denver,"Women's Apparel",80,525,42000.00,8400.00,In-store,0.4900,21420.00,20580.00
+609,1128299,"West Gear",2020-05-26,West,Colorado,Denver,"Men's Street Footwear",40,450,18000.00,5400.00,In-store,0.4900,9180.00,8820.00
+610,1128299,"West Gear",2020-05-26,West,Colorado,Denver,"Men's Street Footwear",36,117,4212.00,173.00,Online,0.4900,2148.12,2063.88
+611,1128299,"West Gear",2020-05-27,West,Colorado,Denver,"Men's Athletic Footwear",50,450,22500.00,5625.00,In-store,0.4900,11475.00,11025.00
+612,1128299,"West Gear",2020-05-27,West,Colorado,Denver,"Men's Athletic Footwear",48,131,6288.00,252.00,Online,0.4900,3206.88,3081.12
+613,1128299,"West Gear",2020-05-28,West,Colorado,Denver,"Women's Street Footwear",46,135,6210.00,217.00,Online,0.4900,3167.10,3042.90
+614,1128299,"West Gear",2020-05-28,West,Colorado,Denver,"Women's Street Footwear",50,450,22500.00,5625.00,In-store,0.4900,11475.00,11025.00
+615,1128299,"West Gear",2020-05-29,West,Colorado,Denver,"Women's Athletic Footwear",49,78,3822.00,157.00,Online,0.4900,1949.22,1872.78
+616,1128299,"West Gear",2020-05-29,West,Colorado,Denver,"Women's Athletic Footwear",50,300,15000.00,4500.00,In-store,0.4900,7650.00,7350.00
+617,1128299,"West Gear",2020-05-30,West,Washington,Seattle,"Men's Apparel",55,250,13750.00,3438.00,In-store,0.4900,7012.50,6737.50
+618,1128299,"West Gear",2020-05-30,West,Washington,Seattle,"Men's Apparel",51,73,3723.00,145.00,Online,0.4900,1898.73,1824.27
+619,1128299,"West Gear",2020-05-31,West,Washington,Seattle,"Women's Apparel",50,500,25000.00,5000.00,In-store,0.4900,12750.00,12250.00
+620,1128299,"West Gear",2020-05-31,West,Washington,Seattle,"Women's Apparel",46,125,5750.00,178.00,Online,0.4900,2932.50,2817.50
+621,1128299,"West Gear",2020-06-01,West,Washington,Seattle,"Men's Street Footwear",36,138,4968.00,214.00,Online,0.4900,2533.68,2434.32
+622,1128299,"West Gear",2020-06-01,West,Washington,Seattle,"Men's Street Footwear",40,550,22000.00,6600.00,In-store,0.4900,11220.00,10780.00
+623,1128299,"West Gear",2020-06-02,West,Washington,Seattle,"Men's Athletic Footwear",50,450,22500.00,5625.00,In-store,0.4900,11475.00,11025.00
+624,1128299,"West Gear",2020-06-02,West,Washington,Seattle,"Men's Athletic Footwear",47,131,6157.00,240.00,Online,0.4900,3140.07,3016.93
+625,1128299,"West Gear",2020-06-03,West,Washington,Seattle,"Women's Street Footwear",47,122,5734.00,224.00,Online,0.4900,2924.34,2809.66
+626,1128299,"West Gear",2020-06-03,West,Washington,Seattle,"Women's Street Footwear",50,450,22500.00,5625.00,In-store,0.4900,11475.00,11025.00
+627,1128299,"West Gear",2020-06-04,West,Washington,Seattle,"Women's Athletic Footwear",50,300,15000.00,4500.00,In-store,0.4900,7650.00,7350.00
+628,1128299,"West Gear",2020-06-04,West,Washington,Seattle,"Women's Athletic Footwear",48,87,4176.00,175.00,Online,0.4900,2129.76,2046.24
+629,1128299,"West Gear",2020-06-05,West,Washington,Seattle,"Men's Apparel",52,65,3380.00,135.00,Online,0.4900,1723.80,1656.20
+630,1128299,"West Gear",2020-06-05,West,Washington,Seattle,"Men's Apparel",55,225,12375.00,3094.00,In-store,0.4900,6311.25,6063.75
+631,1128299,"West Gear",2020-06-06,West,Washington,Seattle,"Women's Apparel",50,425,21250.00,4250.00,In-store,0.4900,10837.50,10412.50
+632,1128299,"West Gear",2020-06-06,West,Washington,Seattle,"Women's Apparel",46,123,5658.00,175.00,Online,0.4900,2885.58,2772.42
+633,1128299,"West Gear",2020-06-07,West,Washington,Seattle,"Men's Street Footwear",50,575,28750.00,8625.00,In-store,0.4900,14662.50,14087.50
+634,1128299,"West Gear",2020-06-07,West,Washington,Seattle,"Men's Street Footwear",46,167,7682.00,346.00,Online,0.4900,3917.82,3764.18
+635,1128299,"West Gear",2020-06-08,West,Washington,Seattle,"Men's Athletic Footwear",60,425,25500.00,6375.00,In-store,0.4900,13005.00,12495.00
+636,1128299,"West Gear",2020-06-08,West,Washington,Seattle,"Men's Athletic Footwear",58,115,6670.00,240.00,Online,0.4900,3401.70,3268.30
+637,1128299,"West Gear",2020-06-09,West,Washington,Seattle,"Women's Street Footwear",60,115,6900.00,276.00,Online,0.4900,3519.00,3381.00
+638,1128299,"West Gear",2020-06-09,West,Washington,Seattle,"Women's Street Footwear",65,425,27625.00,6906.00,In-store,0.4900,14088.75,13536.25
+639,1128299,"West Gear",2020-06-10,West,Washington,Seattle,"Women's Athletic Footwear",65,325,21125.00,6338.00,In-store,0.4900,10773.75,10351.25
+640,1128299,"West Gear",2020-06-10,West,Washington,Seattle,"Women's Athletic Footwear",64,85,5440.00,228.00,Online,0.4900,2774.40,2665.60
+641,1128299,"West Gear",2020-06-11,West,Washington,Seattle,"Men's Apparel",70,175,12250.00,3063.00,In-store,0.4900,6247.50,6002.50
+642,1128299,"West Gear",2020-06-11,West,Washington,Seattle,"Men's Apparel",69,46,3174.00,121.00,Online,0.4900,1618.74,1555.26
+643,1128299,"West Gear",2020-06-12,West,Washington,Seattle,"Women's Apparel",62,105,6510.00,221.00,Online,0.4900,3320.10,3189.90
+644,1128299,"West Gear",2020-06-12,West,Washington,Seattle,"Women's Apparel",65,375,24375.00,4875.00,In-store,0.4900,12431.25,11943.75
+645,1128299,"West Gear",2020-06-13,West,Washington,Seattle,"Men's Street Footwear",70,550,38500.00,11550.00,In-store,0.4900,19635.00,18865.00
+646,1128299,"West Gear",2020-06-13,West,Washington,Seattle,"Men's Street Footwear",68,160,10880.00,479.00,Online,0.4900,5548.80,5331.20
+647,1128299,"West Gear",2020-06-14,West,Washington,Seattle,"Men's Athletic Footwear",75,350,26250.00,6563.00,In-store,0.4900,13387.50,12862.50
+648,1128299,"West Gear",2020-06-14,West,Washington,Seattle,"Men's Athletic Footwear",71,88,6248.00,244.00,Online,0.4900,3186.48,3061.52
+649,1128299,"West Gear",2020-06-15,West,Washington,Seattle,"Women's Street Footwear",74,120,8880.00,346.00,Online,0.4900,4528.80,4351.20
+650,1128299,"West Gear",2020-06-15,West,Washington,Seattle,"Women's Street Footwear",75,400,30000.00,7500.00,In-store,0.4900,15300.00,14700.00
+651,1128299,"West Gear",2020-06-16,West,Washington,Seattle,"Women's Athletic Footwear",60,300,18000.00,5400.00,In-store,0.4900,9180.00,8820.00
+652,1128299,"West Gear",2020-06-16,West,Washington,Seattle,"Women's Athletic Footwear",55,90,4950.00,208.00,Online,0.4900,2524.50,2425.50
+653,1128299,"West Gear",2020-06-17,West,Washington,Seattle,"Men's Apparel",59,56,3304.00,132.00,Online,0.4900,1685.04,1618.96
+654,1128299,"West Gear",2020-06-17,West,Washington,Seattle,"Men's Apparel",65,200,13000.00,3250.00,In-store,0.4900,6630.00,6370.00
+655,1128299,"West Gear",2020-06-18,West,Washington,Seattle,"Women's Apparel",80,350,28000.00,5600.00,In-store,0.4900,14280.00,13720.00
+656,1128299,"West Gear",2020-06-18,West,Washington,Seattle,"Women's Apparel",78,88,6864.00,220.00,Online,0.4900,3500.64,3363.36
+657,1128299,"West Gear",2020-06-19,West,Washington,Seattle,"Men's Street Footwear",55,165,9075.00,372.00,Online,0.4900,4628.25,4446.75
+658,1128299,"West Gear",2020-06-19,West,Washington,Seattle,"Men's Street Footwear",60,550,33000.00,9900.00,In-store,0.4900,16830.00,16170.00
+659,1128299,"West Gear",2020-06-20,West,Washington,Seattle,"Men's Athletic Footwear",65,400,26000.00,6500.00,In-store,0.4900,13260.00,12740.00
+660,1128299,"West Gear",2020-06-20,West,Washington,Seattle,"Men's Athletic Footwear",60,108,6480.00,246.00,Online,0.4900,3304.80,3175.20
+661,1128299,"West Gear",2020-06-21,West,Washington,Seattle,"Women's Street Footwear",61,120,7320.00,278.00,Online,0.4900,3733.20,3586.80
+662,1128299,"West Gear",2020-06-21,West,Washington,Seattle,"Women's Street Footwear",65,400,26000.00,6500.00,In-store,0.4900,13260.00,12740.00
+663,1128299,"West Gear",2020-06-22,West,Washington,Seattle,"Women's Athletic Footwear",60,300,18000.00,5400.00,In-store,0.4900,9180.00,8820.00
+664,1128299,"West Gear",2020-06-22,West,Washington,Seattle,"Women's Athletic Footwear",59,90,5310.00,234.00,Online,0.4900,2708.10,2601.90
+665,1128299,"West Gear",2020-06-23,West,Washington,Seattle,"Men's Apparel",65,200,13000.00,3250.00,In-store,0.4900,6630.00,6370.00
+666,1128299,"West Gear",2020-06-23,West,Washington,Seattle,"Men's Apparel",60,52,3120.00,119.00,Online,0.4900,1591.20,1528.80
+667,1128299,"West Gear",2020-06-24,West,Washington,Seattle,"Women's Apparel",75,125,9375.00,309.00,Online,0.4900,4781.25,4593.75
+668,1128299,"West Gear",2020-06-24,West,Washington,Seattle,"Women's Apparel",80,500,40000.00,8000.00,In-store,0.4900,20400.00,19600.00
+669,1128299,"West Gear",2020-06-25,West,Washington,Seattle,"Men's Street Footwear",75,750,56250.00,16875.00,In-store,0.4900,28687.50,27562.50
+670,1128299,"West Gear",2020-06-25,West,Washington,Seattle,"Men's Street Footwear",71,195,13845.00,581.00,Online,0.4900,7060.95,6784.05
+671,1128299,"West Gear",2020-06-26,West,Washington,Seattle,"Men's Athletic Footwear",74,188,13912.00,515.00,Online,0.4900,7095.12,6816.88
+672,1128299,"West Gear",2020-06-26,West,Washington,Seattle,"Men's Athletic Footwear",80,625,50000.00,12500.00,In-store,0.4900,25500.00,24500.00
+673,1128299,"West Gear",2020-06-27,West,Washington,Seattle,"Women's Street Footwear",80,625,50000.00,12500.00,In-store,0.4900,25500.00,24500.00
+674,1128299,"West Gear",2020-06-27,West,Washington,Seattle,"Women's Street Footwear",72,163,11736.00,446.00,Online,0.4900,5985.36,5750.64
+675,1128299,"West Gear",2020-06-28,West,Washington,Seattle,"Women's Athletic Footwear",75,125,9375.00,375.00,Online,0.4900,4781.25,4593.75
+676,1128299,"West Gear",2020-06-28,West,Washington,Seattle,"Women's Athletic Footwear",80,500,40000.00,12000.00,In-store,0.4900,20400.00,19600.00
+677,1128299,"West Gear",2020-06-29,West,Washington,Seattle,"Men's Apparel",82,105,8610.00,336.00,Online,0.4900,4391.10,4218.90
+678,1128299,"West Gear",2020-06-29,West,Washington,Seattle,"Men's Apparel",85,375,31875.00,7969.00,In-store,0.4900,16256.25,15618.75
+679,1128299,"West Gear",2020-06-30,West,Washington,Seattle,"Women's Apparel",100,675,67500.00,13500.00,In-store,0.4900,34425.00,33075.00
+680,1128299,"West Gear",2020-06-30,West,Washington,Seattle,"Women's Apparel",98,182,17836.00,606.00,Online,0.4900,9096.36,8739.64
+681,1128299,"West Gear",2020-07-01,West,Washington,Seattle,"Men's Street Footwear",73,239,17447.00,698.00,Online,0.4900,8897.97,8549.03
+682,1128299,"West Gear",2020-07-01,West,Washington,Seattle,"Men's Street Footwear",80,825,66000.00,19800.00,In-store,0.4900,33660.00,32340.00
+683,1128299,"West Gear",2020-07-02,West,Washington,Seattle,"Men's Athletic Footwear",85,675,57375.00,14344.00,In-store,0.4900,29261.25,28113.75
+684,1128299,"West Gear",2020-07-02,West,Washington,Seattle,"Men's Athletic Footwear",82,182,14924.00,537.00,Online,0.4900,7611.24,7312.76
+685,1128299,"West Gear",2020-07-03,West,Washington,Seattle,"Women's Street Footwear",85,625,53125.00,13281.00,In-store,0.4900,27093.75,26031.25
+686,1128299,"West Gear",2020-07-03,West,Washington,Seattle,"Women's Street Footwear",78,175,13650.00,478.00,Online,0.4900,6961.50,6688.50
+687,1128299,"West Gear",2020-07-04,West,Washington,Seattle,"Women's Athletic Footwear",78,137,10686.00,438.00,Online,0.4900,5449.86,5236.14
+688,1128299,"West Gear",2020-07-04,West,Washington,Seattle,"Women's Athletic Footwear",80,525,42000.00,12600.00,In-store,0.4900,21420.00,20580.00
+689,1128299,"West Gear",2020-07-05,West,Washington,Seattle,"Men's Apparel",85,575,48875.00,12219.00,In-store,0.4900,24926.25,23948.75
+690,1128299,"West Gear",2020-07-05,West,Washington,Seattle,"Men's Apparel",77,144,11088.00,388.00,Online,0.4900,5654.88,5433.12
+691,1128299,"West Gear",2020-07-06,West,Washington,Seattle,"Women's Apparel",95,155,14725.00,515.00,Online,0.4900,7509.75,7215.25
+692,1128299,"West Gear",2020-07-06,West,Washington,Seattle,"Women's Apparel",100,575,57500.00,11500.00,In-store,0.4900,29325.00,28175.00
+693,1128299,"West Gear",2020-07-07,West,Washington,Seattle,"Men's Street Footwear",85,775,65875.00,19763.00,In-store,0.4900,33596.25,32278.75
+694,1128299,"West Gear",2020-07-07,West,Washington,Seattle,"Men's Street Footwear",80,217,17360.00,781.00,Online,0.4900,8853.60,8506.40
+695,1128299,"West Gear",2020-07-08,West,Washington,Seattle,"Men's Athletic Footwear",77,210,16170.00,631.00,Online,0.4900,8246.70,7923.30
+696,1128299,"West Gear",2020-07-08,West,Washington,Seattle,"Men's Athletic Footwear",80,750,60000.00,15000.00,In-store,0.4900,30600.00,29400.00
+697,1128299,"West Gear",2020-07-09,West,Washington,Seattle,"Women's Street Footwear",75,625,46875.00,11719.00,In-store,0.4900,23906.25,22968.75
+698,1128299,"West Gear",2020-07-09,West,Washington,Seattle,"Women's Street Footwear",73,163,11899.00,416.00,Online,0.4900,6068.49,5830.51
+699,1128299,"West Gear",2020-07-10,West,Washington,Seattle,"Women's Athletic Footwear",74,155,11470.00,505.00,Online,0.4900,5849.70,5620.30
+700,1128299,"West Gear",2020-07-10,West,Washington,Seattle,"Women's Athletic Footwear",75,575,43125.00,12938.00,In-store,0.4900,21993.75,21131.25
+701,1128299,"West Gear",2020-07-11,West,Washington,Seattle,"Men's Apparel",75,575,43125.00,10781.00,In-store,0.4900,21993.75,21131.25
+702,1128299,"West Gear",2020-07-11,West,Washington,Seattle,"Men's Apparel",71,155,11005.00,429.00,Online,0.4900,5612.55,5392.45
+703,1128299,"West Gear",2020-07-12,West,Washington,Seattle,"Women's Apparel",80,400,32000.00,6400.00,In-store,0.4900,16320.00,15680.00
+704,1128299,"West Gear",2020-07-12,West,Washington,Seattle,"Women's Apparel",76,108,8208.00,271.00,Online,0.4900,4186.08,4021.92
+705,1128299,"West Gear",2020-07-13,West,Washington,Seattle,"Men's Street Footwear",64,156,9984.00,409.00,Online,0.4900,5091.84,4892.16
+706,1128299,"West Gear",2020-07-13,West,Washington,Seattle,"Men's Street Footwear",70,600,42000.00,12600.00,In-store,0.4900,21420.00,20580.00
+707,1128299,"West Gear",2020-07-14,West,Washington,Seattle,"Men's Athletic Footwear",75,600,45000.00,11250.00,In-store,0.4900,22950.00,22050.00
+708,1128299,"West Gear",2020-07-14,West,Washington,Seattle,"Men's Athletic Footwear",71,174,12354.00,432.00,Online,0.4900,6300.54,6053.46
+709,1128299,"West Gear",2020-07-15,West,Washington,Seattle,"Women's Street Footwear",63,135,8505.00,315.00,Online,0.4900,4337.55,4167.45
+710,1128299,"West Gear",2020-07-15,West,Washington,Seattle,"Women's Street Footwear",70,450,31500.00,7875.00,In-store,0.4900,16065.00,15435.00
+711,1128299,"West Gear",2020-07-16,West,Washington,Seattle,"Women's Athletic Footwear",67,112,7504.00,300.00,Online,0.4900,3827.04,3676.96
+712,1128299,"West Gear",2020-07-16,West,Washington,Seattle,"Women's Athletic Footwear",70,400,28000.00,8400.00,In-store,0.4900,14280.00,13720.00
+713,1128299,"West Gear",2020-07-17,West,Washington,Seattle,"Men's Apparel",80,425,34000.00,8500.00,In-store,0.4900,17340.00,16660.00
+714,1128299,"West Gear",2020-07-17,West,Washington,Seattle,"Men's Apparel",72,111,7992.00,320.00,Online,0.4900,4075.92,3916.08
+715,1128299,"West Gear",2020-07-18,West,Washington,Seattle,"Women's Apparel",62,113,7006.00,245.00,Online,0.4900,3573.06,3432.94
+716,1128299,"West Gear",2020-07-18,West,Washington,Seattle,"Women's Apparel",65,450,29250.00,5850.00,In-store,0.4900,14917.50,14332.50
+717,1185732,Walmart,2020-07-18,Northeast,"New York","New York","Women's Apparel",48,340,16320.00,490.00,Outlet,0.4900,8323.20,7996.80
+718,1185732,Walmart,2020-07-18,Northeast,"New York","New York","Women's Apparel",68,290,19720.00,690.00,Online,0.4900,10057.20,9662.80
+719,1185732,Walmart,2020-07-18,Northeast,"New York","New York","Women's Apparel",70,1000,70000.00,17500.00,Outlet,0.4900,35700.00,34300.00
+720,1128299,"West Gear",2020-07-19,West,Washington,Seattle,"Men's Street Footwear",60,550,33000.00,9900.00,In-store,0.4900,16830.00,16170.00
+721,1128299,"West Gear",2020-07-19,West,Washington,Seattle,"Men's Street Footwear",58,149,8642.00,346.00,Online,0.4900,4407.42,4234.58
+722,1128299,"Sports Direct",2020-07-19,Northeast,"New York","New York","Men's Street Footwear",25,900,22500.00,7875.00,Outlet,0.4900,11475.00,11025.00
+723,1128299,"Sports Direct",2020-07-19,Northeast,"New York","New York","Men's Street Footwear",20,270,5400.00,211.00,Outlet,0.4900,2754.00,2646.00
+724,1128299,"Sports Direct",2020-07-19,Northeast,"New York","New York","Men's Street Footwear",24,234,5616.00,264.00,Online,0.4900,2864.16,2751.84
+725,1128299,"West Gear",2020-07-20,West,Washington,Seattle,"Men's Athletic Footwear",64,138,8832.00,327.00,Online,0.4900,4504.32,4327.68
+726,1128299,"West Gear",2020-07-20,West,Washington,Seattle,"Men's Athletic Footwear",65,550,35750.00,8938.00,In-store,0.4900,18232.50,17517.50
+727,1128299,"Sports Direct",2020-07-20,Northeast,"New York","New York","Men's Athletic Footwear",34,225,7650.00,375.00,Online,0.4900,3901.50,3748.50
+728,1128299,"Sports Direct",2020-07-20,Northeast,"New York","New York","Men's Athletic Footwear",26,270,7020.00,260.00,Outlet,0.4900,3580.20,3439.80
+729,1128299,"Sports Direct",2020-07-20,Northeast,"New York","New York","Men's Athletic Footwear",35,900,31500.00,11025.00,Outlet,0.4900,16065.00,15435.00
+730,1128299,"West Gear",2020-07-21,West,Washington,Seattle,"Women's Street Footwear",56,113,6328.00,228.00,Online,0.4900,3227.28,3100.72
+731,1128299,"West Gear",2020-07-21,West,Washington,Seattle,"Women's Street Footwear",60,375,22500.00,5625.00,In-store,0.4900,11475.00,11025.00
+732,1128299,"Sports Direct",2020-07-21,Northeast,"New York","New York","Women's Street Footwear",27,238,6426.00,251.00,Outlet,0.4900,3277.26,3148.74
+733,1128299,"Sports Direct",2020-07-21,Northeast,"New York","New York","Women's Street Footwear",33,210,6930.00,319.00,Online,0.4900,3534.30,3395.70
+734,1128299,"Sports Direct",2020-07-21,Northeast,"New York","New York","Women's Street Footwear",35,700,24500.00,8575.00,Outlet,0.4900,12495.00,12005.00
+735,1128299,"West Gear",2020-07-22,West,Washington,Seattle,"Women's Athletic Footwear",60,350,21000.00,6300.00,In-store,0.4900,10710.00,10290.00
+736,1128299,"West Gear",2020-07-22,West,Washington,Seattle,"Women's Athletic Footwear",58,98,5684.00,250.00,Online,0.4900,2898.84,2785.16
+737,1128299,"Sports Direct",2020-07-22,Northeast,"New York","New York","Women's Athletic Footwear",35,700,24500.00,11025.00,Outlet,0.4900,12495.00,12005.00
+738,1128299,"Sports Direct",2020-07-22,Northeast,"New York","New York","Women's Athletic Footwear",27,210,5670.00,295.00,Outlet,0.4900,2891.70,2778.30
+739,1128299,"Sports Direct",2020-07-22,Northeast,"New York","New York","Women's Athletic Footwear",34,175,5950.00,327.00,Online,0.4900,3034.50,2915.50
+740,1128299,"West Gear",2020-07-23,West,Washington,Seattle,"Men's Apparel",69,94,6486.00,227.00,Online,0.4900,3307.86,3178.14
+741,1128299,"West Gear",2020-07-23,West,Washington,Seattle,"Men's Apparel",70,325,22750.00,5688.00,In-store,0.4900,11602.50,11147.50
+742,1128299,"Sports Direct",2020-07-23,South,Texas,Houston,"Men's Apparel",36,154,5544.00,238.00,Online,0.4900,2827.44,2716.56
+743,1128299,"Sports Direct",2020-07-23,South,Texas,Houston,"Men's Apparel",40,550,22000.00,6600.00,Outlet,0.4900,11220.00,10780.00
+744,1128299,"Sports Direct",2020-07-23,South,Texas,Houston,"Men's Apparel",26,176,4576.00,156.00,Outlet,0.4900,2333.76,2242.24
+745,1128299,"West Gear",2020-07-24,West,Washington,Seattle,"Women's Apparel",75,375,28125.00,5625.00,In-store,0.4900,14343.75,13781.25
+746,1128299,"West Gear",2020-07-24,West,Washington,Seattle,"Women's Apparel",71,101,7171.00,251.00,Online,0.4900,3657.21,3513.79
+747,1128299,"Sports Direct",2020-07-24,South,Texas,Houston,"Women's Apparel",25,224,5600.00,314.00,Outlet,0.4900,2856.00,2744.00
+748,1128299,"Sports Direct",2020-07-24,South,Texas,Houston,"Women's Apparel",34,203,6902.00,442.00,Online,0.4900,3520.02,3381.98
+749,1128299,"Sports Direct",2020-07-24,South,Texas,Houston,"Women's Apparel",35,700,24500.00,12250.00,Outlet,0.4900,12495.00,12005.00
+750,1128299,"West Gear",2020-07-25,West,Washington,Seattle,"Men's Street Footwear",60,600,36000.00,10800.00,In-store,0.4900,18360.00,17640.00
+751,1128299,"West Gear",2020-07-25,West,Washington,Seattle,"Men's Street Footwear",54,162,8748.00,385.00,Online,0.4900,4461.48,4286.52
+752,1128299,"Sports Direct",2020-07-25,South,Texas,Houston,"Men's Street Footwear",25,850,21250.00,7438.00,Outlet,0.4900,10837.50,10412.50
+753,1128299,"Sports Direct",2020-07-25,South,Texas,Houston,"Men's Street Footwear",23,213,4899.00,245.00,Online,0.4900,2498.49,2400.51
+754,1128299,"Sports Direct",2020-07-25,South,Texas,Houston,"Men's Street Footwear",20,255,5100.00,209.00,Outlet,0.4900,2601.00,2499.00
+755,1128299,"West Gear",2020-07-26,West,Washington,Seattle,"Men's Athletic Footwear",60,188,11280.00,417.00,Online,0.4900,5752.80,5527.20
+756,1128299,"West Gear",2020-07-26,West,Washington,Seattle,"Men's Athletic Footwear",65,625,40625.00,10156.00,In-store,0.4900,20718.75,19906.25
+757,1128299,"Sports Direct",2020-07-26,South,Texas,Houston,"Men's Athletic Footwear",35,850,29750.00,10413.00,Outlet,0.4900,15172.50,14577.50
+758,1128299,"Sports Direct",2020-07-26,South,Texas,Houston,"Men's Athletic Footwear",33,255,8415.00,379.00,Online,0.4900,4291.65,4123.35
+759,1128299,"Sports Direct",2020-07-26,South,Texas,Houston,"Men's Athletic Footwear",23,289,6647.00,279.00,Outlet,0.4900,3389.97,3257.03
+760,1128299,"West Gear",2020-07-27,West,Washington,Seattle,"Women's Street Footwear",60,475,28500.00,7125.00,In-store,0.4900,14535.00,13965.00
+761,1128299,"West Gear",2020-07-27,West,Washington,Seattle,"Women's Street Footwear",54,124,6696.00,248.00,Online,0.4900,3414.96,3281.04
+762,1128299,"Sports Direct",2020-07-27,South,Texas,Houston,"Women's Street Footwear",27,236,6372.00,261.00,Outlet,0.4900,3249.72,3122.28
+763,1128299,"Sports Direct",2020-07-27,South,Texas,Houston,"Women's Street Footwear",32,176,5632.00,253.00,Online,0.4900,2872.32,2759.68
+764,1128299,"West Gear",2020-07-28,West,Washington,Seattle,"Women's Athletic Footwear",69,117,8073.00,347.00,Online,0.4900,4117.23,3955.77
+765,1128299,"West Gear",2020-07-28,West,Washington,Seattle,"Women's Athletic Footwear",70,450,31500.00,9450.00,In-store,0.4900,16065.00,15435.00
+766,1128299,"Sports Direct",2020-07-28,South,Texas,Houston,"Women's Athletic Footwear",35,625,21875.00,9844.00,Outlet,0.4900,11156.25,10718.75
+767,1128299,"Sports Direct",2020-07-28,South,Texas,Houston,"Women's Athletic Footwear",26,213,5538.00,277.00,Outlet,0.4900,2824.38,2713.62
+768,1128299,"Sports Direct",2020-07-28,South,Texas,Houston,"Women's Athletic Footwear",34,175,5950.00,357.00,Online,0.4900,3034.50,2915.50
+769,1128299,"West Gear",2020-07-29,West,Washington,Seattle,"Men's Apparel",85,115,9775.00,391.00,Online,0.4900,4985.25,4789.75
+770,1128299,"West Gear",2020-07-29,West,Washington,Seattle,"Men's Apparel",90,425,38250.00,9563.00,In-store,0.4900,19507.50,18742.50
+771,1128299,"Sports Direct",2020-07-29,South,Texas,Houston,"Men's Apparel",38,125,4750.00,214.00,Online,0.4900,2422.50,2327.50
+772,1128299,"Sports Direct",2020-07-29,South,Texas,Houston,"Men's Apparel",28,160,4480.00,148.00,Outlet,0.4900,2284.80,2195.20
+773,1128299,"Sports Direct",2020-07-29,South,Texas,Houston,"Men's Apparel",40,500,20000.00,6000.00,Outlet,0.4900,10200.00,9800.00
+774,1128299,"West Gear",2020-07-30,West,Washington,Seattle,"Women's Apparel",95,550,52250.00,10450.00,In-store,0.4900,26647.50,25602.50
+775,1128299,"West Gear",2020-07-30,West,Washington,Seattle,"Women's Apparel",88,138,12144.00,376.00,Online,0.4900,6193.44,5950.56
+776,1128299,"Sports Direct",2020-07-30,South,Texas,Houston,"Women's Apparel",35,700,24500.00,12250.00,Outlet,0.4900,12495.00,12005.00
+777,1128299,"Sports Direct",2020-07-30,South,Texas,Houston,"Women's Apparel",34,196,6664.00,420.00,Online,0.4900,3398.64,3265.36
+778,1128299,"Sports Direct",2020-07-30,South,Texas,Houston,"Women's Apparel",26,231,6006.00,330.00,Outlet,0.4900,3063.06,2942.94
+779,1128299,"West Gear",2020-07-31,West,Washington,Seattle,"Men's Street Footwear",78,188,14664.00,587.00,Online,0.4900,7478.64,7185.36
+780,1128299,"West Gear",2020-07-31,West,Washington,Seattle,"Men's Street Footwear",80,750,60000.00,18000.00,In-store,0.4900,30600.00,29400.00
+781,1128299,"Sports Direct",2020-07-31,South,Texas,Houston,"Men's Street Footwear",20,306,6120.00,257.00,Outlet,0.4900,3121.20,2998.80
+782,1128299,"Sports Direct",2020-07-31,South,Texas,Houston,"Men's Street Footwear",29,254,7366.00,331.00,Online,0.4900,3756.66,3609.34
+783,1128299,"Sports Direct",2020-07-31,South,Texas,Houston,"Men's Street Footwear",30,875,26250.00,9188.00,Outlet,0.4900,13387.50,12862.50
+784,1128299,"West Gear",2020-08-01,West,Washington,Seattle,"Men's Athletic Footwear",77,195,15015.00,571.00,Online,0.4900,7657.65,7357.35
+785,1128299,"West Gear",2020-08-01,West,Washington,Seattle,"Men's Athletic Footwear",85,750,63750.00,15938.00,In-store,0.4900,32512.50,31237.50
+786,1128299,"Sports Direct",2020-08-01,South,Texas,Houston,"Men's Athletic Footwear",39,236,9204.00,414.00,Online,0.4900,4694.04,4509.96
+787,1128299,"Sports Direct",2020-08-01,South,Texas,Houston,"Men's Athletic Footwear",30,263,7890.00,308.00,Outlet,0.4900,4023.90,3866.10
+788,1128299,"West Gear",2020-08-02,West,Washington,Seattle,"Women's Street Footwear",80,550,44000.00,11000.00,In-store,0.4900,22440.00,21560.00
+789,1128299,"West Gear",2020-08-02,West,Washington,Seattle,"Women's Street Footwear",73,138,10074.00,393.00,Online,0.4900,5137.74,4936.26
+790,1128299,"Sports Direct",2020-08-02,South,Texas,Houston,"Women's Street Footwear",23,224,5152.00,216.00,Outlet,0.4900,2627.52,2524.48
+791,1128299,"Sports Direct",2020-08-02,South,Texas,Houston,"Women's Street Footwear",32,182,5824.00,285.00,Online,0.4900,2970.24,2853.76
+792,1128299,"Sports Direct",2020-08-02,South,Texas,Houston,"Women's Street Footwear",35,700,24500.00,8575.00,Outlet,0.4900,12495.00,12005.00
+793,1128299,"West Gear",2020-08-03,West,Washington,Seattle,"Women's Athletic Footwear",80,550,44000.00,13200.00,In-store,0.4900,22440.00,21560.00
+794,1128299,"West Gear",2020-08-03,West,Washington,Seattle,"Women's Athletic Footwear",76,138,10488.00,451.00,Online,0.4900,5348.88,5139.12
+795,1128299,"Sports Direct",2020-08-03,South,Texas,Houston,"Women's Athletic Footwear",37,174,6438.00,373.00,Online,0.4900,3283.38,3154.62
+796,1128299,"Sports Direct",2020-08-03,South,Texas,Houston,"Women's Athletic Footwear",40,600,24000.00,10800.00,Outlet,0.4900,12240.00,11760.00
+797,1128299,"Sports Direct",2020-08-03,South,Texas,Houston,"Women's Athletic Footwear",30,204,6120.00,294.00,Outlet,0.4900,3121.20,2998.80
+798,1128299,"West Gear",2020-08-04,West,Washington,Seattle,"Men's Apparel",82,133,10906.00,414.00,Online,0.4900,5562.06,5343.94
+799,1128299,"West Gear",2020-08-04,West,Washington,Seattle,"Men's Apparel",90,475,42750.00,10688.00,In-store,0.4900,21802.50,20947.50
+800,1128299,"Sports Direct",2020-08-04,South,Texas,Houston,"Men's Apparel",45,500,22500.00,6750.00,Outlet,0.4900,11475.00,11025.00
+801,1128299,"Sports Direct",2020-08-04,South,Texas,Houston,"Men's Apparel",35,155,5425.00,174.00,Outlet,0.4900,2766.75,2658.25
+802,1128299,"Sports Direct",2020-08-04,South,Texas,Houston,"Men's Apparel",41,125,5125.00,205.00,Online,0.4900,2613.75,2511.25
+803,1128299,"West Gear",2020-08-05,West,Washington,Seattle,"Women's Apparel",86,150,12900.00,439.00,Online,0.4900,6579.00,6321.00
+804,1128299,"West Gear",2020-08-05,West,Washington,Seattle,"Women's Apparel",95,575,54625.00,10925.00,In-store,0.4900,27858.75,26766.25
+805,1128299,"Sports Direct",2020-08-05,South,Texas,Houston,"Women's Apparel",40,650,26000.00,13000.00,Outlet,0.4900,13260.00,12740.00
+806,1128299,"Sports Direct",2020-08-05,South,Texas,Houston,"Women's Apparel",29,228,6612.00,364.00,Outlet,0.4900,3372.12,3239.88
+807,1128299,"Sports Direct",2020-08-05,South,Texas,Houston,"Women's Apparel",39,189,7371.00,442.00,Online,0.4900,3759.21,3611.79
+808,1185732,"Foot Locker",2020-08-06,West,Washington,Seattle,"Men's Street Footwear",44,273,12012.00,661.00,Online,0.4900,6126.12,5885.88
+809,1185732,"Foot Locker",2020-08-06,West,Washington,Seattle,"Men's Street Footwear",45,1050,47250.00,21263.00,In-store,0.4900,24097.50,23152.50
+810,1128299,"Sports Direct",2020-08-06,South,Texas,Houston,"Men's Street Footwear",30,900,27000.00,9450.00,Outlet,0.4900,13770.00,13230.00
+811,1128299,"Sports Direct",2020-08-06,South,Texas,Houston,"Men's Street Footwear",27,234,6318.00,303.00,Online,0.4900,3222.18,3095.82
+812,1128299,"Sports Direct",2020-08-06,South,Texas,Houston,"Men's Street Footwear",23,306,7038.00,260.00,Outlet,0.4900,3589.38,3448.62
+813,1185732,"Foot Locker",2020-08-07,West,Washington,Seattle,"Men's Athletic Footwear",41,221,9061.00,444.00,Online,0.4900,4621.11,4439.89
+814,1185732,"Foot Locker",2020-08-07,West,Washington,Seattle,"Men's Athletic Footwear",45,850,38250.00,13388.00,In-store,0.4900,19507.50,18742.50
+815,1128299,"Sports Direct",2020-08-07,South,Texas,Houston,"Men's Athletic Footwear",29,306,8874.00,364.00,Outlet,0.4900,4525.74,4348.26
+816,1128299,"Sports Direct",2020-08-07,South,Texas,Houston,"Men's Athletic Footwear",38,225,8550.00,385.00,Online,0.4900,4360.50,4189.50
+817,1128299,"Sports Direct",2020-08-07,South,Texas,Houston,"Men's Athletic Footwear",40,900,36000.00,12600.00,Outlet,0.4900,18360.00,17640.00
+818,1185732,"Foot Locker",2020-08-08,West,Washington,Seattle,"Women's Street Footwear",34,230,7820.00,305.00,Online,0.4900,3988.20,3831.80
+819,1185732,"Foot Locker",2020-08-08,West,Washington,Seattle,"Women's Street Footwear",35,850,29750.00,7438.00,In-store,0.4900,15172.50,14577.50
+820,1128299,"Sports Direct",2020-08-08,South,Texas,Houston,"Women's Street Footwear",35,725,25375.00,8881.00,Outlet,0.4900,12941.25,12433.75
+821,1128299,"Sports Direct",2020-08-08,South,Texas,Houston,"Women's Street Footwear",24,232,5568.00,206.00,Outlet,0.4900,2839.68,2728.32
+822,1128299,"Sports Direct",2020-08-08,South,Texas,Houston,"Women's Street Footwear",34,203,6902.00,317.00,Online,0.4900,3520.02,3381.98
+823,1185732,"Foot Locker",2020-08-09,West,Washington,Seattle,"Women's Athletic Footwear",40,700,28000.00,8400.00,In-store,0.4900,14280.00,13720.00
+824,1185732,"Foot Locker",2020-08-09,West,Washington,Seattle,"Women's Athletic Footwear",38,175,6650.00,266.00,Online,0.4900,3391.50,3258.50
+825,1128299,"Sports Direct",2020-08-09,South,Texas,Houston,"Women's Athletic Footwear",36,163,5868.00,346.00,Online,0.4900,2992.68,2875.32
+826,1128299,"Sports Direct",2020-08-09,South,Texas,Houston,"Women's Athletic Footwear",28,213,5964.00,286.00,Outlet,0.4900,3041.64,2922.36
+827,1128299,"Sports Direct",2020-08-09,South,Texas,Houston,"Women's Athletic Footwear",40,625,25000.00,11250.00,Outlet,0.4900,12750.00,12250.00
+828,1185732,"Foot Locker",2020-08-10,Southeast,Florida,Miami,"Men's Apparel",55,750,41250.00,14438.00,In-store,0.4900,21037.50,20212.50
+829,1185732,"Foot Locker",2020-08-10,Southeast,Florida,Miami,"Men's Apparel",50,195,9750.00,488.00,Online,0.4900,4972.50,4777.50
+830,1128299,Walmart,2020-08-10,South,Texas,Houston,"Men's Apparel",42,147,6174.00,259.00,Online,0.4900,3148.74,3025.26
+831,1128299,Walmart,2020-08-10,South,Texas,Houston,"Men's Apparel",34,179,6086.00,207.00,Outlet,0.4900,3103.86,2982.14
+832,1128299,Walmart,2020-08-10,South,Texas,Houston,"Men's Apparel",45,525,23625.00,7088.00,Outlet,0.4900,12048.75,11576.25
+833,1185732,"Foot Locker",2020-08-11,Southeast,Florida,Miami,"Women's Apparel",45,850,38250.00,19125.00,In-store,0.4900,19507.50,18742.50
+834,1185732,"Foot Locker",2020-08-11,Southeast,Florida,Miami,"Women's Apparel",41,247,10127.00,628.00,Online,0.4900,5164.77,4962.23
+835,1128299,Walmart,2020-08-11,South,Texas,Houston,"Women's Apparel",27,272,7344.00,404.00,Outlet,0.4900,3745.44,3598.56
+836,1128299,Walmart,2020-08-11,South,Texas,Houston,"Women's Apparel",39,232,9048.00,552.00,Online,0.4900,4614.48,4433.52
+837,1128299,Walmart,2020-08-11,South,Texas,Houston,"Women's Apparel",40,800,32000.00,16000.00,Outlet,0.4900,16320.00,15680.00
+838,1185732,"Foot Locker",2020-08-12,Southeast,Florida,Miami,"Men's Street Footwear",43,319,13717.00,782.00,Online,0.4900,6995.67,6721.33
+839,1185732,"Foot Locker",2020-08-12,Southeast,Florida,Miami,"Men's Street Footwear",45,1100,49500.00,22275.00,In-store,0.4900,25245.00,24255.00
+840,1128299,Walmart,2020-08-12,South,Texas,Houston,"Men's Street Footwear",30,925,27750.00,9713.00,Outlet,0.4900,14152.50,13597.50
+841,1128299,Walmart,2020-08-12,South,Texas,Houston,"Men's Street Footwear",29,268,7772.00,373.00,Online,0.4900,3963.72,3808.28
+842,1128299,Walmart,2020-08-12,South,Texas,Houston,"Men's Street Footwear",24,315,7560.00,295.00,Outlet,0.4900,3855.60,3704.40
+843,1185732,"Foot Locker",2020-08-13,Southeast,Florida,Miami,"Men's Athletic Footwear",43,195,8385.00,411.00,Online,0.4900,4276.35,4108.65
+844,1185732,"Foot Locker",2020-08-13,Southeast,Florida,Miami,"Men's Athletic Footwear",45,750,33750.00,11813.00,In-store,0.4900,17212.50,16537.50
+845,1128299,Walmart,2020-08-13,South,Texas,Houston,"Men's Athletic Footwear",30,287,8610.00,362.00,Outlet,0.4900,4391.10,4218.90
+846,1128299,Walmart,2020-08-13,South,Texas,Houston,"Men's Athletic Footwear",38,259,9842.00,453.00,Online,0.4900,5019.42,4822.58
+847,1128299,Walmart,2020-08-13,South,Texas,Houston,"Men's Athletic Footwear",40,925,37000.00,12950.00,Outlet,0.4900,18870.00,18130.00
+848,1185732,"Foot Locker",2020-08-14,Southeast,Florida,Miami,"Women's Street Footwear",32,240,7680.00,292.00,Online,0.4900,3916.80,3763.20
+849,1185732,"Foot Locker",2020-08-14,Southeast,Florida,Miami,"Women's Street Footwear",35,800,28000.00,7000.00,In-store,0.4900,14280.00,13720.00
+850,1128299,Walmart,2020-08-14,South,Texas,Houston,"Women's Street Footwear",35,775,27125.00,9494.00,Outlet,0.4900,13833.75,13291.25
+851,1128299,Walmart,2020-08-14,South,Texas,Houston,"Women's Street Footwear",23,240,5520.00,204.00,Outlet,0.4900,2815.20,2704.80
+852,1128299,Walmart,2020-08-14,South,Texas,Houston,"Women's Street Footwear",33,225,7425.00,356.00,Online,0.4900,3786.75,3638.25
+853,1185732,"West Gear",2020-08-15,Southeast,Florida,Miami,"Women's Athletic Footwear",40,675,27000.00,8100.00,In-store,0.4900,13770.00,13230.00
+854,1185732,"West Gear",2020-08-15,Southeast,Florida,Miami,"Women's Athletic Footwear",38,169,6422.00,283.00,Online,0.4900,3275.22,3146.78
+855,1128299,Walmart,2020-08-15,South,Texas,Houston,"Women's Athletic Footwear",39,189,7371.00,428.00,Online,0.4900,3759.21,3611.79
+856,1128299,Walmart,2020-08-15,South,Texas,Houston,"Women's Athletic Footwear",31,245,7595.00,387.00,Outlet,0.4900,3873.45,3721.55
+857,1128299,Walmart,2020-08-15,South,Texas,Houston,"Women's Athletic Footwear",40,700,28000.00,12600.00,Outlet,0.4900,14280.00,13720.00
+858,1185732,"Foot Locker",2020-08-16,Southeast,Florida,Miami,"Men's Apparel",55,750,41250.00,14438.00,In-store,0.4900,21037.50,20212.50
+859,1185732,"Foot Locker",2020-08-16,Southeast,Florida,Miami,"Men's Apparel",53,218,11554.00,555.00,Online,0.4900,5892.54,5661.46
+860,1128299,Walmart,2020-08-16,South,Texas,Houston,"Men's Apparel",35,180,6300.00,221.00,Outlet,0.4900,3213.00,3087.00
+861,1128299,Walmart,2020-08-16,South,Texas,Houston,"Men's Apparel",42,168,7056.00,282.00,Online,0.4900,3598.56,3457.44
+862,1128299,Walmart,2020-08-16,South,Texas,Houston,"Men's Apparel",45,600,27000.00,8100.00,Outlet,0.4900,13770.00,13230.00
+863,1185732,"Foot Locker",2020-08-17,Southeast,Florida,Miami,"Women's Apparel",45,850,38250.00,19125.00,In-store,0.4900,19507.50,18742.50
+864,1185732,"Foot Locker",2020-08-17,Southeast,Florida,Miami,"Women's Apparel",41,221,9061.00,589.00,Online,0.4900,4621.11,4439.89
+865,1128299,Walmart,2020-08-17,South,Texas,Houston,"Women's Apparel",32,295,9440.00,538.00,Outlet,0.4900,4814.40,4625.60
+866,1128299,Walmart,2020-08-17,South,Texas,Houston,"Women's Apparel",37,276,10212.00,643.00,Online,0.4900,5208.12,5003.88
+867,1128299,Walmart,2020-08-17,South,Texas,Houston,"Women's Apparel",40,950,38000.00,19000.00,Outlet,0.4900,19380.00,18620.00
+868,1185732,"Foot Locker",2020-08-18,Southeast,Florida,Miami,"Men's Street Footwear",41,268,10988.00,659.00,Online,0.4900,5603.88,5384.12
+869,1185732,"Foot Locker",2020-08-18,Southeast,Florida,Miami,"Men's Street Footwear",45,1070,48150.00,21668.00,In-store,0.4900,24556.50,23593.50
+870,1128299,Walmart,2020-08-18,South,Texas,Houston,"Men's Street Footwear",28,295,8260.00,339.00,Outlet,0.4900,4212.60,4047.40
+871,1128299,Walmart,2020-08-18,South,Texas,Houston,"Men's Street Footwear",39,238,9282.00,436.00,Online,0.4900,4733.82,4548.18
+872,1128299,Walmart,2020-08-18,South,Texas,Houston,"Men's Street Footwear",40,950,38000.00,13300.00,Outlet,0.4900,19380.00,18620.00
+873,1185732,"Foot Locker",2020-08-19,Southeast,Florida,Miami,"Men's Athletic Footwear",45,750,33750.00,11813.00,In-store,0.4900,17212.50,16537.50
+874,1185732,"Foot Locker",2020-08-19,Southeast,Florida,Miami,"Men's Athletic Footwear",42,225,9450.00,454.00,Online,0.4900,4819.50,4630.50
+875,1128299,Walmart,2020-08-19,South,Texas,Houston,"Men's Athletic Footwear",33,323,10659.00,448.00,Outlet,0.4900,5436.09,5222.91
+876,1128299,Walmart,2020-08-19,South,Texas,Houston,"Men's Athletic Footwear",42,238,9996.00,450.00,Online,0.4900,5097.96,4898.04
+877,1128299,Walmart,2020-08-19,South,Texas,Houston,"Men's Athletic Footwear",45,950,42750.00,14963.00,Outlet,0.4900,21802.50,20947.50
+878,1185732,"Foot Locker",2020-08-20,Southeast,Florida,Miami,"Women's Street Footwear",35,775,27125.00,6781.00,In-store,0.4900,13833.75,13291.25
+879,1185732,"Foot Locker",2020-08-20,Southeast,Florida,Miami,"Women's Street Footwear",32,217,6944.00,243.00,Online,0.4900,3541.44,3402.56
+880,1128299,Walmart,2020-08-20,South,Texas,Houston,"Women's Street Footwear",37,232,8584.00,421.00,Online,0.4900,4377.84,4206.16
+881,1128299,Walmart,2020-08-20,South,Texas,Houston,"Women's Street Footwear",27,264,7128.00,285.00,Outlet,0.4900,3635.28,3492.72
+882,1128299,Walmart,2020-08-20,South,Texas,Houston,"Women's Street Footwear",40,800,32000.00,11200.00,Outlet,0.4900,16320.00,15680.00
+883,1185732,"Foot Locker",2020-08-21,Southeast,Florida,Miami,"Women's Athletic Footwear",40,625,25000.00,7500.00,In-store,0.4900,12750.00,12250.00
+884,1185732,"Foot Locker",2020-08-21,Southeast,Florida,Miami,"Women's Athletic Footwear",36,175,6300.00,252.00,Online,0.4900,3213.00,3087.00
+885,1128299,Walmart,2020-08-21,South,Texas,Houston,"Women's Athletic Footwear",26,263,6838.00,328.00,Outlet,0.4900,3487.38,3350.62
+886,1128299,Walmart,2020-08-21,South,Texas,Houston,"Women's Athletic Footwear",38,203,7714.00,440.00,Online,0.4900,3934.14,3779.86
+887,1128299,Walmart,2020-08-21,South,Texas,Houston,"Women's Athletic Footwear",40,750,30000.00,13500.00,Outlet,0.4900,15300.00,14700.00
+888,1185732,"Foot Locker",2020-08-22,Southeast,Florida,Miami,"Men's Apparel",55,675,37125.00,12994.00,In-store,0.4900,18933.75,18191.25
+889,1185732,"Foot Locker",2020-08-22,Southeast,Florida,Miami,"Men's Apparel",53,182,9646.00,444.00,Online,0.4900,4919.46,4726.54
+890,1128299,Walmart,2020-08-22,South,Texas,Houston,"Men's Apparel",29,221,6409.00,205.00,Outlet,0.4900,3268.59,3140.41
+891,1128299,Walmart,2020-08-22,South,Texas,Houston,"Men's Apparel",41,169,6929.00,312.00,Online,0.4900,3533.79,3395.21
+892,1128299,Walmart,2020-08-22,South,Texas,Houston,"Men's Apparel",45,650,29250.00,8775.00,Outlet,0.4900,14917.50,14332.50
+893,1185732,"Foot Locker",2020-08-23,Southeast,Florida,Miami,"Women's Apparel",45,775,34875.00,17438.00,In-store,0.4900,17786.25,17088.75
+894,1185732,"Foot Locker",2020-08-23,Southeast,Florida,Miami,"Women's Apparel",42,225,9450.00,605.00,Online,0.4900,4819.50,4630.50
+895,1128299,Walmart,2020-08-23,South,Texas,Houston,"Women's Apparel",47,250,11750.00,752.00,Online,0.4900,5992.50,5757.50
+896,1128299,Walmart,2020-08-23,South,Texas,Houston,"Women's Apparel",38,350,13300.00,758.00,Outlet,0.4900,6783.00,6517.00
+897,1128299,Walmart,2020-08-23,South,Texas,Houston,"Women's Apparel",50,1000,50000.00,25000.00,Outlet,0.4900,25500.00,24500.00
+898,1128299,Walmart,2020-08-24,South,Texas,Houston,"Men's Street Footwear",29,295,8555.00,342.00,Outlet,0.4900,4363.05,4191.95
+899,1128299,Walmart,2020-08-24,South,Texas,Houston,"Men's Street Footwear",37,238,8806.00,396.00,Online,0.4900,4491.06,4314.94
+900,1128299,Walmart,2020-08-24,South,Texas,Houston,"Men's Street Footwear",40,950,38000.00,13300.00,Outlet,0.4900,19380.00,18620.00
+901,1128299,Walmart,2020-08-25,South,Texas,Houston,"Men's Athletic Footwear",45,950,42750.00,14963.00,Outlet,0.4900,21802.50,20947.50
+902,1128299,Walmart,2020-08-25,South,Texas,Houston,"Men's Athletic Footwear",42,238,9996.00,460.00,Online,0.4900,5097.96,4898.04
+903,1128299,Walmart,2020-08-25,South,Texas,Houston,"Men's Athletic Footwear",32,285,9120.00,383.00,Outlet,0.4900,4651.20,4468.80
+904,1128299,Walmart,2020-08-26,South,Texas,Houston,"Women's Street Footwear",29,374,10846.00,445.00,Outlet,0.4900,5531.46,5314.54
+905,1128299,Walmart,2020-08-26,South,Texas,Houston,"Women's Street Footwear",37,319,11803.00,531.00,Online,0.4900,6019.53,5783.47
+906,1128299,Walmart,2020-08-26,South,Texas,Houston,"Women's Street Footwear",40,1100,44000.00,15400.00,Outlet,0.4900,22440.00,21560.00
+907,1128299,Walmart,2020-08-27,South,Texas,Houston,"Women's Athletic Footwear",36,210,7560.00,454.00,Online,0.4900,3855.60,3704.40
+908,1128299,Walmart,2020-08-27,South,Texas,Houston,"Women's Athletic Footwear",28,224,6272.00,326.00,Outlet,0.4900,3198.72,3073.28
+909,1128299,Walmart,2020-08-27,South,Texas,Houston,"Women's Athletic Footwear",40,700,28000.00,12600.00,Outlet,0.4900,14280.00,13720.00
+910,1128299,Walmart,2020-08-28,South,Texas,Houston,"Men's Apparel",45,700,31500.00,9450.00,Outlet,0.4900,16065.00,15435.00
+911,1128299,Walmart,2020-08-28,South,Texas,Houston,"Men's Apparel",33,217,7161.00,258.00,Outlet,0.4900,3652.11,3508.89
+912,1128299,Walmart,2020-08-28,South,Texas,Houston,"Men's Apparel",41,196,8036.00,321.00,Online,0.4900,4098.36,3937.64
+913,1128299,Walmart,2020-08-29,South,Texas,Houston,"Women's Apparel",36,302,10872.00,565.00,Outlet,0.4900,5544.72,5327.28
+914,1128299,Walmart,2020-08-29,South,Texas,Houston,"Women's Apparel",47,293,13771.00,868.00,Online,0.4900,7023.21,6747.79
+915,1128299,Walmart,2020-08-29,South,Texas,Houston,"Women's Apparel",50,975,48750.00,24375.00,Outlet,0.4900,24862.50,23887.50
+916,1128299,Walmart,2020-08-30,South,Texas,Houston,"Men's Street Footwear",40,925,37000.00,12950.00,Outlet,0.4900,18870.00,18130.00
+917,1128299,Walmart,2020-08-30,South,Texas,Houston,"Men's Street Footwear",37,268,9916.00,486.00,Online,0.4900,5057.16,4858.84
+918,1128299,Walmart,2020-08-30,South,Texas,Houston,"Men's Street Footwear",27,305,8235.00,305.00,Outlet,0.4900,4199.85,4035.15
+919,1128299,Walmart,2020-08-31,South,Texas,Houston,"Men's Athletic Footwear",41,259,10619.00,478.00,Online,0.4900,5415.69,5203.31
+920,1128299,Walmart,2020-08-31,South,Texas,Houston,"Men's Athletic Footwear",33,305,10065.00,382.00,Outlet,0.4900,5133.15,4931.85
+921,1128299,Walmart,2020-08-31,South,Texas,Houston,"Men's Athletic Footwear",45,925,41625.00,14569.00,Outlet,0.4900,21228.75,20396.25
+922,1128299,Walmart,2020-09-01,South,Texas,Houston,"Women's Street Footwear",40,1100,44000.00,15400.00,Outlet,0.4900,22440.00,21560.00
+923,1128299,Walmart,2020-09-01,South,Texas,Houston,"Women's Street Footwear",39,297,11583.00,533.00,Online,0.4900,5907.33,5675.67
+924,1128299,Walmart,2020-09-01,South,Texas,Houston,"Women's Street Footwear",29,374,10846.00,445.00,Outlet,0.4900,5531.46,5314.54
+925,1128299,Walmart,2020-09-02,South,Texas,Houston,"Women's Athletic Footwear",38,189,7182.00,424.00,Online,0.4900,3662.82,3519.18
+926,1128299,Walmart,2020-09-02,South,Texas,Houston,"Women's Athletic Footwear",30,215,6450.00,310.00,Outlet,0.4900,3289.50,3160.50
+927,1128299,Walmart,2020-09-02,South,Texas,Houston,"Women's Athletic Footwear",40,650,26000.00,11700.00,Outlet,0.4900,13260.00,12740.00
+928,1128299,Walmart,2020-09-03,South,Texas,Houston,"Men's Apparel",45,650,29250.00,8775.00,Outlet,0.4900,14917.50,14332.50
+929,1128299,Walmart,2020-09-03,South,Texas,Houston,"Men's Apparel",35,228,7980.00,271.00,Outlet,0.4900,4069.80,3910.20
+930,1128299,Walmart,2020-09-03,South,Texas,Houston,"Men's Apparel",41,169,6929.00,277.00,Online,0.4900,3533.79,3395.21
+931,1128299,Walmart,2020-09-04,South,Texas,Houston,"Women's Apparel",50,900,45000.00,22500.00,Outlet,0.4900,22950.00,22050.00
+932,1128299,Walmart,2020-09-04,South,Texas,Houston,"Women's Apparel",46,225,10350.00,673.00,Online,0.4900,5278.50,5071.50
+933,1128299,Walmart,2020-09-04,South,Texas,Houston,"Women's Apparel",39,270,10530.00,569.00,Outlet,0.4900,5370.30,5159.70
+934,1128299,Walmart,2020-09-05,South,Texas,Houston,"Men's Street Footwear",33,264,8712.00,366.00,Outlet,0.4900,4443.12,4268.88
+935,1128299,Walmart,2020-09-05,South,Texas,Houston,"Men's Street Footwear",44,255,11220.00,539.00,Online,0.4900,5722.20,5497.80
+936,1128299,Walmart,2020-09-05,South,Texas,Houston,"Men's Street Footwear",45,850,38250.00,13388.00,Outlet,0.4900,19507.50,18742.50
+937,1128299,Walmart,2020-09-06,South,Texas,Houston,"Men's Athletic Footwear",45,850,38250.00,13388.00,Outlet,0.4900,19507.50,18742.50
+938,1128299,Walmart,2020-09-06,South,Texas,Houston,"Men's Athletic Footwear",32,255,8160.00,302.00,Outlet,0.4900,4161.60,3998.40
+939,1128299,Walmart,2020-09-06,South,Texas,Houston,"Men's Athletic Footwear",41,213,8733.00,402.00,Online,0.4900,4453.83,4279.17
+940,1185732,"West Gear",2020-09-07,Southeast,Florida,Miami,"Women's Street Footwear",49,208,10192.00,357.00,Online,0.4900,5197.92,4994.08
+941,1185732,"West Gear",2020-09-07,Southeast,Florida,Miami,"Women's Street Footwear",50,800,40000.00,10000.00,In-store,0.4900,20400.00,19600.00
+942,1128299,Walmart,2020-09-07,South,Texas,Houston,"Women's Street Footwear",46,234,10764.00,527.00,Online,0.4900,5489.64,5274.36
+943,1128299,Walmart,2020-09-07,South,Texas,Houston,"Women's Street Footwear",36,315,11340.00,431.00,Outlet,0.4900,5783.40,5556.60
+944,1128299,Walmart,2020-09-07,South,Texas,Houston,"Women's Street Footwear",50,900,45000.00,15750.00,Outlet,0.4900,22950.00,22050.00
+945,1185732,"West Gear",2020-09-08,Southeast,Florida,Miami,"Women's Athletic Footwear",50,775,38750.00,11625.00,In-store,0.4900,19762.50,18987.50
+946,1185732,"West Gear",2020-09-08,Southeast,Florida,Miami,"Women's Athletic Footwear",47,217,10199.00,408.00,Online,0.4900,5201.49,4997.51
+947,1128299,Walmart,2020-09-08,South,Texas,Houston,"Women's Athletic Footwear",37,200,7400.00,370.00,Outlet,0.4900,3774.00,3626.00
+948,1128299,Walmart,2020-09-08,South,Texas,Houston,"Women's Athletic Footwear",47,181,8507.00,468.00,Online,0.4900,4338.57,4168.43
+949,1128299,Walmart,2020-09-08,South,Texas,Houston,"Women's Athletic Footwear",50,625,31250.00,14063.00,Outlet,0.4900,15937.50,15312.50
+950,1185732,"West Gear",2020-09-09,Southeast,Florida,Miami,"Men's Apparel",65,775,50375.00,17631.00,In-store,0.4900,25691.25,24683.75
+951,1185732,"West Gear",2020-09-09,Southeast,Florida,Miami,"Men's Apparel",62,233,14446.00,708.00,Online,0.4900,7367.46,7078.54
+952,1128299,Walmart,2020-09-09,South,Texas,Houston,"Men's Apparel",36,206,7416.00,267.00,Outlet,0.4900,3782.16,3633.84
+953,1128299,Walmart,2020-09-09,South,Texas,Houston,"Men's Apparel",45,625,28125.00,8438.00,Outlet,0.4900,14343.75,13781.25
+954,1128299,Walmart,2020-09-09,South,Texas,Houston,"Men's Apparel",44,175,7700.00,331.00,Online,0.4900,3927.00,3773.00
+955,1185732,"West Gear",2020-09-10,Southeast,Florida,Miami,"Women's Apparel",63,259,16317.00,1061.00,Online,0.4900,8321.67,7995.33
+956,1185732,"West Gear",2020-09-10,Southeast,Florida,Miami,"Women's Apparel",70,925,64750.00,32375.00,In-store,0.4900,33022.50,31727.50
+957,1128299,Walmart,2020-09-10,South,Texas,Houston,"Women's Apparel",42,298,12516.00,713.00,Outlet,0.4900,6383.16,6132.84
+958,1128299,Walmart,2020-09-10,South,Texas,Houston,"Women's Apparel",50,213,10650.00,682.00,Online,0.4900,5431.50,5218.50
+959,1128299,Walmart,2020-09-10,South,Texas,Houston,"Women's Apparel",55,850,46750.00,23375.00,Outlet,0.4900,23842.50,22907.50
+960,1185732,"West Gear",2020-09-11,Southeast,Florida,Miami,"Men's Street Footwear",65,1150,74750.00,33638.00,In-store,0.4900,38122.50,36627.50
+961,1185732,"West Gear",2020-09-11,Southeast,Florida,Miami,"Men's Street Footwear",60,299,17940.00,1076.00,Online,0.4900,9149.40,8790.60
+962,1128299,Walmart,2020-09-11,South,Texas,Houston,"Men's Street Footwear",44,240,10560.00,528.00,Online,0.4900,5385.60,5174.40
+963,1128299,Walmart,2020-09-11,South,Texas,Houston,"Men's Street Footwear",31,272,8432.00,329.00,Outlet,0.4900,4300.32,4131.68
+964,1128299,Walmart,2020-09-11,South,Texas,Houston,"Men's Street Footwear",45,800,36000.00,12600.00,Outlet,0.4900,18360.00,17640.00
+965,1185732,"West Gear",2020-09-12,Southeast,Florida,Miami,"Men's Athletic Footwear",57,225,12825.00,590.00,Online,0.4900,6540.75,6284.25
+966,1185732,"West Gear",2020-09-12,Southeast,Florida,Miami,"Men's Athletic Footwear",60,900,54000.00,18900.00,In-store,0.4900,27540.00,26460.00
+967,1128299,Walmart,2020-09-12,South,Texas,Houston,"Men's Athletic Footwear",45,800,36000.00,12600.00,Outlet,0.4900,18360.00,17640.00
+968,1128299,Walmart,2020-09-12,South,Texas,Houston,"Men's Athletic Footwear",29,248,7192.00,280.00,Outlet,0.4900,3667.92,3524.08
+969,1128299,Walmart,2020-09-12,South,Texas,Houston,"Men's Athletic Footwear",43,216,9288.00,437.00,Online,0.4900,4736.88,4551.12
+970,1185732,"West Gear",2020-09-13,Southeast,Florida,Miami,"Women's Street Footwear",50,215,10750.00,398.00,Online,0.4900,5482.50,5267.50
+971,1185732,"West Gear",2020-09-13,Southeast,Florida,Miami,"Women's Street Footwear",55,825,45375.00,11344.00,In-store,0.4900,23141.25,22233.75
+972,1128299,Walmart,2020-09-13,South,Texas,Houston,"Women's Street Footwear",50,750,37500.00,13125.00,Outlet,0.4900,19125.00,18375.00
+973,1128299,Walmart,2020-09-13,South,Texas,Houston,"Women's Street Footwear",48,188,9024.00,424.00,Online,0.4900,4602.24,4421.76
+974,1128299,Walmart,2020-09-13,South,Texas,Houston,"Women's Street Footwear",39,255,9945.00,368.00,Outlet,0.4900,5071.95,4873.05
+975,1185732,"West Gear",2020-09-14,Southeast,Florida,Miami,"Women's Athletic Footwear",53,233,12349.00,531.00,Online,0.4900,6297.99,6051.01
+976,1185732,"West Gear",2020-09-14,Southeast,Florida,Miami,"Women's Athletic Footwear",55,775,42625.00,12788.00,In-store,0.4900,21738.75,20886.25
+977,1128299,Walmart,2020-09-14,South,Texas,Houston,"Women's Athletic Footwear",50,600,30000.00,13500.00,Outlet,0.4900,15300.00,14700.00
+978,1128299,Walmart,2020-09-14,South,Texas,Houston,"Women's Athletic Footwear",36,204,7344.00,345.00,Outlet,0.4900,3745.44,3598.56
+979,1128299,Walmart,2020-09-14,South,Texas,Houston,"Women's Athletic Footwear",45,168,7560.00,438.00,Online,0.4900,3855.60,3704.40
+980,1185732,"West Gear",2020-09-15,Southeast,Florida,Miami,"Men's Apparel",65,800,52000.00,18200.00,In-store,0.4900,26520.00,25480.00
+981,1185732,"West Gear",2020-09-15,Southeast,Florida,Miami,"Men's Apparel",61,208,12688.00,622.00,Online,0.4900,6470.88,6217.12
+982,1128299,Walmart,2020-09-15,South,Texas,Houston,"Men's Apparel",42,150,6300.00,258.00,Online,0.4900,3213.00,3087.00
+983,1128299,Walmart,2020-09-15,South,Texas,Houston,"Men's Apparel",35,184,6440.00,238.00,Outlet,0.4900,3284.40,3155.60
+984,1128299,Walmart,2020-09-15,South,Texas,Houston,"Men's Apparel",45,575,25875.00,7763.00,Outlet,0.4900,13196.25,12678.75
+985,1185732,"West Gear",2020-09-16,Southeast,Florida,Miami,"Women's Apparel",67,244,16348.00,1063.00,Online,0.4900,8337.48,8010.52
+986,1185732,"West Gear",2020-09-16,Southeast,Florida,Miami,"Women's Apparel",70,975,68250.00,34125.00,In-store,0.4900,34807.50,33442.50
+987,1128299,Walmart,2020-09-16,South,Texas,Houston,"Women's Apparel",43,233,10019.00,541.00,Outlet,0.4900,5109.69,4909.31
+988,1128299,Walmart,2020-09-16,South,Texas,Houston,"Women's Apparel",53,210,11130.00,690.00,Online,0.4900,5676.30,5453.70
+989,1128299,Walmart,2020-09-16,South,Texas,Houston,"Women's Apparel",55,750,41250.00,20625.00,Outlet,0.4900,21037.50,20212.50
+990,1185732,"West Gear",2020-09-17,Southeast,Florida,Miami,"Men's Street Footwear",60,304,18240.00,1040.00,Online,0.4900,9302.40,8937.60
+991,1185732,"West Gear",2020-09-17,Southeast,Florida,Miami,"Men's Street Footwear",65,1125,73125.00,32906.00,In-store,0.4900,37293.75,35831.25
+992,1185732,"West Gear",2020-09-18,Southeast,Florida,Miami,"Men's Athletic Footwear",60,900,54000.00,18900.00,In-store,0.4900,27540.00,26460.00
+993,1185732,"West Gear",2020-09-18,Southeast,Florida,Miami,"Men's Athletic Footwear",55,252,13860.00,624.00,Online,0.4900,7068.60,6791.40
+994,1185732,"West Gear",2020-09-19,Southeast,Florida,Miami,"Women's Street Footwear",53,231,12243.00,453.00,Online,0.4900,6243.93,5999.07
+995,1185732,"West Gear",2020-09-19,Southeast,Florida,Miami,"Women's Street Footwear",55,825,45375.00,11344.00,In-store,0.4900,23141.25,22233.75
+996,1185732,"Foot Locker",2020-09-20,Southeast,Florida,Miami,"Women's Athletic Footwear",45,775,34875.00,10463.00,In-store,0.4900,17786.25,17088.75
+997,1185732,"Foot Locker",2020-09-20,Southeast,Florida,Miami,"Women's Athletic Footwear",44,233,10252.00,410.00,Online,0.4900,5228.52,5023.48
+998,1185732,"Foot Locker",2020-09-21,Southeast,Florida,Miami,"Men's Apparel",52,225,11700.00,527.00,Online,0.4900,5967.00,5733.00
+999,1185732,"Foot Locker",2020-09-21,Southeast,Florida,Miami,"Men's Apparel",55,750,41250.00,14438.00,In-store,0.4900,21037.50,20212.50
+1000,1185732,"Foot Locker",2020-09-22,Southeast,Florida,Miami,"Women's Apparel",56,278,15568.00,950.00,Online,0.4900,7939.68,7628.32
