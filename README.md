@@ -39,46 +39,52 @@ To optimize for efficiency, the data was restructured into a **star schema** wit
 ## Data-Driven Insights
 
 ### DTC: Adidas' Main Growth Driver in 2021
-- Sales through adidas's US Direct-to-Consumer (DTC) channels have surged 182% since 2020, establishing them as the company's main source of growth.
-- This performance was fueled by a significant increase in both order volume and customer spending per transaction: the number of orders grew by 21%, while the Average Order Value (AOV) increased by 35%.
-- This trend indicates that the "Own the Game" strategy is resonating with consumers, who are increasingly choosing to shop directly from adidas.
+- Sales through adidas's US Direct-to-Consumer (DTC) channels have **surged 182%** since 2020, establishing them as the company's **main** source of growth.
+- This performance was **fueled by** a significant increase in both order volume and customer spending per transaction: the **number of orders grew by 111%**, while the **Average Order Value (AOV) increased by 51%**.
+- This trend indicates that the "Own the Game" strategy is **resonating with consumers**, who are increasingly choosing to shop directly from adidas.
 
 <img width="10338" height="4061" alt="insight-1" src="https://github.com/user-attachments/assets/ac17cdd4-cd5c-4b14-88a2-3d63c7068cc3" />
 
 ### Wholesale: Solid Reach, But Slower and Less Profitable in 2021
-- Adidas also sells to other stores on the wholesale channel. This channel is stable, but its growth is slow.
-- The data shows a key problem that even though wholesale handles a similar number of orders as DTC, it brings in $15 million less revenue (40M vs 55M). This happens because Adidas has to sell its products to other stores at a lower price.
+- Adidas also sells on the wholesale channel. This channel is stable, but its growth is slow.
+- The data shows a key problem that even though **wholesale handles a similar number of orders as DTC**, it brings in **$15 million less revenue** (40M vs 55M). This happens because Adidas has to **sell its products to other stores at a lower price**.
 - This indicates that wholesale is good for reaching customers everywhere, but it is simply not as profitable as selling directly to them. The primary reason is that selling to retailers requires offering substantial trade discounts that reduce margins.
 
 <img width="1892" height="769" alt="insight-2" src="https://github.com/user-attachments/assets/7345ea09-4ee0-4d71-a6a7-56a5e9f01e52" />
 
 ### Customer Retention on Women's Apparel in 2021
 
-- The "Own the Game" strategy has not created brand heat, but instead capitalized on what already exists. This is most evident in women's apparel, which is the top-performing category in both DTC and wholesale channels across 2020 and 2021.
-- The consistent, high demand across all retail formats confirms that adidas holds a dominant position in the US women's market. In other words, women love adidas, no matter where they shop.
+- The "Own the Game" strategy has not created new brand heat, but instead **capitalized on what already exists**. This is most evident in **women's apparel**, which is the top-performing category in both DTC and wholesale channels across 2020 and 2021.
+- The consistent, high demand across all retail formats confirms that adidas remains in the US women's market. In other words, **women still love adidas, no matter where they shop**.
 
 <img width="10338" height="4061" alt="insight-3" src="https://github.com/user-attachments/assets/2b0166c3-a67d-4c50-b087-2196c72c72f6" />
 
 ## Recommendations
-From the 2020–2022 data, focus on these four actionable steps:
+Based on 2020–2022 performance data, it is recommended that the following three strategic actions be taken to secure sustainable growth on DTC:
 
-1. **Push DTC as the growth focus**  
-   With 182% growth and strong customer pull, ramp up spending on our digital platforms and stores for quicker, higher-margin returns.
+1. **Cultivate DTC Customer Loyalty**
+- DTC grew 182%, but it is possible that many buyers only shop once.
+- To keep growth strong, we need them to buy again and again.
+- Therefore, launch a simple adidas **membership program** (Silver, Gold, Platinum) with real benefits, allowing Adidas to retain those customers.
+- At the same time, they should track the repeat purchase rate every month and keep improving the program.
+- It is expected to have a higher repeat rate → bigger DTC share → better profits than wholesale.
 
-2. **Optimize wholesale selectively**  
-   It provides visibility and volume, but low profits from discounts hurt us. Phase out poor performers and strengthen ties with those who maintain our pricing and image.
+![download](https://github.com/user-attachments/assets/3299bd47-534d-40c0-8f3a-16e910ae0a4b)   
 
-3. **Leverage Women's as a key strength**  
-   Top sales in both channels show genuine demand. Launch women-specific initiatives DTC-first to drive excitement, while supplying basics to solid wholesale accounts.
+2. **Clean up and manage wholesale smarter**
+- Wholesale gives Adidas reach, but heavy discounts hurt margins.
+- To avoid it, we need to put every wholesale partner into three groups using clear numbers, such as the Sell-through rate by season (How fast they sell our products), Average discount frequency (How much and how often they discount)
+- It is expected to have slowly cut the worst 20–30% of accounts over the next 2–3 years (the ones that only want cheap deals).
+- To achieve stronger pricing, higher margins, cleaner brand image.
 
-4. **Track smarter metrics**  
-   Move beyond total revenue. Monitor quarterly:  
-   - DTC share of sales (aim for 75–80% by 2027)  
-   - DTC full-price sales %  
-   - DTC customer repeat purchases  
-   - Margin gap between DTC and wholesale  
+5. **Leverage Women's as a key strength**
+- Women’s products are already our best sellers in both channels.
+- However, the heavy overlap between DTC and wholesale assortments can cause price competition and channel conflict, especially when wholesale discounts are more aggressive.
+- To avoid it, Adidas should keep launching special collections or gifts (e.g., artist collabs) that are only available when people buy directly on adidas.com or in our stores.
+-  It is expected to have more direct traffic, higher full-price sales, stronger connection with female customers.
+- Example that worked: G-SHOCK gave a free limited item when customers spent a certain amount on their own site – sales went up fast.
+<img width="616" height="441" alt="螢幕截圖 2025-11-25 下午9 24 10" src="https://github.com/user-attachments/assets/59d75139-c3cb-4037-a170-1d0135185d6e" />
 
-These moves will sustain growth, safeguard profits, and enhance our US brand position.
 
 ## Limitations & Next-Level Data Needs
 Our dataset excels at revenue trends but lacks depth on customer motivations and long-term sustainability.  
