@@ -1,0 +1,19 @@
+# ========================================================
+# Title: Download Required Libraries for Project
+# Usage: Help on download lib by 'pip install -r requirements.txt'
+# author：Kevin Leung
+# date: 2024-11-19
+# ========================================================
+
+yfinance
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
+tableauhyperapi 
+tableau-api-lib
+matplotlib
+seaborn
+openpyxl
+requests
+python-dotenv
