@@ -25,7 +25,7 @@ We used one clean dataset: [the adidas US Sales from Kaggle](https://www.kaggle.
 
 To optimize for efficiency, the data was restructured into a **star schema** with 7 tables (main sales fact table plus dimensions like date, product, channel, and region). This reduces memory use and speeds up analysis. In case you care about the SQL to build the database on MySQL, here is a quick guide on building the star schema is here (link).
 
-<img width="1602" height="893" alt="ERD-v2 drawio" src="https://github.com/user-attachments/assets/06bcddc0-f560-408e-a820-f251a2ae4f8c" />
+<img width="960" alt="ERD-v2 drawio" src="https://github.com/user-attachments/assets/06bcddc0-f560-408e-a820-f251a2ae4f8c" />
 
 ## Executive Summary
 
@@ -43,21 +43,21 @@ To optimize for efficiency, the data was restructured into a **star schema** wit
 - This performance was **fueled by** a significant increase in both order volume and customer spending per transaction: the **number of orders grew by 111%**, while the **Average Order Value (AOV) increased by 51%**.
 - This trend indicates that the "Own the Game" strategy is **resonating with consumers**, who are increasingly choosing to shop directly from adidas.
 
-<img width="10338" height="4061" alt="insight-1" src="https://github.com/user-attachments/assets/ac17cdd4-cd5c-4b14-88a2-3d63c7068cc3" />
+<img width="960" alt="insight-1" src="https://github.com/user-attachments/assets/ac17cdd4-cd5c-4b14-88a2-3d63c7068cc3" />
 
 ### Wholesale: Solid Reach, But Slower and Less Profitable in 2021
 - Adidas also sells on the wholesale channel. This channel is stable, but its growth is slow.
 - The data shows a key problem that even though **wholesale handles a similar number of orders as DTC**, it brings in **$15 million less revenue** (40M vs 55M). This happens because Adidas has to **sell its products to other stores at a lower price**.
 - This indicates that wholesale is good for reaching customers everywhere, but it is simply not as profitable as selling directly to them. The primary reason is that selling to retailers requires offering substantial trade discounts that reduce margins.
 
-<img width="1892" height="769" alt="insight-2" src="https://github.com/user-attachments/assets/7345ea09-4ee0-4d71-a6a7-56a5e9f01e52" />
+<img width="960" alt="insight-2" src="https://github.com/user-attachments/assets/7345ea09-4ee0-4d71-a6a7-56a5e9f01e52" />
 
 ### Customer Retention on Women's Apparel in 2021
 
 - The "Own the Game" strategy has not created new brand heat, but instead **capitalized on what already exists**. This is most evident in **women's apparel**, which is the top-performing category in both DTC and wholesale channels across 2020 and 2021.
 - The consistent, high demand across all retail formats confirms that adidas remains in the US women's market. In other words, **women still love adidas, no matter where they shop**.
 
-<img width="10338" height="4061" alt="insight-3" src="https://github.com/user-attachments/assets/2b0166c3-a67d-4c50-b087-2196c72c72f6" />
+<img width="960" alt="insight-3" src="https://github.com/user-attachments/assets/2b0166c3-a67d-4c50-b087-2196c72c72f6" />
 
 ## Recommendations
 Based on 2020–2022 performance data, it is recommended that the following three strategic actions be taken to secure sustainable growth on DTC:
