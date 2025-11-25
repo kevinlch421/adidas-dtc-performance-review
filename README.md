@@ -27,7 +27,7 @@ This report provides straightforward answers using real US sales data from DTC a
 ## About the Dataset
 We used one clean dataset: [the adidas US Sales from Kaggle](https://www.kaggle.com/datasets/sagarmorework/adidas-us-sales) (9,641 orders, 2020–2022).  
 
-To optimize for efficiency, the data was restructured into a **star schema** with 7 tables (main sales fact table plus dimensions like date, product, channel, and region). This reduces memory use and speeds up analysis. In case you care about the SQL to build the database on MySQL, here is a quick guide on building the star schema is here (link).
+To optimize for efficiency, the data was restructured into a **star schema** with 7 tables (main sales fact table plus dimensions like date, product, channel, and region). This reduces memory use and speeds up analysis. In case you care about the SQL to build the database on MySQL, here is a quick guide on building the star schema is here ([link](https://www.notion.so/Create-the-MySQL-database-from-Scratch-2b1e1e052cfc80bdb7e2ea6e0fe1b143?source=copy_link)).
 
 <p align="center">
 <img width="960" alt="ERD-v2 drawio" src="https://github.com/user-attachments/assets/06bcddc0-f560-408e-a820-f251a2ae4f8c" />
