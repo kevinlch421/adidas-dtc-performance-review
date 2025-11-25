@@ -36,7 +36,7 @@ To optimize for efficiency, the data was restructured into a **star schema** wit
 
 ## Executive Summary
 
-### Key Insights and Recommended
+### Key Insights and Recommendations
 - **DTC becomes Adidas growth driver**: +182% revenue since 2020, fueled by +21% more orders and +35% higher average order value (AOV). Adidas is suggested to prioritize DTC investments to keep this momentum.  
 - **Wholesale is still pricey**: DTC generates $55M in revenue vs. wholesale's $40M, despite similar volumes—wholesale lags by $15M due to trade discounts. Adidas is suggested to clean up wholesale partnerships selectively and negotiate better terms with retailers to protect margins.  
 - **Customer retention despite the shift**: Women's categories lead in both channels in 2021, showing we retain strong female customer loyalty through the shift. Adidas should keep targeting this segment to maintain the edge.
@@ -45,6 +45,11 @@ To optimize for efficiency, the data was restructured into a **star schema** wit
 <p align="center">
 <br><em>Dashbroad 1: Tableau DTC KPI Overview</em>
 </p>
+
+### Quick Coding resource
+- Here to download the tableau dashboard, ([link](https://github.com/kevinlch421/adidas-dtc-performance-review/tree/main/report/tableau-dash-file))
+- Here the document records the steps to normalize the database into a star schema in SQL, ([link](https://www.notion.so/Create-the-MySQL-database-from-Scratch-2b1e1e052cfc80bdb7e2ea6e0fe1b143?source=copy_link))
+- Here the document records the step in data cleaning, ([link](https://www.notion.so/Create-the-MySQL-database-from-Scratch-2b1e1e052cfc80bdb7e2ea6e0fe1b143?source=copy_link))
 
 ## Data-Driven Insights
 
