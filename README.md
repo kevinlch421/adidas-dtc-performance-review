@@ -127,5 +127,5 @@ To refine decisions, add these KPIs:
 | Marketing Efficiency | Cost Per Acquisition (CPA) – DTC | Ad cost per new DTC customer? | Ad platforms (e.g., Google, Meta) + CRM | Tracked per platform, not consolidated |
 | | Return on Ad Spend (ROAS) – DTC | Sales return per ad dollar? | Ad platforms + sales data | Tracked per campaign, not unified |
 
-## Conclusion:
+## Conclusion
 Adidas can unlock greater US growth by addressing clear performance gaps identified in FY 2020-21. The strategy is twofold: first, replicate the success of top-performing retailers and regions in underperforming areas like the Midwest. Second, fully leverage high-margin categories, particularly Women's Apparel, and optimize the online sales channel to drive sustainable profitability and expansion.
