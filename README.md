@@ -85,7 +85,7 @@ Based on 2020–2022 performance data, it is recommended that the following thre
 - It is expected to have a higher repeat rate → bigger DTC share → better profits than wholesale.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3299bd47-534d-40c0-8f3a-16e910ae0a4b" alt="adidas gift card" width="300" />
+  <img src="https://github.com/user-attachments/assets/9faf9a48-99b5-4a8a-94c4-e3098ef49736" alt="adi-card" width="450" />
   <br><em>Figure 5: Adidas membership card</em>
 </p>
 
@@ -96,7 +96,7 @@ Based on 2020–2022 performance data, it is recommended that the following thre
 - To achieve stronger pricing, higher margins, cleaner brand image.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/06c2dd64-daf3-44a0-b28c-c5c0901ce9d3" alt="DTC vs Wholesale comparison" width="350"/>
+  <img src="https://github.com/user-attachments/assets/06c2dd64-daf3-44a0-b28c-c5c0901ce9d3" alt="DTC vs Wholesale comparison" width="450"/>
   <br><em>Figure 6: suggested process of selecting wholesale</em>
 </p>
 
@@ -108,7 +108,7 @@ Based on 2020–2022 performance data, it is recommended that the following thre
 - Example that worked: G-SHOCK gave a free limited item when customers spent a certain amount on their own site – sales went up fast.
   
 <p align="center">
-<img width="250" alt="螢幕截圖 2025-11-25 下午9 24 10" src="https://github.com/user-attachments/assets/fc7a089b-9fbb-4095-bc63-a052b69655dc" />
+<img width="350" alt="螢幕截圖 2025-11-25 下午9 24 10" src="https://github.com/user-attachments/assets/fc7a089b-9fbb-4095-bc63-a052b69655dc" />
   <br><em>Figure 7: G-SHOCK strategy on DTC (2025)</em>
 </p>
 
