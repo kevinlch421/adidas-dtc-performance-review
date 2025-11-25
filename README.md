@@ -1,4 +1,4 @@
-# Adidas US Sales Channel Strategy Report
+# Adidas – "Own the Game" Strategy Review (2020-2022)
 
 ## Table of Contents
 
